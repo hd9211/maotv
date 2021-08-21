@@ -263,6 +263,23 @@
         "其他动漫"
       ]
     },
+    {
+     "key": "hjzy",
+    "name": "花椒资源",
+    "api": "https://apihjzy.com/api.php/Seacms/vod/",
+    "type": 0,
+     "jiexiUrl": "",
+    "playUrl": ""
+  }, 
+  {
+    "key": "sy",
+    "name": "shayu",
+    "api": "https://shayuapi.com/api.php/Seacms/vod/",
+    "type": 0,
+     "jiexiUrl": "",
+    "playUrl": ""
+  }, 
+  
  {
      "key": "jl",
     "name": "佳丽",
@@ -279,15 +296,15 @@
     "jiexiUrl": "",
    "playUrl": ""
   },
- {
-     "key": "sy",
-    "name": "shayu",
-    "api": "https://shayuapi.com/api.php/Seacms/vod/",
-     "type": 0,
+   {
+     "key": "wmcj8",
+    "name": "环亚资源",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "type": 0,
     "jiexiUrl": "",
-    "playUrl": ""
+   "playUrl": ""
   },
-{
+ {
       "key": "09蓝光影视",
       "name": "09蓝光影视",
       "type": 0,
