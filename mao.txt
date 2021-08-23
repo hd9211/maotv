@@ -1,7 +1,7 @@
 
 {
   "sites": [
-     {
+    {
       "key": "M3U8.TV",
       "name": "M3U8.TV",
       "type": 0,
@@ -49,7 +49,7 @@
         "纪录片"
       ]
     },
-    {
+      {
       "key": "柚子资源",
       "name": "柚子资源",
       "type": 0,
@@ -183,54 +183,54 @@
     {
      "key": "hjzy",
     "name": "花椒资源",
+    "type": 1,
     "api": "https://apihjzy.com/api.php/Seacms/vod/",
-    "type": 0,
      "jiexiUrl": "",
     "playUrl": ""
    }, 
    {
     "key": "sy",
     "name": "shayu",
+    "type": 1,
     "api": "https://shayuapi.com/api.php/Seacms/vod/",
-    "type": 0,
-     "jiexiUrl": "",
+    "jiexiUrl": "",
     "playUrl": ""
     }, 
     {
      "key": "jl",
     "name": "佳丽",
+    "type": 1,
     "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
-    "type": 0,
-     "jiexiUrl": "",
+    "jiexiUrl": "",
     "playUrl": ""
   },
     {
-       "key": "ugzyz",
+    "key": "ugzyz",
     "name": "优果资源站",
+    "type": 1,
     "api": "https://www.ugvapi.com/inc/zyapimac.php",
-    "type": 0,
     "jiexiUrl": "",
    "playUrl": ""
   },
    {
      "key": "wmcj8",
     "name": "环亚资源",
+    "type": 1,
     "api": "http://wmcj8.com/inc/sapi.php",
-    "type": 0,
-    "jiexiUrl": "",
+     "jiexiUrl": "",
    "playUrl": ""
   },
  {
       "key": "09蓝光影视",
       "name": "09蓝光影视",
-      "type": 0,
+      "type": 1,
       "api": "https://09tv.top/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
       "key": "yunboys.TV",
       "name": "yunboys.TV",
-      "type": 0,
+      "type": 1,
       "api": "http://api.yunboys.cn/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
@@ -251,7 +251,7 @@
     {
       "key": "白熊影视",
       "name": "白熊影视",
-      "type": 0,
+      "type": 1,
       "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
