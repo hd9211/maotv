@@ -264,27 +264,87 @@
             ]
         },
         {
-            "key": "jl",
+            "key": "佳丽",
             "name": "佳丽",
+            "type": 1,
             "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
-            "type": 0,
-            "jiexiUrl": "",
+            "playUrl": ""
+        },
+        {
+            "key": "乐播资源",
+            "name": "乐播资源",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+            "playUrl": ""
+        },
+        {
+            "key": "lyzy",
+            "name": "老鸭资源",
+            "type": 1,
+            "api": "https://api.apilyzy.com/api.php/Seacms/vod/",
+            "playUrl": ""
+        },
+        {
+            "key": "hjzy",
+            "name": "花椒资源",
+            "type": 1,
+            "api": "https://apihjzy.com/api.php/Seacms/vod/",
             "playUrl": ""
         },
         {
             "key": "ugzyz",
             "name": "优果资源站",
+            "type": 1,
             "api": "https://www.ugvapi.com/inc/zyapimac.php",
-            "type": 0,
-            "jiexiUrl": "",
+            "playUrl": ""
+        },
+        {
+            "key": "环亚资源",
+            "name": "环亚资源",
+            "type": 1,
+            "api": "http://wmcj8.com/inc/sapi.php",
             "playUrl": ""
         },
         {
             "key": "sy",
             "name": "shayu",
+            "type": 1,
             "api": "https://shayuapi.com/api.php/Seacms/vod/",
-            "type": 0,
-            "jiexiUrl": "",
+            "playUrl": ""
+        },
+        {
+            "key": "av888资源",
+            "name": "av888资源",
+            "type": 1,
+            "api": "http://m.7777688.com/inc/api.php",
+            "playUrl": ""
+        },
+        {
+            "key": "鲨鱼资源",
+            "name": "鲨鱼资源",
+            "type": 1,
+            "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+            "playUrl": ""
+        },
+        {
+            "key": "AV-大地资源",
+            "name": "AV-大地资源",
+            "type": 1,
+            "api": "https://dadiapi.com/api.php",
+            "playUrl": ""
+        },
+        {
+            "key": "AV-乐播资源",
+            "name": "AV-乐播资源",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+            "playUrl": ""
+        },
+        {
+            "key": "AV-苍天资源",
+            "name": "AV-苍天资源",
+            "type": 1,
+            "api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml/",
             "playUrl": ""
         },
         {
@@ -304,7 +364,7 @@
         {
             "key": "天堂影视",
             "name": "天堂影视",
-            "type": 0,
+            "type": 1,
             "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
             "playUrl": "https://vip.parwix.com:4433/player/?url="
         },
