@@ -313,6 +313,15 @@
             "playUrl": "",
             "categories": [               
             ]
+        },
+        {
+            "key": "77资源",
+            "name": "77资源",
+            "type": 0,
+            "api": "https://www.77zy.vip/inc/m3u8.php",
+            "playUrl": "",
+            "categories": [               
+            ]
         }
     ],
     "lives": [
