@@ -190,6 +190,20 @@
 		"categories": []
 	},
 	{
+		"key": "电影牛",
+		"name": "电影牛",
+		"type": 0,
+		"api": "https://www.dianyingn.com/api.php/provide/vod/",
+		"categories": []
+	},
+	{
+		"key": "爱看啦",
+		"name": "爱看啦",
+		"type": 0,
+		"api": "http://v.aik.la/api.php/provide/vod/",
+		"categories": []
+	},
+	{
 		"key": "人人资源",
 		"name": "人人资源",
 		"type": 0,
@@ -474,6 +488,13 @@
 		"name": "乐鱼资源",
 		"type": 0,
 		"api": "https://www.leyuzyapi.com/inc/apijson_vod.php",
+		"categories": []
+	},
+	{
+		"key": "水蜜桃",
+		"name": "水蜜桃",
+		"type": 0,
+		"api": "http://51smt4.xyz/api.php/provide/vod/",
 		"categories": []
 	},
 	{
