@@ -1434,255 +1434,223 @@
         }
     ],
   "parses": [
-    {
-      "name": "默认",
-      "url": "https://vip.bljiex.com/?v="
-    },
-    {
-      "name": "OK",
-      "url": "https://okjx.cc/?url="
-    },
-    {
-      "name": "急速",
-      "url": "https://www.kpezp.cn/jlexi.php?url="
-    },
-    {
-      "name": "智能1",
-      "url": "https://9kjx.com/?url="
-    },
-    {
-      "name": "智能2",
-      "url": "https://vip.kurumit3.top/?v="
-    },
-    {
-      "name": "7K",
-      "url": "https://jx.7kjx.com/?url="
-    },
-    {
-      "name": "星空",
-      "url": "http://60jx.com/?url="
-    },
-    {
-      "name": "虾米",
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "u猫",
-      "url": "http://jiex.cf/?url="
-    },
-    {
-      "name": "纯净解析",
-      "url": "https://z1.m1907.cn/?jx="
-    },
-    {
-      "name": "高速接口1",
-      "url": "https://jsap.attakids.com/?url="
-    },
-    {
-      "name": "B站解析1",
-      "url": "https://vip.parwix.com:4433/player/?url="
-    },
-    {
-      "name": "B站解析2",
-      "url": "https://www.cuan.la/m3u8.php?url="
-    },
-    {
-      "name": "Ckplayer",
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "name": "BL",
-      "url": "https://vip.bljiex.com/?v="
-    },
-    {
-      "name": "乐多资源",
-      "url": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="
-    },
-    {
-      "name": "ccyjjd",
-      "url": "https://ckmov.ccyjjd.com/ckmov/?url="
-    },
-    {
-      "name": "M3U8",
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "老板",
-      "url": "https://vip.laobandq.com/jiexi.php?url="
-    },
-    {
-      "name": "Mao解析",
-      "url": "https://qd.hxys.tv/m3u8.php?url="
-    },
-    {
-      "name": "盘古",
-      "url": "https://www.pangujiexi.cc/jiexi.php?url="
-    },
-    {
-      "name": "SSAMAO",
-      "url": "https://www.ssamao.com/jx/?url="
-    },
-    {
-      "name": "无极",
-      "url": "https://da.wujiys.com/?url="
-    },
-    {
-      "name": "618G",
-      "url": "https://jx.618g.com/?url="
-    },
-    {
-      "name": "ckmov",
-      "url": "https://www.ckmov.vip/api.php?url="
-    },
-    {
-      "name": "迪奥",
-      "url": "https://123.1dior.cn/?url="
-    },
-    {
-      "name": "福星",
-      "url": "https://jx.popo520.cn/jiexi/?url="
-    },
-    {
-      "name": "RDHK",
-      "url": "https://jx.rdhk.net/?v="
-    },
-    {
-      "name": "H8",
-      "url": "https://www.h8jx.com/jiexi.php?url="
-    },
-    {
-      "name": "解析la",
-      "url": "https://api.jiexi.la/?url="
-    },
-    {
-      "name": "久播",
-      "url": "https://jx.jiubojx.com/vip.php?url="
-    },
-    {
-      "name": "九八",
-      "url": "https://jx.youyitv.com/?url="
-    },
-    {
-      "name": "乐喵",
-      "url": "https://jx.hao-zsj.cn/vip/?url="
-    },
-    {
-      "name": "MUTV",
-      "url": "https://jiexi.janan.net/jiexi/?url="
-    },
-    {
-      "name": "明日",
-      "url": "https://jx.yingxiangbao.cn/vip.php?url="
-    },
-    {
-      "name": "磨菇",
-      "url": "https://jx.wzslw.cn/?url="
-    },
-    {
-      "name": "维多",
-      "url": "https://jx.ivito.cn/?url="
-    },
-    {
-      "name": "小狼",
-      "url": "https://jx.yaohuaxuan.com/?url="
-    },
-    {
-      "name": "星驰",
-      "url": "https://vip.cjys.top/?url="
-    },
-    {
-      "name": "月亮",
-      "url": "https://api.yueliangjx.com/?url="
-    },
-    {
-      "name": "0523",
-      "url": "https://go.yh0523.cn/y.cy?url="
-    },
-    {
-      "name": "云端",
-      "url": "https://jx.ergan.top/?url="
-    },
-    {
-      "name": "17云",
-      "url": "https://www.1717yun.com/jx/ty.php?url="
-    },
-    {
-      "name": "66",
-      "url": "https://api.3jx.top/vip/?url="
-    },
-    {
-      "name": "116",
-      "url": "https://jx.116kan.com/?url="
-    },
-    {
-      "name": "200",
-      "url": "https://vip.66parse.club/?url="
-    },
-    {
-      "name": "云析",
-      "url": "https://jx.yparse.com/index.php?url="
-    },
-    {
-      "name": "8090",
-      "url": "https://www.8090g.cn/?url="
-    },
-    {
-      "name": "⽆⼴告通⽤",
-      "url": "http://www.2ajx.com/vip.php?url="
-    },
-    {
-      "name": "通⽤HTTP接⼝",
-      "url": "http://api.steak517.top/?url="
-    },
-    {
-      "name": "九八看",
-      "url": "https://jx.youyitv.com/?url="
-    },
-    {
-      "name": "91视频解析",
-      "url": "https://www.91jxs.com/jiexi/?url="
-    },
-    {
-      "name": "⼩野⻢解析",
-      "url": "https://www.xymav.com/?url="
-    },
-    {
-      "name": "诺讯智能解析",
-      "url": "https://www.nxflv.com/?url="
-    },
-    {
-      "name": "Playm3u8解析",
-      "url": "https://www.playm3u8.cn/jiexi.php?url="
-    },
-    {
-      "name": "qji视频解析",
-      "url": "http://vip.qji.me/"
-    },
-    {
-      "name": "isryun",
-      "url": "http://jx.isryun.com/?v="
-    },
-    {
-      "name": "全網解析",
-      "url": "https://jx.elwtc.com/vip/?url="
-    },
-    {
-      "name": "kpezp",
-      "url": "https://www.kpezp.cn/jlexi.php?url="
-    },
-    {
-      "name": "云解析",
-      "url": "https://jx.mw0.cc/?url="
-    },
-    {
-      "name": "凌云",
-      "url": "https://api.wrdan.com/play?url="
-    },
-    {
-      "name": "酷熊",
-      "url": "http://vip.kubear.cn/player.php?url="
-    }
-  ],
+	{
+		"name": "1717",
+		"url": "http://www.1717yun.com/jx/ty.php?url="
+	},
+	{
+		"name": "OK",
+		"url": "http://okjx.cc/?url="
+	},
+	{
+		"name": "七哥",
+		"url": "http://jx.mmkv.cn/tv.php?url="
+	},
+	{
+		"name": "2A",
+		"url": "https://www.2ajx.com/vip.php?url="
+	},
+	{
+		"name": "小蒋",
+		"url": "http://www.kpezp.cn/jlexi.php?url="
+	},
+	{
+		"name": "暮光",
+		"url": "http://muguang.mgtv.com.muguangys.com/jiexi.php?url="
+	},
+	{
+		"name": "弹幕",
+		"url": "http://play.xing1.club/m3u8.php/?url="
+	},
+	{
+		"name": "郭慕涵",
+		"url": "http://www.qinglyy.com/m3u8/?url="
+	},
+	{
+		"name": "全网",
+		"url": "https://jiexi.11mc.com/jiexi/?url="
+	},
+	{
+		"name": "parwix",
+		"url": "http://jx.parwix.com:4433/player/?url="
+	},
+	{
+		"name": "jsonm3u8",
+		"url": "http://json.m3u8.tv:7788/json.php?url="
+	},
+	{
+		"name": "jsonvodjx",
+		"url": "http://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="
+	},
+	{
+		"name": "纯净",
+		"url": "http://z1.m1907.cn/?jx="
+	},
+	{
+		"name": "高速",
+		"url": "http://jsap.attakids.com/?url="
+	},
+	{
+		"name": "B站1",
+		"url": "http://vip.parwix.com:4433/player/?url="
+	},
+	{
+		"name": "B站2",
+		"url": "http://www.cuan.la/m3u8.php?url="
+	},
+	{
+		"name": "虾米",
+		"url": "http://jx.xmflv.com/?url="
+	},
+	{
+		"name": "Ckplayer",
+		"url": "http://www.ckplayer.vip/jiexi/?url="
+	},
+	{
+		"name": "BL",
+		"url": "http://vip.bljiex.com/?v="
+	},
+	{
+		"name": "乐多",
+		"url": "http://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="
+	},
+	{
+		"name": "ccyjjd",
+		"url": "http://ckmov.ccyjjd.com/ckmov/?url="
+	},
+	{
+		"name": "M3U8",
+		"url": "http://jx.m3u8.tv/jiexi/?url="
+	},
+	{
+		"name": "老板",
+		"url": "http://vip.laobandq.com/jiexi.php?url="
+	},
+	{
+		"name": "Mao",
+		"url": "http://qd.hxys.tv/m3u8.php?url="
+	},
+	{
+		"name": "盘古",
+		"url": "http://www.pangujiexi.cc/jiexi.php?url="
+	},
+	{
+		"name": "SSAMAO",
+		"url": "http://www.ssamao.com/jx/?url="
+	},
+	{
+		"name": "无极",
+		"url": "http://da.wujiys.com/?url="
+	},
+	{
+		"name": "618G",
+		"url": "http://jx.618g.com/?url="
+	},
+	{
+		"name": "ckmov",
+		"url": "http://www.ckmov.vip/api.php?url="
+	},
+	{
+		"name": "迪奥",
+		"url": "http://123.1dior.cn/?url="
+	},
+	{
+		"name": "福星",
+		"url": "http://jx.popo520.cn/jiexi/?url="
+	},
+	{
+		"name": "RDHK",
+		"url": "http://jx.rdhk.net/?url="
+	},
+	{
+		"name": "H8",
+		"url": "http://www.h8jx.com/jiexi.php?url="
+	},
+	{
+		"name": "解析la",
+		"url": "http://api.jiexi.la/?url="
+	},
+	{
+		"name": "久播",
+		"url": "http://jx.jiubojx.com/vip.php?url="
+	},
+	{
+		"name": "九八",
+		"url": "http://jx.youyitv.com/?url="
+	},
+	{
+		"name": "老板",
+		"url": "http://vip.laobandq.com/jiexi.php?url="
+	},
+	{
+		"name": "乐喵",
+		"url": "http://jx.hao-zsj.cn/vip/?url="
+	},
+	{
+		"name": "MUTV",
+		"url": "http://jiexi.janan.net/jiexi/?url="
+	},
+	{
+		"name": "明日",
+		"url": "http://jx.yingxiangbao.cn/vip.php?url="
+	},
+	{
+		"name": "磨菇",
+		"url": "http://jx.wzslw.cn/?url="
+	},
+	{
+		"name": "维多",
+		"url": "http://jx.ivito.cn/?url="
+	},
+	{
+		"name": "小狼",
+		"url": "http://jx.yaohuaxuan.com/?url="
+	},
+	{
+		"name": "智能",
+		"url": "http://vip.kurumit3.top/?v="
+	},
+	{
+		"name": "星驰",
+		"url": "http://vip.cjys.top/?url="
+	},
+	{
+		"name": "星空",
+		"url": "http://60jx.com/?url="
+	},
+	{
+		"name": "月亮",
+		"url": "http://api.yueliangjx.com/?url="
+	},
+	{
+		"name": "523",
+		"url": "http://go.yh0523.cn/y.cy?url="
+	},
+	{
+		"name": "云端",
+		"url": "http://jx.ergan.top/?url="
+	},
+	{
+		"name": "66",
+		"url": "http://api.3jx.top/vip/?url="
+	},
+	{
+		"name": "116",
+		"url": "http://jx.116kan.com/?url="
+	},
+	{
+		"name": "200",
+		"url": "http://vip.66parse.club/?url="
+	},
+	{
+		"name": "云析",
+		"url": "http://jx.yparse.com/index.php?url="
+	},
+	{
+		"name": "8090",
+		"url": "http://www.8090g.cn/?url="
+	}
+],
   "flags": [
     "youku",
     "qq",
