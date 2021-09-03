@@ -69,7 +69,7 @@ U猫m3u8,http://umao.ml/api.php/provide/vod/at/xml,解析
 77资源,https://www.77zy.vip/inc/m3u8.php,解析
 丝袜资源,https://siwazyw.net/api.php/provide/vod/at/xml,解析
 芒果资源,https://mgzyz1.com/api.php/provide/vod/at/xml,解析
-乐鱼资源,https://www.leyuzyapi.com/inc/apijson_vod.php,解析
+乐鱼资源,https://www.leyuzyapi.com/inc/api.php,解析
 水蜜桃,http://51smt4.xyz/api.php/provide/vod/at/xml,解析
 大地资源,https://dadiapi.com/api.php,解析
 小红资源,https://cj.xhzy1.xyz/api.php/provide/vod/at/xml,解析
