@@ -564,7 +564,7 @@
 		"key": "乐鱼资源",
 		"name": "乐鱼资源",
 		"type": 0,
-		"api": "https://www.leyuzyapi.com/inc/apijson_vod.php",
+		"api": "https://www.leyuzyapi.com/inc/api.php",
 		"playUrl": "",
 		"categories": []
 	},
