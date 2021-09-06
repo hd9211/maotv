@@ -122,6 +122,7 @@ AVZY6888资源,http://m.7777688.com/inc/api.php,解析
 测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
 结束
 解析：
+飞越,http://feiyue.rf.gd/?v=
 1717,http://www.1717yun.com/jx/ty.php?url=
 OK,http://okjx.cc/?url=
 七哥,http://jx.mmkv.cn/tv.php?url=
