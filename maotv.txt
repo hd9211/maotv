@@ -425,10 +425,10 @@
 		"categories": []
 	},
 	{
-		"key": "百度资源https://cj.apibdzy.com/inc/api.php",
-		"name": "百度资源https://cj.apibdzy.com/inc/api.php",
+		"key": "百度资源",
+		"name": "百度资源",
 		"type": 0,
-		"api": "",
+		"api": "https://cj.apibdzy.com/inc/api.php",
 		"playUrl": "",
 		"categories": []
 	},
