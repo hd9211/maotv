@@ -732,7 +732,7 @@
 		"key": "JAV名优",
 		"name": "JAV名优",
 		"type": 0,
-		"api": "http://mygzycj.com/api.php",
+		"api": "http://mygzycj.com/sapi.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -748,7 +748,7 @@
 		"key": "色色资源",
 		"name": "色色资源",
 		"type": 0,
-		"api": "http://sscj8.com/inc/api.php",
+		"api": "http://sscj8.com/inc/sapi.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -756,7 +756,7 @@
 		"key": "玖玖资源",
 		"name": "玖玖资源",
 		"type": 0,
-		"api": "http://99zywcj.com/inc/ck.php",
+		"api": "http://99zywcj.com/inc/sck.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -772,7 +772,7 @@
 		"key": "富二代资源",
 		"name": "富二代资源",
 		"type": 0,
-		"api": "http://f2dcj6.com/api",
+		"api": "http://f2dcj6.com/sapi",
 		"playUrl": "",
 		"categories": []
 	},
@@ -780,7 +780,7 @@
 		"key": "字幕网",
 		"name": "字幕网",
 		"type": 0,
-		"api": "http://zmcj88.com/api",
+		"api": "http://zmcj88.com/sapi",
 		"playUrl": "",
 		"categories": []
 	},
@@ -788,7 +788,7 @@
 		"key": "久草资源",
 		"name": "久草资源",
 		"type": 0,
-		"api": "http://jcspcj8.com/api",
+		"api": "http://jcspcj8.com/sapi",
 		"playUrl": "",
 		"categories": []
 	},
@@ -796,7 +796,7 @@
 		"key": "利来资源",
 		"name": "利来资源",
 		"type": 0,
-		"api": "http://llzxcj.com/inc/ck.php",
+		"api": "http://llzxcj.com/inc/sck.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -844,7 +844,7 @@
 		"key": "狼少年",
 		"name": "狼少年",
 		"type": 0,
-		"api": "http://cjmygzy.com/inc/api.php",
+		"api": "http://cjmygzy.com/inc/sapi.php",
 		"playUrl": "",
 		"categories": []
 	},
