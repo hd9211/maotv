@@ -772,7 +772,7 @@
 		"key": "富二代资源",
 		"name": "富二代资源",
 		"type": 0,
-		"api": "http://f2dcj6.com/sapi",
+		"api": "http://f2dcj6.com/sapi/json?ac=videolist",
 		"playUrl": "",
 		"categories": []
 	},
