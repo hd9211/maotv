@@ -1,1159 +1,1324 @@
 {
     "sites": [
 	{
-		"key": "1",
+		"key": "1717资源",
 		"name": "1717资源",
+		"type": 0,
 		"api": "http://zy.itono.cn/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "2",
+		"key": "8090资源",
 		"name": "8090资源",
+		"type": 0,
 		"api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "3",
+		"key": "萌果资源",
 		"name": "萌果资源",
+		"type": 0,
 		"api": "http://api.appearoo.top/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "4",
+		"key": "乐喵资源",
 		"name": "乐喵资源",
+		"type": 0,
 		"api": "https://98hyk.cn/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "5",
+		"key": "好好资源",
 		"name": "好好资源",
+		"type": 0,
 		"api": "http://haohaozy.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "6",
+		"key": "蘑菇资源",
 		"name": "蘑菇资源",
+		"type": 0,
 		"api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "7",
+		"key": "2A资源",
 		"name": "2A资源",
+		"type": 0,
 		"api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "8",
+		"key": "7K(虾米)资源",
 		"name": "7K(虾米)资源",
+		"type": 0,
 		"api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "9",
+		"key": "天堂资源",
 		"name": "天堂资源",
+		"type": 0,
 		"api": "http://vipmv.cc/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "10",
+		"key": "M3U8.TV资源",
 		"name": "M3U8.TV资源",
+		"type": 0,
 		"api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "11",
+		"key": "360资源",
 		"name": "360资源",
+		"type": 0,
 		"api": "http://xa88.vip:88/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "12",
+		"key": "三零资源",
 		"name": "三零资源",
+		"type": 0,
 		"api": "http://api.000zy.com/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "13",
+		"key": "百度官方资源",
 		"name": "百度官方资源",
+		"type": 0,
 		"api": "https://api.bdjx.vip/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "14",
+		"key": "片库",
 		"name": "片库",
+		"type": 0,
 		"api": "https://pianku.wang/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "15",
+		"key": "任我云",
 		"name": "任我云",
+		"type": 0,
 		"api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "16",
+		"key": "游艺资源",
 		"name": "游艺资源",
+		"type": 0,
 		"api": "http://360.hexh.ink/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "17",
+		"key": "清欢资源",
 		"name": "清欢资源",
+		"type": 0,
 		"api": "https://www.qinghuanzy.cn/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "18",
+		"key": "白嫖资源",
 		"name": "白嫖资源",
+		"type": 0,
 		"api": "http://www.baipiaozy.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "19",
+		"key": "乐奇异",
 		"name": "乐奇异",
+		"type": 0,
 		"api": "https://www.lqiyi.co/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "20",
+		"key": "淘片资源",
 		"name": "淘片资源",
+		"type": 0,
 		"api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "21",
+		"key": "多多资源",
 		"name": "多多资源",
+		"type": 0,
 		"api": "https://www.duoduozy.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "22",
+		"key": "竹嘎(蓝光解析)",
 		"name": "竹嘎(蓝光解析)",
+		"type": 0,
 		"api": "http://m.ycccyk.cn/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "23",
+		"key": "爱看",
 		"name": "爱看",
+		"type": 0,
 		"api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "24",
+		"key": "欧乐影院",
 		"name": "欧乐影院",
+		"type": 0,
 		"api": "https://www.olevod.tv/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "25",
+		"key": "剧好看",
 		"name": "剧好看",
+		"type": 0,
 		"api": "https://www.juhaokan.cc/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "26",
+		"key": "嘿锋影视",
 		"name": "嘿锋影视",
+		"type": 0,
 		"api": "https://www.hfys8.vip/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "27",
+		"key": "U猫m3u8",
 		"name": "U猫m3u8",
+		"type": 0,
 		"api": "http://umao.ml/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "28",
+		"key": "孤单影院",
 		"name": "孤单影院",
+		"type": 0,
 		"api": "https://www.hanmiys.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "29",
+		"key": "TVB云播",
 		"name": "TVB云播",
+		"type": 0,
 		"api": "http://www.tvyb02.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "30",
+		"key": "TVB720HD",
 		"name": "TVB720HD",
+		"type": 0,
 		"api": "http://www.tvyb02.com/api.php/provide/vod/from/hd720/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "31",
+		"key": "九九美剧",
 		"name": "九九美剧",
+		"type": 0,
 		"api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "32",
+		"key": "BL视频",
 		"name": "BL视频",
+		"type": 0,
 		"api": "https://bljiex.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "33",
+		"key": "泡泡影视",
 		"name": "泡泡影视",
+		"type": 0,
 		"api": "http://www.chinaboshan.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "34",
+		"key": "优全影视",
 		"name": "优全影视",
+		"type": 0,
 		"api": "https://xmyun.xyz/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "35",
+		"key": "畅视影视",
 		"name": "畅视影视",
+		"type": 0,
 		"api": "http://app.reboju.net/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "36",
+		"key": "饭团影视",
 		"name": "饭团影视",
+		"type": 0,
 		"api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "37",
+		"key": "电影牛",
 		"name": "电影牛",
+		"type": 0,
 		"api": "https://www.dianyingn.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "38",
+		"key": "爱看啦",
 		"name": "爱看啦",
+		"type": 0,
 		"api": "http://v.aik.la/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "39",
+		"key": "极品影视",
 		"name": "极品影视",
+		"type": 0,
 		"api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "40",
+		"key": "2K资源",
 		"name": "2K资源",
+		"type": 0,
 		"api": "http://2kzyz.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "41",
+		"key": "人人资源",
 		"name": "人人资源",
+		"type": 0,
 		"api": "https://www.rrzyw.cc/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "42",
+		"key": "迅雷下载资源",
 		"name": "迅雷下载资源",
+		"type": 0,
 		"api": "http://xunlei.fan/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "43",
+		"key": "真不卡",
 		"name": "真不卡",
+		"type": 0,
 		"api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "44",
+		"key": "污妖动漫",
 		"name": "污妖动漫",
+		"type": 0,
 		"api": "https://www.wyydm.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "45",
+		"key": "小蜻蜓APP",
 		"name": "小蜻蜓APP",
+		"type": 0,
 		"api": "http://3ketv.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "46",
+		"key": "侦探APP",
 		"name": "侦探APP",
+		"type": 0,
 		"api": "http://ys.huangguay.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "47",
+		"key": "追剧吧APP",
 		"name": "追剧吧APP",
+		"type": 0,
 		"api": "http://data.zju8.cc:1234/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "48",
+		"key": "红影APP",
 		"name": "红影APP",
+		"type": 0,
 		"api": "http://csksk.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "49",
+		"key": "605资源",
 		"name": "605资源",
+		"type": 0,
 		"api": "http://www.605zy.co/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "50",
+		"key": "88资源",
 		"name": "88资源",
+		"type": 0,
 		"api": "http://www.88zy.live/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "51",
+		"key": "番茄资源",
 		"name": "番茄资源",
+		"type": 0,
 		"api": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "52",
+		"key": "红牛资源",
 		"name": "红牛资源",
+		"type": 0,
 		"api": "https://www.hongniuzy1.com/inc/seahnm3u8.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "53",
+		"key": "北斗星资源",
 		"name": "北斗星资源",
+		"type": 0,
 		"api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "54",
+		"key": "奇乐(优剧)资源",
 		"name": "奇乐(优剧)资源",
+		"type": 0,
 		"api": "https://zy.ujuba.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "55",
+		"key": "最新(云播)资源",
 		"name": "最新(云播)资源",
+		"type": 0,
 		"api": "https://api.yunboys.cn/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "56",
+		"key": "U酷资源",
 		"name": "U酷资源",
+		"type": 0,
 		"api": "http://ukuzy.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "57",
+		"key": "快播资源",
 		"name": "快播资源",
+		"type": 0,
 		"api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "58",
+		"key": "八戒资源",
 		"name": "八戒资源",
+		"type": 0,
 		"api": "http://cj.bajiecaiji.com/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "59",
+		"key": "豆瓣资源",
 		"name": "豆瓣资源",
+		"type": 0,
 		"api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "60",
+		"key": "百度资源",
 		"name": "百度资源",
+		"type": 0,
 		"api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "61",
+		"key": "天空资源",
 		"name": "天空资源",
+		"type": 0,
 		"api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "62",
+		"key": "百度伦理资源",
 		"name": "百度伦理资源",
+		"type": 0,
 		"api": "http://llbdzy.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "63",
+		"key": "乐多资源",
 		"name": "乐多资源",
+		"type": 0,
 		"api": "http://api.leduosj.com/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "64",
+		"key": "卧龙资源",
 		"name": "卧龙资源",
+		"type": 0,
 		"api": "https://www.wolongzyw.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "65",
+		"key": "穿梭资源",
 		"name": "穿梭资源",
+		"type": 0,
 		"api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "66",
+		"key": "云播APP",
 		"name": "云播APP",
+		"type": 0,
 		"api": "http://bxin.tv/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "67",
+		"key": "蓝果APP",
 		"name": "蓝果APP",
+		"type": 0,
 		"api": "http://www.languotv.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "68",
+		"key": "播放呀APP",
 		"name": "播放呀APP",
+		"type": 0,
 		"api": "https://www.bofangya.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "69",
+		"key": "免费影院",
 		"name": "免费影院",
+		"type": 0,
 		"api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "70",
+		"key": "追剧吧",
 		"name": "追剧吧",
+		"type": 0,
 		"api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "71",
+		"key": "安逸影院",
 		"name": "安逸影院",
+		"type": 0,
 		"api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "72",
+		"key": "橘猫影视",
 		"name": "橘猫影视",
+		"type": 0,
 		"api": "http://www.zitv.cc/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "73",
+		"key": "白熊影院",
 		"name": "白熊影院",
+		"type": 0,
 		"api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "74",
+		"key": "阿里影视网",
 		"name": "阿里影视网",
+		"type": 0,
 		"api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "75",
+		"key": "淘影",
 		"name": "淘影",
+		"type": 0,
 		"api": "http://tv.4kvod.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "76",
+		"key": "速影",
 		"name": "速影",
+		"type": 0,
 		"api": "https://速影128.xyz/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "77",
+		"key": "无极影院",
 		"name": "无极影院",
+		"type": 0,
 		"api": "http://wujiys.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "78",
+		"key": "影派TV",
 		"name": "影派TV",
+		"type": 0,
 		"api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "79",
+		"key": "飞鱼影视",
 		"name": "飞鱼影视",
+		"type": 0,
 		"api": "https://app.feiyu5.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "80",
+		"key": "核桃影视",
 		"name": "核桃影视",
+		"type": 0,
 		"api": "http://app.hetaoys.vip/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "81",
+		"key": "77影视",
 		"name": "77影视",
+		"type": 0,
 		"api": "https://www.77diany.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "82",
+		"key": "思乐影视",
 		"name": "思乐影视",
+		"type": 0,
 		"api": "https://www.4ltv.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "83",
+		"key": "电影盒子",
 		"name": "电影盒子",
+		"type": 0,
 		"api": "http://cms.tvbox543.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "84",
+		"key": "987影视",
 		"name": "987影视",
+		"type": 0,
 		"api": "https://www.9875.xyz/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "85",
+		"key": "KK看剧",
 		"name": "KK看剧",
+		"type": 0,
 		"api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "86",
+		"key": "零玖影视",
 		"name": "零玖影视",
+		"type": 0,
 		"api": "https://09tv.top/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "87",
+		"key": "爱看1080",
 		"name": "爱看1080",
+		"type": 0,
 		"api": "http://www.ik1080.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "88",
+		"key": "77资源",
 		"name": "77资源",
+		"type": 0,
 		"api": "https://www.77zy.vip/inc/m3u8.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "89",
+		"key": "523资源",
 		"name": "523资源",
+		"type": 0,
 		"api": "https://caiji.523zyw.com/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "90",
+		"key": "丝袜资源",
 		"name": "丝袜资源",
+		"type": 0,
 		"api": "https://siwazyw.net/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "91",
+		"key": "芒果资源",
 		"name": "芒果资源",
+		"type": 0,
 		"api": "https://mgzyz1.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "92",
+		"key": "乐鱼资源",
 		"name": "乐鱼资源",
+		"type": 0,
 		"api": "https://www.leyuzyapi.com/inc/seacmsapi.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "93",
+		"key": "水蜜桃",
 		"name": "水蜜桃",
+		"type": 0,
 		"api": "http://51smt4.xyz/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "94",
+		"key": "秀色资源",
 		"name": "秀色资源",
+		"type": 0,
 		"api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "95",
+		"key": "探探资源",
 		"name": "探探资源",
+		"type": 0,
 		"api": "https://apittzy.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "96",
+		"key": "桃色资源",
 		"name": "桃色资源",
+		"type": 0,
 		"api": "https://api.taoseapi.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "97",
+		"key": "色猫资源",
 		"name": "色猫资源",
+		"type": 0,
 		"api": "https://api.maozyapi.com/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "98",
+		"key": "4000资源",
 		"name": "4000资源",
+		"type": 0,
 		"api": "https://www.4000zy.com/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "99",
+		"key": "色屌丝(VPN)",
 		"name": "色屌丝(VPN)",
+		"type": 0,
 		"api": "http://sds762.com/home/cjapi/9bf31c7ff062936a96d3c8bd1f8f2ff3/vod/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "100",
+		"key": "小姐姐资源",
 		"name": "小姐姐资源",
+		"type": 0,
 		"api": "https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "101",
+		"key": "美少女资源",
 		"name": "美少女资源",
+		"type": 0,
 		"api": "https://www.msnii.com/api/xml.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "102",
+		"key": "淫水机资源",
 		"name": "淫水机资源",
+		"type": 0,
 		"api": "https://www.xrbsp.com/api/xml.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "103",
+		"key": "香奶儿资源",
 		"name": "香奶儿资源",
+		"type": 0,
 		"api": "https://www.gdlsp.com/api/xml.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "104",
+		"key": "白嫖资源",
 		"name": "白嫖资源",
+		"type": 0,
 		"api": "https://www.kxgav.com/api/xml.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "105",
+		"key": "小湿妹资源",
 		"name": "小湿妹资源",
+		"type": 0,
 		"api": "https://www.afasu.com/api/xml.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "106",
+		"key": "黄AV资源",
 		"name": "黄AV资源",
+		"type": 0,
 		"api": "https://www.pgxdy.com/api/xml.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "107",
+		"key": "大地资源",
 		"name": "大地资源",
+		"type": 0,
 		"api": "https://dadiapi.com/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "108",
+		"key": "CK资源(VPN)",
 		"name": "CK资源(VPN)",
+		"type": 0,
 		"api": "https://ckzy.me/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "109",
+		"key": "BB资源",
 		"name": "BB资源",
+		"type": 0,
 		"api": "http://bbzy.cc/inc/maccms10.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "110",
+		"key": "老鸭资源",
 		"name": "老鸭资源",
+		"type": 0,
 		"api": "http://laoyazy.vip/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "111",
+		"key": "茄子资源",
 		"name": "茄子资源",
+		"type": 0,
 		"api": "http://www.qiezizy8.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "112",
+		"key": "花椒资源",
 		"name": "花椒资源",
+		"type": 0,
 		"api": "https://apihjzy.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "113",
+		"key": "辣椒资源",
 		"name": "辣椒资源",
+		"type": 0,
 		"api": "http://api.11bat.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "114",
+		"key": "乐播资源",
 		"name": "乐播资源",
+		"type": 0,
 		"api": "https://lbapi9.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "115",
+		"key": "趣播资源",
 		"name": "趣播资源",
+		"type": 0,
 		"api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "116",
+		"key": "博天堂",
 		"name": "博天堂",
+		"type": 0,
 		"api": "http://bttcj.com/inc/sapi.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "117",
+		"key": "环亚资源",
 		"name": "环亚资源",
+		"type": 0,
 		"api": "http://wmcj8.com/inc/sapi.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "118",
+		"key": "JAV名优馆",
 		"name": "JAV名优馆",
+		"type": 0,
 		"api": "http://mygzycj.com/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "119",
+		"key": "AVZY6888资源",
 		"name": "AVZY6888资源",
+		"type": 0,
 		"api": "http://m.7777688.com/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "120",
+		"key": "色色资源",
 		"name": "色色资源",
+		"type": 0,
 		"api": "http://secj8.com/inc/sapi.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "121",
+		"key": "玖玖资源",
 		"name": "玖玖资源",
+		"type": 0,
 		"api": "http://99zywcj.com/inc/sapi.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "122",
+		"key": "狼少年",
 		"name": "狼少年",
+		"type": 0,
 		"api": "http://cjmygzy.com/inc/sapi.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "123",
+		"key": "富二代资源",
 		"name": "富二代资源",
+		"type": 0,
 		"api": "http://f2dcj6.com/sapi",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "124",
+		"key": "字幕网",
 		"name": "字幕网",
+		"type": 0,
 		"api": "http://zmcj88.com/sapi",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "125",
+		"key": "久草资源",
 		"name": "久草资源",
+		"type": 0,
 		"api": "http://jcspcj8.co/sapi",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "126",
+		"key": "利来资源",
 		"name": "利来资源",
+		"type": 0,
 		"api": "http://llzxcj.com/inc/sck.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "127",
+		"key": "佳丽资源",
 		"name": "佳丽资源",
+		"type": 0,
 		"api": "https://api.jializyzapi.com/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "128",
+		"key": "番号资源",
 		"name": "番号资源",
+		"type": 0,
 		"api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "129",
+		"key": "苍天资源",
 		"name": "苍天资源",
+		"type": 0,
 		"api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "130",
+		"key": "鲨鱼资源",
 		"name": "鲨鱼资源",
+		"type": 0,
 		"api": "https://shayuapi.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "131",
+		"key": "速度资源",
 		"name": "速度资源",
+		"type": 0,
 		"api": "http://www.ggmmzy.com:9999/inc/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "132",
+		"key": "优果资源",
 		"name": "优果资源",
+		"type": 0,
 		"api": "https://www.ugzyz5.com/inc/zyapimac.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "133",
+		"key": "芒果AV",
 		"name": "芒果AV",
+		"type": 0,
 		"api": "http://www.mgav1.cc/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "134",
+		"key": "白嫖资源",
 		"name": "白嫖资源",
+		"type": 0,
 		"api": "https://www.kxgav.com/api/xml.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "135",
+		"key": "久久资源",
 		"name": "久久资源",
+		"type": 0,
 		"api": "http://99zyba.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "136",
+		"key": "100ai",
 		"name": "100ai",
+		"type": 0,
 		"api": "http://www.010aizy.com/API/maxs.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "137",
+		"key": "百度伦理",
 		"name": "百度伦理",
+		"type": 0,
 		"api": "http://www.llbdzy.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "138",
+		"key": "痴汉资源",
 		"name": "痴汉资源",
+		"type": 0,
 		"api": "https://javcaptain.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "139",
+		"key": "大波妹",
 		"name": "大波妹",
+		"type": 0,
 		"api": "http://4000zy.com/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "140",
+		"key": "麻豆资源",
 		"name": "麻豆资源",
+		"type": 0,
 		"api": "http://emodao.la/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "141",
+		"key": "800188资源",
 		"name": "800188资源",
+		"type": 0,
 		"api": "http://www.800188188.com/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "142",
+		"key": "抖音资源",
 		"name": "抖音资源",
+		"type": 0,
 		"api": "https://www.888dav.com/api.php/provide/vod/at/xml/",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "143",
+		"key": "裸艺资源",
 		"name": "裸艺资源",
+		"type": 0,
 		"api": "http://122ap.com/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "144",
+		"key": "南极星资源",
 		"name": "南极星资源",
+		"type": 0,
 		"api": "http://www.njxinli.com/inc/api.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "145",
+		"key": "柚萌资源",
 		"name": "柚萌资源",
+		"type": 0,
 		"api": "https://nameweb.xyz/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "146",
+		"key": "佳人资源",
 		"name": "佳人资源",
+		"type": 0,
 		"api": "https://www.951c.tk/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "147",
+		"key": "SB资源",
 		"name": "SB资源",
+		"type": 0,
 		"api": "http://www.shabizy.com:777/inc/sea",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "148",
+		"key": "1024资源",
 		"name": "1024资源",
+		"type": 0,
 		"api": "https://www.1024nf.com/api.php/provide/vod/at/xml/",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "149",
+		"key": "猛牛资源",
 		"name": "猛牛资源",
+		"type": 0,
 		"api": "http://nen13.space/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "150",
+		"key": "EU资源",
 		"name": "EU资源",
+		"type": 0,
 		"api": "http://euzy1.xyz/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "151",
+		"key": "ae86zy",
 		"name": "ae86zy",
+		"type": 0,
 		"api": "https://www.ae86zy.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "152",
+		"key": "撸死你资源",
 		"name": "撸死你资源",
+		"type": 0,
 		"api": "http://lsnzxcj.com/inc/sapi.php",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "153",
+		"key": "无尽资源",
 		"name": "无尽资源",
+		"type": 0,
 		"api": "https://api.wujinapi.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "154",
+		"key": "恐怖鸭资源",
 		"name": "恐怖鸭资源",
+		"type": 0,
 		"api": "https://kongbuya.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "155",
+		"key": "麒麟资源",
 		"name": "麒麟资源",
+		"type": 0,
 		"api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "156",
+		"key": "熊猫视频",
 		"name": "熊猫视频",
+		"type": 0,
 		"api": "https://www.xiongmaosp.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "157",
+		"key": "喵派对蓝光",
 		"name": "喵派对蓝光",
+		"type": 0,
 		"api": "https://www.neenl.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "158",
+		"key": "白嫖联盟",
 		"name": "白嫖联盟",
+		"type": 0,
 		"api": "http://api.hszbj.net/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "159",
+		"key": "小红资源",
 		"name": "小红资源",
+		"type": 0,
 		"api": "https://cj.xhzy1.xyz/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "160",
+		"key": "293影院",
 		"name": "293影院",
+		"type": 0,
 		"api": "http://db.293ys.top:81/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "161",
+		"key": "墨鱼影视",
 		"name": "墨鱼影视",
+		"type": 0,
 		"api": "http://www.moyuyingshi.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "162",
+		"key": "宅看影视",
 		"name": "宅看影视",
+		"type": 0,
 		"api": "http://zhaikanys.xyz/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "163",
+		"key": "陈家影视",
 		"name": "陈家影视",
+		"type": 0,
 		"api": "https://www.cjt521.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "164",
+		"key": "快活资源",
 		"name": "快活资源",
+		"type": 0,
 		"api": "https://www.khzywapi.com/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	},
 	{
-		"key": "165",
+		"key": "测试",
 		"name": "测试",
+		"type": 0,
 		"api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml",
-		"download": "",
-		"parseApi": ""
+		"playUrl": "",
+		"categories": []
 	}
 ],
     "lives": [
