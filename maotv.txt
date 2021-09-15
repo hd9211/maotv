@@ -233,14 +233,6 @@
 		"categories": []
 	},
 	{
-		"key": "TVB720HD",
-		"name": "TVB720HD",
-		"type": 0,
-		"api": "http://www.tvyb02.com/api.php/provide/vod/from/hd720/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "九九美剧",
 		"name": "九九美剧",
 		"type": 0,
@@ -309,14 +301,6 @@
 		"name": "极品影视",
 		"type": 0,
 		"api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "2K资源",
-		"name": "2K资源",
-		"type": 0,
-		"api": "http://2kzyz.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -441,10 +425,26 @@
 		"categories": []
 	},
 	{
-		"key": "U酷资源",
-		"name": "U酷资源",
+		"key": "酷点资源",
+		"name": "酷点资源",
 		"type": 0,
-		"api": "http://ukuzy.com/api.php/provide/vod/at/xml",
+		"api": "https://kudian8.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "韩剧资源",
+		"name": "韩剧资源",
+		"type": 0,
+		"api": "http://www.hanjuzy.com/inc/api.php",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "影视聚合采集",
+		"name": "影视聚合采集",
+		"type": 0,
+		"api": "http://zy.vodcdn.top/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -697,6 +697,14 @@
 		"categories": []
 	},
 	{
+		"key": "若梦影视",
+		"name": "若梦影视",
+		"type": 0,
+		"api": "http://47.106.80.129/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "77资源",
 		"name": "77资源",
 		"type": 0,
@@ -797,6 +805,14 @@
 		"name": "小姐姐资源",
 		"type": 0,
 		"api": "https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "5X资源",
+		"name": "5X资源",
+		"type": 0,
+		"api": "http://0413.api.cdn.5api123.com/xml.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1065,14 +1081,6 @@
 		"categories": []
 	},
 	{
-		"key": "白嫖资源",
-		"name": "白嫖资源",
-		"type": 0,
-		"api": "https://www.kxgav.com/api/xml.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "久久资源",
 		"name": "久久资源",
 		"type": 0,
@@ -1101,14 +1109,6 @@
 		"name": "痴汉资源",
 		"type": 0,
 		"api": "https://javcaptain.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "大波妹",
-		"name": "大波妹",
-		"type": 0,
-		"api": "http://4000zy.com/inc/api.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1229,6 +1229,22 @@
 		"name": "恐怖鸭资源",
 		"type": 0,
 		"api": "https://kongbuya.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "2K资源",
+		"name": "2K资源",
+		"type": 0,
+		"api": "http://2kzyz.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "U酷资源",
+		"name": "U酷资源",
+		"type": 0,
+		"api": "http://ukuzy.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
