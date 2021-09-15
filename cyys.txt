@@ -28,7 +28,6 @@ M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 U猫m3u8,http://umao.ml/api.php/provide/vod/at/xml,解析
 孤单影院,https://www.hanmiys.com/api.php/provide/vod/at/xml,解析
 TVB云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,解析
-TVB720HD,http://www.tvyb02.com/api.php/provide/vod/from/hd720/at/xml,解析
 九九美剧,https://www.999meiju.com/api.php/provide/vod/at/xml,解析
 BL视频,https://bljiex.com/api.php/provide/vod/at/xml,解析
 泡泡影视,http://www.chinaboshan.com/api.php/provide/vod/at/xml,解析
@@ -38,7 +37,6 @@ BL视频,https://bljiex.com/api.php/provide/vod/at/xml,解析
 电影牛,https://www.dianyingn.com/api.php/provide/vod/at/xml,解析
 爱看啦,http://v.aik.la/api.php/provide/vod/at/xml,解析
 极品影视,https://www.jpysvip.net/api.php/provide/vod/at/xml,解析
-2K资源,http://2kzyz.com/api.php/provide/vod/at/xml,解析
 人人资源,https://www.rrzyw.cc/api.php/provide/vod/at/xml,解析
 迅雷下载资源,http://xunlei.fan/api.php/provide/vod/at/xml,解析
 真不卡,http://db.taijuwang.cc/api.php/provide/vod/at/xml,解析
@@ -54,7 +52,9 @@ BL视频,https://bljiex.com/api.php/provide/vod/at/xml,解析
 北斗星资源,https://m3u8.bdxzyapi.com/api.php/provide/vod/at/xml,解析
 奇乐(优剧)资源,https://zy.ujuba.com/api.php/provide/vod/at/xml,解析
 最新(云播)资源,https://api.yunboys.cn/api.php/provide/vod/at/xml,解析
-U酷资源,http://ukuzy.com/api.php/provide/vod/at/xml,解析
+酷点资源,https://kudian8.com/api.php/provide/vod/at/xml,解析
+韩剧资源,http://www.hanjuzy.com/inc/api.php,解析
+影视聚合采集,http://zy.vodcdn.top/api.php/provide/vod/at/xml,解析
 快播资源,http://www.kuaibozy.com/api.php/provide/vod/at/xml,解析
 八戒资源,http://cj.bajiecaiji.com/inc/api.php,解析
 豆瓣资源,http://api.dbyunzy.com/api.php/provide/vod/at/xml,解析
@@ -86,6 +86,7 @@ U酷资源,http://ukuzy.com/api.php/provide/vod/at/xml,解析
 KK看剧,http://www.kkkanju.com/api.php/provide/vod/at/xml,解析
 零玖影视,https://09tv.top/api.php/provide/vod/at/xml,解析
 爱看1080,http://www.ik1080.com/api.php/provide/vod/at/xml,解析
+若梦影视,http://47.106.80.129/api.php/provide/vod/at/xml,解析
 77资源,https://www.77zy.vip/inc/m3u8.php,解析
 523资源,https://caiji.523zyw.com/inc/api.php,解析
 丝袜资源,https://siwazyw.net/api.php/provide/vod/at/xml,解析
@@ -99,6 +100,7 @@ KK看剧,http://www.kkkanju.com/api.php/provide/vod/at/xml,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
 色屌丝(VPN),http://sds762.com/home/cjapi/9bf31c7ff062936a96d3c8bd1f8f2ff3/vod/xml,解析
 小姐姐资源,https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml,解析
+5X资源,http://0413.api.cdn.5api123.com/xml.php,解析
 美少女资源,https://www.msnii.com/api/xml.php,解析
 淫水机资源,https://www.xrbsp.com/api/xml.php,解析
 香奶儿资源,https://www.gdlsp.com/api/xml.php,解析
@@ -132,12 +134,10 @@ AVZY6888资源,http://m.7777688.com/inc/api.php,解析
 速度资源,http://www.ggmmzy.com:9999/inc/xml,解析
 优果资源,https://www.ugzyz5.com/inc/zyapimac.php,解析
 芒果AV,http://www.mgav1.cc/api.php/provide/vod/at/xml,解析
-白嫖资源,https://www.kxgav.com/api/xml.php,解析
 久久资源,http://99zyba.com/api.php/provide/vod/at/xml,解析
 100ai,http://www.010aizy.com/API/maxs.php,解析
 百度伦理,http://www.llbdzy.com/api.php/provide/vod/at/xml,解析
 痴汉资源,https://javcaptain.com/api.php/provide/vod/at/xml,解析
-大波妹,http://4000zy.com/inc/api.php,解析
 麻豆资源,http://emodao.la/api.php/provide/vod/at/xml,解析
 800188资源,http://www.800188188.com/inc/api.php,解析
 抖音资源,https://www.888dav.com/api.php/provide/vod/at/xml/,解析
@@ -153,6 +153,8 @@ ae86zy,https://www.ae86zy.com/api.php/provide/vod/at/xml,解析
 撸死你资源,http://lsnzxcj.com/inc/sapi.php,解析
 无尽资源,https://api.wujinapi.com/api.php/provide/vod/at/xml,解析
 恐怖鸭资源,https://kongbuya.com/api.php/provide/vod/at/xml,解析
+2K资源,http://2kzyz.com/api.php/provide/vod/at/xml,解析
+U酷资源,http://ukuzy.com/api.php/provide/vod/at/xml,解析
 麒麟资源,http://www.qilinzyz.com/api.php/provide/vod/at/xml,解析
 熊猫视频,https://www.xiongmaosp.com/api.php/provide/vod/at/xml,解析
 喵派对蓝光,https://www.neenl.com/api.php/provide/vod/at/xml,解析
