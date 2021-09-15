@@ -305,6 +305,14 @@
 		"categories": []
 	},
 	{
+		"key": "YT影视",
+		"name": "YT影视",
+		"type": 0,
+		"api": "http://ytys.cc/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "人人资源",
 		"name": "人人资源",
 		"type": 0,
