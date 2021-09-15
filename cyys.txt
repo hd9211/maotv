@@ -168,6 +168,9 @@ ae86zy,https://www.ae86zy.com/api.php/provide/vod/at/xml,解析
 解析：
 飞越,http://feiyue.rf.gd/?v=
 1717,http://www.1717yun.com/jx/ty.php?url=
+鲨鱼,https://www.mgtv.com.favnow.com/?token=sharktv&v=
+云播,https://jx5.178du.com/p1/?url=
+chok,https://www.chok8.com/jx/?url=
 OK,http://okjx.cc/?url=
 七哥,http://jx.mmkv.cn/tv.php?url=
 2A,https://www.2ajx.com/vip.php?url=
