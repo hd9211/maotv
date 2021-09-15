@@ -1850,6 +1850,18 @@
         }
     ],
   "parses": [
+  	{
+		"name": "鲨鱼",
+		"url": "https://www.mgtv.com.favnow.com/?token=sharktv&v="
+	},
+	{
+		"name": "云播",
+		"url": "https://jx5.178du.com/p1/?url="
+	},
+	{
+		"name": "chok",
+		"url": "https://www.chok8.com/jx/?url="
+	}, 
 	{
 		"name": "1717",
 		"url": "http://www.1717yun.com/jx/ty.php?url="
