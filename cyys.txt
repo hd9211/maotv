@@ -37,6 +37,7 @@ BL视频,https://bljiex.com/api.php/provide/vod/at/xml,解析
 电影牛,https://www.dianyingn.com/api.php/provide/vod/at/xml,解析
 爱看啦,http://v.aik.la/api.php/provide/vod/at/xml,解析
 极品影视,https://www.jpysvip.net/api.php/provide/vod/at/xml,解析
+YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
 人人资源,https://www.rrzyw.cc/api.php/provide/vod/at/xml,解析
 迅雷下载资源,http://xunlei.fan/api.php/provide/vod/at/xml,解析
 真不卡,http://db.taijuwang.cc/api.php/provide/vod/at/xml,解析
