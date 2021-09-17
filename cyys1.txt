@@ -157,7 +157,6 @@ AE86资源,https://www.ae86zy.com/api.php/provide/vod/at/xml,解析
 小湿妹资源,https://www.afasu.com/api/xml.php,解析
 黄AV资源,https://www.pgxdy.com/api/xml.php,解析
 大地资源,https://dadiapi.com/api.php,解析
-CK资源(VPN),https://ckzy.me/api.php/provide/vod/at/xml,解析
 BB资源,http://bbzy.cc/inc/maccms10.php,解析
 老鸭资源,http://laoyazy.vip/api.php/provide/vod/at/xml,解析
 茄子资源,http://www.qiezizy8.com/api.php/provide/vod/at/xml,解析
