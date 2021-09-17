@@ -47,7 +47,6 @@ YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
 侦探APP,http://ys.huangguay.com/api.php/provide/vod/at/xml,解析
 追剧吧APP,http://data.zju8.cc:1234/api.php/provide/vod/at/xml,解析
 红影APP,http://csksk.com/api.php/provide/vod/at/xml,解析
-605资源,http://www.605zy.co/inc/api.php,解析
 88资源,http://www.88zy.live/inc/api.php,解析
 番茄资源,http://api.fqzy.cc/api.php/provide/vod/at/xml,解析
 红牛资源,https://www.hongniuzy1.com/inc/seahnm3u8.php,解析
@@ -63,7 +62,6 @@ YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
 百度资源,https://api.apibdzy.com/api.php/provide/vod/at/xml,解析
 无尽资源,https://wuzy9.com/api.php/provide/vod/at/xml,解析
 天空资源,http://api.tiankongapi.com/api.php/provide/vod/at/xml,解析
-百度伦理资源,http://llbdzy.com/api.php/provide/vod/at/xml,解析
 乐多资源,http://api.leduosj.com/inc/api.php,解析
 卧龙资源,https://www.wolongzyw.com/api.php/provide/vod/at/xml,解析
 穿梭资源,http://ok.888hyk.com/api.php/provide/vod/at/xml,解析
@@ -138,7 +136,6 @@ AV集中淫,https://www.caiji22.com/home/cjapi/35f4a8d465e6e1edc05f3d8ab658c551/
 淘剧影院,https://www.tjyy06.com/api.php/provide/vod/at/xml,解析
 鲍鱼BB,http://baoyub.live/inc/api.php,解析
 天堂AV,http://www.njxinli.com/inc/api.php,解析
-5X资源,http://0413.api.cdn.5api123.com/api.php,解析
 痴汉队长,https://javcaptain.com/api.php/provide/vod/at/xml,解析
 爱麻豆,http://emodao.la/api.php/provide/vod/at/xml,解析
 抖阴视频,https://www.888dav.com/api.php/provide/vod/at/xml,解析
