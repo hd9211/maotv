@@ -2223,6 +2223,22 @@
 		"url": "http://okjx.cc/?url="
 	},
 		{
+		"name": "蓝猫",
+		"url": "https://jx.daidaitv.top:43810/?url="
+	},
+	{
+		"name": "全网",
+		"url": "https://api.0xu.cc/?url="
+	},
+	{
+		"name": "199",
+		"url": "http://dm.199cn.cn/vip/?url="
+	},
+	{
+		"name": "2ajx",
+		"url": "https://www.2ajx.com/vip.php?url="
+	},
+		{
 		"name": "解析啦",
 		"url": " https://api.jiexi.la/?url="
 	},
