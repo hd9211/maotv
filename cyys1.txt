@@ -95,14 +95,21 @@ SB资源,http://www.shabizy.com:777/inc/sea,解析
 99,http://yllzy.com/api.php/provide/vod/at/xml/,解析
 结束
 解析：
-飞越,http://feiyue.rf.gd/?v=
 1717,http://www.1717yun.com/jx/ty.php?url=
 鲨鱼,https://www.mgtv.com.favnow.com/?token=sharktv&v=
 云播,https://jx5.178du.com/p1/?url=
 chok,https://www.chok8.com/jx/?url=
 OK,http://okjx.cc/?url=
 七哥,http://jx.mmkv.cn/tv.php?url=
-2A,https://www.2ajx.com/vip.php?url=
+蓝猫,https://jx.daidaitv.top:43810/?url=
+全网,https://api.0xu.cc/?url=
+199,http://dm.199cn.cn/vip/?url=
+2ajx,https://www.2ajx.com/vip.php?url=
+解析啦, https://api.jiexi.la/?url=
+playm3u8, https://www.playm3u8.cn/jiexi.php?url=
+m3u8, https://jx.m3u8.tv/jiexi/?url=
+飞越,http://feiyue.rf.gd/?v=
+618g,https://jx.618g.com/?url=
 小蒋,http://www.kpezp.cn/jlexi.php?url=
 暮光,http://muguang.mgtv.com.muguangys.com/jiexi.php?url=
 弹幕,http://play.xing1.club/m3u8.php/?url=
