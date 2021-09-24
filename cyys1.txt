@@ -60,7 +60,7 @@ AE86资源,https://www.ae86zy.com/api.php/provide/vod/at/xml,解析
 小湿妹资源,https://www.afasu.com/api/xml.php,解析
 黄AV资源,https://www.pgxdy.com/api/xml.php,解析
 大地资源,https://dadiapi.com/api.php,解析
-CK资源(VPN),https://ckzy.me/api.php/provide/vod/at/xml,解析
+CK资源,http://www.feifei67.com/api.php/provide/vod/at/xml,解析
 BB资源,http://bbzy.cc/inc/maccms10.php,解析
 老鸭资源,http://laoyazy.vip/api.php/provide/vod/at/xml,解析
 茄子资源,http://www.qiezizy8.com/api.php/provide/vod/at/xml,解析
@@ -87,12 +87,14 @@ AVZY6888资源,http://m.7777688.com/inc/api.php,解析
 鲨鱼资源,https://shayuapi.com/api.php/provide/vod/at/xml,解析
 速度资源,http://www.ggmmzy.com:9999/inc/xml,解析
 优果资源,https://www.ugirl6.com/inc/zyapimac.php,解析
-芒果AV,http://www.mgav1.cc/api.php/provide/vod/,解析
+KK写真资源,https://api.fengapp.xyz/api.php/provide/vod/at/xml,解析
+芒果AV,http://www.mgav1.cc/api.php/provide/vod/at/xml,解析
 百度伦理,http://www.llbdzy.com/api.php/provide/vod/at/xml,解析
 SB资源,http://www.shabizy.com:777/inc/sea,解析
 1024资源,https://www.1024nf.com/api.php/provide/vod/at/xml/,解析
 猛牛资源,http://nen13.space/api.php/provide/vod/at/xml,解析
 99,http://yllzy.com/api.php/provide/vod/at/xml/,解析
+若梦影视,http://47.106.80.129/api.php/provide/vod/at/xml,解析
 结束
 解析：
 1717,http://www.1717yun.com/jx/ty.php?url=
