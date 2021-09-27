@@ -89,6 +89,14 @@
 		"categories": []
 	},
 	{
+		"key": "52T资源",
+		"name": "52T资源",
+		"type": 0,
+		"api": "http://api.xxcr.tk/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "三零资源",
 		"name": "三零资源",
 		"type": 0,
@@ -813,6 +821,30 @@
 		"name": "清莲影院",
 		"type": 0,
 		"api": "https://www.qinglyy.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "小小影视",
+		"name": "小小影视",
+		"type": 0,
+		"api": "http://haowywz.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "晓峰影视",
+		"name": "晓峰影视",
+		"type": 0,
+		"api": "http://api.xxcr.tk/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "南瓜影视",
+		"name": "南瓜影视",
+		"type": 0,
+		"api": "http://www.xfeiji.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
