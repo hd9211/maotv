@@ -46,7 +46,23 @@
 		"type": 0,
 		"api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
 		"playUrl": "",
-		"categories": []
+		"categories": [
+		"国产剧",
+        	"港台剧",
+        	"日韩剧",
+        	"欧美剧",
+       	 	"泰国剧",
+        	"综艺片",
+        	"动漫片",
+        	"动作片",
+        	"喜剧片",
+        	"爱情片",
+        	"科幻片",
+       	 	"恐怖片",
+        	"剧情片",
+        	"战争片",
+        	"纪录片"
+		]
 	},
 	{
 		"key": "2A资源",
