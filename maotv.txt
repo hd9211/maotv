@@ -2582,6 +2582,7 @@
     "wasu",
     "bilibili"
   ],
+"spider": "https://www.sharerw.com/custom_spider.jar",
 "ijk": [
     {
       "group": "软解码",
