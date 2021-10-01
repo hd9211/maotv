@@ -2282,7 +2282,7 @@
         }
     ],
   "parses": [
-  	{
+	{
 		"name": "鲨鱼",
 		"url": "https://www.mgtv.com.favnow.com/?token=sharktv&v="
 	},
@@ -2293,7 +2293,7 @@
 	{
 		"name": "chok",
 		"url": "https://www.chok8.com/jx/?url="
-	}, 
+	},
 	{
 		"name": "1717",
 		"url": "http://www.1717yun.com/jx/ty.php?url="
@@ -2302,7 +2302,7 @@
 		"name": "OK",
 		"url": "http://okjx.cc/?url="
 	},
-		{
+	{
 		"name": "蓝猫",
 		"url": "https://jx.daidaitv.top:43810/?url="
 	},
@@ -2318,7 +2318,7 @@
 		"name": "2ajx",
 		"url": "https://www.2ajx.com/vip.php?url="
 	},
-		{
+	{
 		"name": "解析啦",
 		"url": " https://api.jiexi.la/?url="
 	},
@@ -2343,8 +2343,8 @@
 		"url": "http://www.kpezp.cn/jlexi.php?url="
 	},
 	{
-		"name": "暮光",
-		"url": "http://muguang.mgtv.com.muguangys.com/jiexi.php?url="
+		"name": "暮光解析",
+		"url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
 	},
 	{
 		"name": "弹幕",
@@ -2360,23 +2360,25 @@
 	},
 	{
 		"name": "parwix",
-		"url": "http://jx.parwix.com:4433/player/?url="
+		"url": "https://vip.parwix.com:4433/player/?url="
 	},
 	{
-		"name": "jsonm3u8",
-		"url": "http://json.m3u8.tv:7788/json.php?url="
+		"name": "Json.M3u8",
+		"url": "https://json.m3u8.tv:7788/json.php?url=",
+		"type": 1
 	},
 	{
-		"name": "jsonvodjx",
-		"url": "http://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="
+		"name": "Json.VodJX",
+		"url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=",
+		"type": 1
 	},
 	{
 		"name": "纯净",
-		"url": "http://z1.m1907.cn/?jx="
+		"url": "https://z1.m1907.cn/?jx="
 	},
 	{
 		"name": "高速",
-		"url": "http://jsap.attakids.com/?url="
+		"url": "https://jsap.attakids.com/?url="
 	},
 	{
 		"name": "B站1",
@@ -2384,11 +2386,11 @@
 	},
 	{
 		"name": "B站2",
-		"url": "http://www.cuan.la/m3u8.php?url="
+		"url": "https://www.cuan.la/m3u8.php?url="
 	},
 	{
 		"name": "虾米",
-		"url": "http://jx.xmflv.com/?url="
+		"url": "https://jx.xmflv.com/?url="
 	},
 	{
 		"name": "Ckplayer",
@@ -2396,7 +2398,7 @@
 	},
 	{
 		"name": "BL",
-		"url": "http://vip.bljiex.com/?v="
+		"url": "https://vip.bljiex.com/?v="
 	},
 	{
 		"name": "乐多",
@@ -2404,103 +2406,111 @@
 	},
 	{
 		"name": "ccyjjd",
-		"url": "http://ckmov.ccyjjd.com/ckmov/?url="
+		"url": "https://ckmov.ccyjjd.com/ckmov/?url="
 	},
 	{
 		"name": "M3U8",
-		"url": "http://jx.m3u8.tv/jiexi/?url="
+		"url": "https://jx.m3u8.tv/jiexi/?url="
 	},
 	{
 		"name": "老板",
-		"url": "http://vip.laobandq.com/jiexi.php?url="
+		"url": "https://vip.laobandq.com/jiexi.php?url="
 	},
 	{
 		"name": "Mao",
-		"url": "http://qd.hxys.tv/m3u8.php?url="
+		"url": "https://qd.hxys.tv/m3u8.php?url="
 	},
 	{
 		"name": "盘古",
-		"url": "http://www.pangujiexi.cc/jiexi.php?url="
+		"url": "https://www.pangujiexi.cc/jiexi.php?url="
 	},
 	{
 		"name": "SSAMAO",
-		"url": "http://www.ssamao.com/jx/?url="
+		"url": "https://www.ssamao.com/jx/?url="
 	},
 	{
 		"name": "无极",
-		"url": "http://da.wujiys.com/?url="
+		"url": "https://da.wujiys.com/?url="
 	},
 	{
 		"name": "618G",
-		"url": "http://jx.618g.com/?url="
+		"url": "https://jx.618g.com/?url="
 	},
 	{
 		"name": "ckmov",
-		"url": "http://www.ckmov.vip/api.php?url="
+		"url": "https://www.ckmov.vip/api.php?url="
 	},
 	{
 		"name": "迪奥",
-		"url": "http://123.1dior.cn/?url="
+		"url": "https://123.1dior.cn/?url="
 	},
 	{
 		"name": "福星",
-		"url": "http://jx.popo520.cn/jiexi/?url="
+		"url": "https://jx.popo520.cn/jiexi/?url="
 	},
 	{
 		"name": "RDHK",
-		"url": "http://jx.rdhk.net/?url="
+		"url": "https://jx.rdhk.net/?v="
 	},
 	{
 		"name": "H8",
-		"url": "http://www.h8jx.com/jiexi.php?url="
+		"url": "https://www.h8jx.com/jiexi.php?url="
 	},
 	{
 		"name": "解析la",
-		"url": "http://api.jiexi.la/?url="
+		"url": "https://api.jiexi.la/?url="
 	},
 	{
 		"name": "久播",
-		"url": "http://jx.jiubojx.com/vip.php?url="
+		"url": "https://jx.jiubojx.com/vip.php?url="
 	},
 	{
 		"name": "九八",
-		"url": "http://jx.youyitv.com/?url="
+		"url": "https://jx.youyitv.com/?url="
 	},
 	{
 		"name": "老板",
-		"url": "http://vip.laobandq.com/jiexi.php?url="
+		"url": "https://vip.laobandq.com/jiexi.php?url="
 	},
 	{
 		"name": "乐喵",
-		"url": "http://jx.hao-zsj.cn/vip/?url="
+		"url": "https://jx.hao-zsj.cn/vip/?url="
 	},
 	{
 		"name": "MUTV",
-		"url": "http://jiexi.janan.net/jiexi/?url="
+		"url": "https://jiexi.janan.net/jiexi/?url="
 	},
 	{
 		"name": "明日",
-		"url": "http://jx.yingxiangbao.cn/vip.php?url="
+		"url": "https://jx.yingxiangbao.cn/vip.php?url="
 	},
 	{
 		"name": "磨菇",
-		"url": "http://jx.wzslw.cn/?url="
+		"url": "https://jx.wzslw.cn/?url="
+	},
+	{
+		"name": "OK",
+		"url": "https://okjx.cc/?url="
 	},
 	{
 		"name": "维多",
-		"url": "http://jx.ivito.cn/?url="
+		"url": "https://jx.ivito.cn/?url="
+	},
+	{
+		"name": "小蒋",
+		"url": "https://www.kpezp.cn/jlexi.php?url="
 	},
 	{
 		"name": "小狼",
-		"url": "http://jx.yaohuaxuan.com/?url="
+		"url": "https://jx.yaohuaxuan.com/?url="
 	},
 	{
 		"name": "智能",
-		"url": "http://vip.kurumit3.top/?v="
+		"url": "https://vip.kurumit3.top/?v="
 	},
 	{
 		"name": "星驰",
-		"url": "http://vip.cjys.top/?url="
+		"url": "https://vip.cjys.top/?url="
 	},
 	{
 		"name": "星空",
@@ -2508,35 +2518,39 @@
 	},
 	{
 		"name": "月亮",
-		"url": "http://api.yueliangjx.com/?url="
+		"url": "https://api.yueliangjx.com/?url="
 	},
 	{
-		"name": "523",
-		"url": "http://go.yh0523.cn/y.cy?url="
+		"name": "0523",
+		"url": "https://go.yh0523.cn/y.cy?url="
 	},
 	{
 		"name": "云端",
-		"url": "http://jx.ergan.top/?url="
+		"url": "https://jx.ergan.top/?url="
+	},
+	{
+		"name": "17云",
+		"url": "https://www.1717yun.com/jx/ty.php?url="
 	},
 	{
 		"name": "66",
-		"url": "http://api.3jx.top/vip/?url="
+		"url": "https://api.3jx.top/vip/?url="
 	},
 	{
 		"name": "116",
-		"url": "http://jx.116kan.com/?url="
+		"url": "https://jx.116kan.com/?url="
 	},
 	{
 		"name": "200",
-		"url": "http://vip.66parse.club/?url="
+		"url": "https://vip.66parse.club/?url="
 	},
 	{
 		"name": "云析",
-		"url": "http://jx.yparse.com/index.php?url="
+		"url": "https://jx.yparse.com/index.php?url="
 	},
 	{
 		"name": "8090",
-		"url": "http://www.8090g.cn/?url="
+		"url": "https://www.8090g.cn/?url="
 	}
 ],
   "flags": [
@@ -2549,8 +2563,10 @@
     "tudou",
     "pptv",
     "mgtv",
-    "wasu"
+    "wasu",
+    "bilibili"
   ],
+"spider": "https://www.sharerw.com/custom_spider.jar",
   "ijk": [
     {
       "group": "软解码",
@@ -2773,3 +2789,4 @@
     "cms.qdwght.com"
   ]
 }
+
