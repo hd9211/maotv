@@ -1,42 +1,10 @@
 {
     "sites": [
 	{
-		"key": "1717资源",
-		"name": "1717资源",
-		"type": 0,
-		"api": "http://zy.itono.cn/inc/api.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "8090资源",
-		"name": "8090资源",
-		"type": 0,
-		"api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "萌果资源",
 		"name": "萌果资源",
 		"type": 0,
 		"api": "http://api.appearoo.top/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "乐喵资源",
-		"name": "乐喵资源",
-		"type": 0,
-		"api": "https://98hyk.cn/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "好好资源",
-		"name": "好好资源",
-		"type": 0,
-		"api": "http://haohaozy.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -77,22 +45,6 @@
 		"name": "M3U8.TV资源",
 		"type": 0,
 		"api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "360资源",
-		"name": "360资源",
-		"type": 0,
-		"api": "http://xa88.vip:88/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "52T资源",
-		"name": "52T资源",
-		"type": 0,
-		"api": "http://api.xxcr.tk/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -169,6 +121,22 @@
 		"categories": []
 	},
 	{
+		"key": "欧宝资源",
+		"name": "欧宝资源",
+		"type": 0,
+		"api": "http://obaowl.cn/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "百搜资源",
+		"name": "百搜资源",
+		"type": 0,
+		"api": "https://vip.baisou.ltd/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "白嫖资源",
 		"name": "白嫖资源",
 		"type": 0,
@@ -241,22 +209,6 @@
 		"categories": []
 	},
 	{
-		"key": "嘿锋影视",
-		"name": "嘿锋影视",
-		"type": 0,
-		"api": "https://www.hfys8.vip/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "U猫m3u8",
-		"name": "U猫m3u8",
-		"type": 0,
-		"api": "http://umao.ml/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "TVB云播",
 		"name": "TVB云播",
 		"type": 0,
@@ -268,7 +220,7 @@
 		"key": "九九美剧",
 		"name": "九九美剧",
 		"type": 0,
-		"api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
+		"api": "https://www.999meiju.tv/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -329,6 +281,14 @@
 		"categories": []
 	},
 	{
+		"key": "348电影网",
+		"name": "348电影网",
+		"type": 0,
+		"api": "https://348z.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "YT影视",
 		"name": "YT影视",
 		"type": 0,
@@ -341,6 +301,14 @@
 		"name": "火星2048",
 		"type": 0,
 		"api": "https://www.hx2048.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "美剧星球",
+		"name": "美剧星球",
+		"type": 0,
+		"api": "https://www.meijuxq.tv/inc/api.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -365,6 +333,14 @@
 		"name": "污妖动漫",
 		"type": 0,
 		"api": "https://www.wyydm.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "天龙影院",
+		"name": "天龙影院",
+		"type": 0,
+		"api": "http://www.tl86dy.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -445,6 +421,14 @@
 		"name": "最新(云播)资源",
 		"type": 0,
 		"api": "https://api.yunboys.cn/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "樱花资源",
+		"name": "樱花资源",
+		"type": 0,
+		"api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -545,26 +529,10 @@
 		"categories": []
 	},
 	{
-		"key": "卧龙资源",
-		"name": "卧龙资源",
-		"type": 0,
-		"api": "https://www.wolongzyw.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "穿梭资源",
 		"name": "穿梭资源",
 		"type": 0,
 		"api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "云播APP",
-		"name": "云播APP",
-		"type": 0,
-		"api": "http://bxin.tv/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -585,14 +553,6 @@
 		"categories": []
 	},
 	{
-		"key": "免费影院",
-		"name": "免费影院",
-		"type": 0,
-		"api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "追剧吧",
 		"name": "追剧吧",
 		"type": 0,
@@ -605,14 +565,6 @@
 		"name": "嗨哆咪影视",
 		"type": 0,
 		"api": "http://hdmys1.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "哆咪动漫",
-		"name": "哆咪动漫",
-		"type": 0,
-		"api": "http://www.dmdm2020.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -745,22 +697,6 @@
 		"categories": []
 	},
 	{
-		"key": "若梦影视",
-		"name": "若梦影视",
-		"type": 0,
-		"api": "http://47.106.80.129/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "追剧喵",
-		"name": "追剧喵",
-		"type": 0,
-		"api": "https://zjmiao.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "孤单影院",
 		"name": "孤单影院",
 		"type": 0,
@@ -812,7 +748,7 @@
 		"key": "X8影音",
 		"name": "X8影音",
 		"type": 0,
-		"api": "https://www.x8x8-vip-1.ru/api.php/provide/vod/at/xml",
+		"api": "https://www.govliaoning.site/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -857,10 +793,66 @@
 		"categories": []
 	},
 	{
+		"key": "1717资源",
+		"name": "1717资源",
+		"type": 0,
+		"api": "http://zy.itono.cn/inc/api.php",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "8090资源",
+		"name": "8090资源",
+		"type": 0,
+		"api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "乐喵资源",
+		"name": "乐喵资源",
+		"type": 0,
+		"api": "https://98hyk.cn/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "好好资源",
+		"name": "好好资源",
+		"type": 0,
+		"api": "http://haohaozy.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "360资源",
+		"name": "360资源",
+		"type": 0,
+		"api": "http://xa88.vip:88/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "2K资源",
 		"name": "2K资源",
 		"type": 0,
 		"api": "http://2kzyz.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "U猫m3u8",
+		"name": "U猫m3u8",
+		"type": 0,
+		"api": "http://umao.ml/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "卧龙资源",
+		"name": "卧龙资源",
+		"type": 0,
+		"api": "https://www.wolongzyw.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -945,14 +937,6 @@
 		"categories": []
 	},
 	{
-		"key": "美剧星球",
-		"name": "美剧星球",
-		"type": 0,
-		"api": "https://www.meijuxq.com/inc/api.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "思古影院",
 		"name": "思古影院",
 		"type": 0,
@@ -977,6 +961,14 @@
 		"categories": []
 	},
 	{
+		"key": "嘿锋影视",
+		"name": "嘿锋影视",
+		"type": 0,
+		"api": "https://hfys8.vip/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "红影APP",
 		"name": "红影APP",
 		"type": 0,
@@ -985,10 +977,58 @@
 		"categories": []
 	},
 	{
+		"key": "云播APP",
+		"name": "云播APP",
+		"type": 0,
+		"api": "http://bxin.tv/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "快活资源",
 		"name": "快活资源",
 		"type": 0,
 		"api": "https://www.khzywapi.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "免费影院",
+		"name": "免费影院",
+		"type": 0,
+		"api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "哆咪动漫",
+		"name": "哆咪动漫",
+		"type": 0,
+		"api": "http://www.dmdm2020.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "若梦影视",
+		"name": "若梦影视",
+		"type": 0,
+		"api": "http://47.106.80.129/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "追剧喵",
+		"name": "追剧喵",
+		"type": 0,
+		"api": "https://zjmiao.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "5X资源",
+		"name": "5X资源",
+		"type": 0,
+		"api": "http://0413.api.cdn.5api123.com/api.php",
 		"playUrl": "",
 		"categories": []
 	},
