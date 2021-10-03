@@ -1,6 +1,22 @@
 {
     "sites": [
 	{
+		"key": "1717资源",
+		"name": "1717资源",
+		"type": 0,
+		"api": "http://zy.itono.cn/inc/api.php",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "8090资源",
+		"name": "8090资源",
+		"type": 0,
+		"api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "萌果资源",
 		"name": "萌果资源",
 		"type": 0,
@@ -137,6 +153,14 @@
 		"categories": []
 	},
 	{
+		"key": "忘忧果",
+		"name": "忘忧果",
+		"type": 0,
+		"api": "https://ax.jx.cn/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "白嫖资源",
 		"name": "白嫖资源",
 		"type": 0,
@@ -252,7 +276,7 @@
 		"key": "饭团影视",
 		"name": "饭团影视",
 		"type": 0,
-		"api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
+		"api": "https://fantuan.wkfile.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -748,7 +772,7 @@
 		"key": "X8影音",
 		"name": "X8影音",
 		"type": 0,
-		"api": "https://www.govliaoning.site/api.php/provide/vod/at/xml",
+		"api": "https://www.govzhejiang.ru/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -781,6 +805,22 @@
 		"name": "南瓜影视",
 		"type": 0,
 		"api": "http://www.xfeiji.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "不开门",
+		"name": "不开门",
+		"type": 0,
+		"api": "http://c.bukai.men/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "蜗牛看鸭",
+		"name": "蜗牛看鸭",
+		"type": 0,
+		"api": "http://snailkya.xyz/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1204,7 +1244,7 @@
 		"key": "速播资源",
 		"name": "速播资源",
 		"type": 0,
-		"api": "http://api.suboapi.com/api.php/provide/vod/at/xml",
+		"api": "https://api.suboapi.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1221,6 +1261,46 @@
 		"name": "色花都",
 		"type": 0,
 		"api": "http://sehuadu.life/inc/api.php",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "酷豆资源",
+		"name": "酷豆资源",
+		"type": 0,
+		"api": "https://api.kdapi.info/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "378资源",
+		"name": "378资源",
+		"type": 0,
+		"api": "http://378zy.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "猛牛影视",
+		"name": "猛牛影视",
+		"type": 0,
+		"api": "https://mnys12.site/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "5X资源",
+		"name": "5X资源",
+		"type": 0,
+		"api": "https://0413.api.cdn.5api123.com/api.php",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "银龙资源",
+		"name": "银龙资源",
+		"type": 0,
+		"api": "https://yinlong.tv/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1561,22 +1641,6 @@
 		"categories": []
 	},
 	{
-		"key": "1717资源",
-		"name": "1717资源",
-		"type": 0,
-		"api": "http://zy.itono.cn/inc/api.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "8090资源",
-		"name": "8090资源",
-		"type": 0,
-		"api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "乐喵资源",
 		"name": "乐喵资源",
 		"type": 0,
@@ -1789,14 +1853,6 @@
 		"name": "追剧喵",
 		"type": 0,
 		"api": "https://zjmiao.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "5X资源",
-		"name": "5X资源",
-		"type": 0,
-		"api": "http://0413.api.cdn.5api123.com/api.php",
 		"playUrl": "",
 		"categories": []
 	},
