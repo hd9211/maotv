@@ -1,6 +1,22 @@
 {
     "sites": [
 	{
+		"key": "1717资源",
+		"name": "1717资源",
+		"type": 0,
+		"api": "http://zy.itono.cn/inc/api.php",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "8090资源",
+		"name": "8090资源",
+		"type": 0,
+		"api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "萌果资源",
 		"name": "萌果资源",
 		"type": 0,
@@ -137,6 +153,14 @@
 		"categories": []
 	},
 	{
+		"key": "忘忧果",
+		"name": "忘忧果",
+		"type": 0,
+		"api": "https://ax.jx.cn/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "白嫖资源",
 		"name": "白嫖资源",
 		"type": 0,
@@ -252,7 +276,7 @@
 		"key": "饭团影视",
 		"name": "饭团影视",
 		"type": 0,
-		"api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
+		"api": "https://fantuan.wkfile.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -748,7 +772,7 @@
 		"key": "X8影音",
 		"name": "X8影音",
 		"type": 0,
-		"api": "https://www.govliaoning.site/api.php/provide/vod/at/xml",
+		"api": "https://www.govzhejiang.ru/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -785,26 +809,26 @@
 		"categories": []
 	},
 	{
+		"key": "不开门",
+		"name": "不开门",
+		"type": 0,
+		"api": "http://c.bukai.men/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "蜗牛看鸭",
+		"name": "蜗牛看鸭",
+		"type": 0,
+		"api": "http://snailkya.xyz/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "恐怖鸭资源",
 		"name": "恐怖鸭资源",
 		"type": 0,
 		"api": "https://kongbuya.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "1717资源",
-		"name": "1717资源",
-		"type": 0,
-		"api": "http://zy.itono.cn/inc/api.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "8090资源",
-		"name": "8090资源",
-		"type": 0,
-		"api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1021,14 +1045,6 @@
 		"name": "追剧喵",
 		"type": 0,
 		"api": "https://zjmiao.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "5X资源",
-		"name": "5X资源",
-		"type": 0,
-		"api": "http://0413.api.cdn.5api123.com/api.php",
 		"playUrl": "",
 		"categories": []
 	},
