@@ -51,9 +51,14 @@ AV集中淫,https://www.caiji22.com/home/cjapi/35f4a8d465e6e1edc05f3d8ab658c551/
 EU资源,http://euzy9.xyz/api.php/provide/vod/at/xml,解析
 AE86资源,https://www.ae86zy.com/api.php/provide/vod/at/xml,解析
 浪潮资源,http://langchaozy6.com/api.php/provide/vod/at/xml,解析
-速播资源,http://api.suboapi.com/api.php/provide/vod/at/xml,解析
+速播资源,https://api.suboapi.com/api.php/provide/vod/at/xml,解析
 逼哩逼哩视频,http://blbl.space/inc/api.php,解析
 色花都,http://sehuadu.life/inc/api.php,解析
+酷豆资源,https://api.kdapi.info/api.php/provide/vod/at/xml,解析
+378资源,http://378zy.com/api.php/provide/vod/at/xml,解析
+猛牛影视,https://mnys12.site/api.php/provide/vod/at/xml,解析
+5X资源,https://0413.api.cdn.5api123.com/api.php,解析
+银龙资源,https://yinlong.tv/api.php/provide/vod/at/xml,解析
 美少女资源,https://www.msnii.com/api/xml.php,解析
 淫水机资源,https://www.xrbsp.com/api/xml.php,解析
 香奶儿资源,https://www.gdlsp.com/api/xml.php,解析
