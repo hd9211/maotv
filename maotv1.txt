@@ -2188,7 +2188,7 @@
     "wasu",
     "bilibili"
   ],
- "spider": "https://www.sharerw.com/custom_spider.jar",
+"spider": "https://gitee.com/sharerwtv/mao/raw/master/custom_spider.jar",
 "ijk": [
     {
       "group": "软解码",
