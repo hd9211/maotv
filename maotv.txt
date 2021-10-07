@@ -161,6 +161,22 @@
 		"categories": []
 	},
 	{
+		"key": "木白资源",
+		"name": "木白资源",
+		"type": 0,
+		"api": "https://cj.22xr.cn/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "蓝猫影视",
+		"name": "蓝猫影视",
+		"type": 0,
+		"api": "http://tv.daidaitv.top:43800/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "白嫖资源",
 		"name": "白嫖资源",
 		"type": 0,
@@ -201,10 +217,42 @@
 		"categories": []
 	},
 	{
+		"key": "555电影",
+		"name": "555电影",
+		"type": 0,
+		"api": "http://w7tv.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "5060影院",
+		"name": "5060影院",
+		"type": 0,
+		"api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "迷你库(人人迷)",
+		"name": "迷你库(人人迷)",
+		"type": 0,
+		"api": "https://www.miniku.cc/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "竹嘎(蓝光解析)",
 		"name": "竹嘎(蓝光解析)",
 		"type": 0,
 		"api": "http://m.ycccyk.cn/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "喵派对蓝光",
+		"name": "喵派对蓝光",
+		"type": 0,
+		"api": "https://www.neenl.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -457,10 +505,18 @@
 		"categories": []
 	},
 	{
+		"key": "想看资源",
+		"name": "想看资源",
+		"type": 0,
+		"api": "https://m3u8.xiangkanapi.com/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "酷点资源",
 		"name": "酷点资源",
 		"type": 0,
-		"api": "https://kudian8.com/api.php/provide/vod/at/xml",
+		"api": "https://api.kuapi.cc/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -825,6 +881,38 @@
 		"categories": []
 	},
 	{
+		"key": "趣看",
+		"name": "趣看",
+		"type": 0,
+		"api": "http://qkmp4.cn/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "千寻时光",
+		"name": "千寻时光",
+		"type": 0,
+		"api": "http://wy.dqyhg.cn/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "快看客栈",
+		"name": "快看客栈",
+		"type": 0,
+		"api": "https://www.vp1127.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "嘀哩嘀哩",
+		"name": "嘀哩嘀哩",
+		"type": 0,
+		"api": "http://api.diliktv.xyz/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "77资源",
 		"name": "77资源",
 		"type": 0,
@@ -901,6 +989,14 @@
 		"name": "色猫资源",
 		"type": 0,
 		"api": "https://api.maozyapi.com/inc/api.php",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "色狗资源",
+		"name": "色狗资源",
+		"type": 0,
+		"api": "https://segouzy1.com/inc/api.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1693,14 +1789,6 @@
 		"name": "熊猫视频",
 		"type": 0,
 		"api": "https://www.xiongmaosp.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "喵派对蓝光",
-		"name": "喵派对蓝光",
-		"type": 0,
-		"api": "https://www.neenl.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
