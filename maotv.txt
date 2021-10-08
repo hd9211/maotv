@@ -988,7 +988,7 @@
 		"key": "色猫资源",
 		"name": "色猫资源",
 		"type": 0,
-		"api": "https://api.maozyapi.com/inc/api.php",
+		"api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -996,7 +996,7 @@
 		"key": "色狗资源",
 		"name": "色狗资源",
 		"type": 0,
-		"api": "https://segouzy1.com/inc/api.php",
+		"api": "https://segouzy1.com/inc/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
