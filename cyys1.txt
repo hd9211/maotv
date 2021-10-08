@@ -8,8 +8,8 @@
 秀色资源,https://api.xiuseapi.com/api.php/provide/vod/at/xml,解析
 探探资源,https://apittzy.com/api.php/provide/vod/at/xml,解析
 桃色资源,https://api.taoseapi.com/api.php/provide/vod/at/xml,解析
-色猫资源,https://api.maozyapi.com/inc/api.php,解析
-色狗资源,https://segouzy1.com/inc/api.php,解析
+色猫资源,https://api.maozyapi.com/inc/api.php/provide/vod/at/xml,解析
+色狗资源,https://segouzy1.com/inc/api.php/provide/vod/at/xml,解析
 骚色资源,http://api.saosezy.icu/api.php/provide/vod/at/xml,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
 色屌丝资源,http://sdscj11.com/home/cjapi/9bf31c7ff062936a96d3c8bd1f8f2ff3/vod/xml,解析
