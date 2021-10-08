@@ -1244,7 +1244,7 @@
 		"key": "鲍鱼BB",
 		"name": "鲍鱼BB",
 		"type": 0,
-		"api": "http://baoyub.live/inc/api.php",
+		"api": "http://baoyub.live/inc/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1348,7 +1348,7 @@
 		"key": "逼哩逼哩视频",
 		"name": "逼哩逼哩视频",
 		"type": 0,
-		"api": "http://blbl.space/inc/api.php",
+		"api": "http://blbl.space/inc/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
