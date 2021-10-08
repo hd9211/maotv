@@ -40,7 +40,7 @@ AV集中淫,https://www.caiji22.com/home/cjapi/35f4a8d465e6e1edc05f3d8ab658c551/
 99资源,http://99zy.pw/api.php/provide/vod/at/xml,解析
 010爱资源,http://www.010aizy.com/API/macs.php,解析
 淘剧影院,https://www.tjyy06.com/api.php/provide/vod/at/xml,解析
-鲍鱼BB,http://baoyub.live/inc/api.php,解析
+鲍鱼BB,http://baoyub.live/inc/api.php/provide/vod/at/xml,解析
 天堂AV,http://www.njxinli.com/inc/api.php,解析
 痴汉队长,https://javcaptain.com/api.php/provide/vod/at/xml,解析
 爱麻豆,http://emodao.la/api.php/provide/vod/at/xml,解析
@@ -53,7 +53,7 @@ EU资源,http://euzy9.xyz/api.php/provide/vod/at/xml,解析
 AE86资源,https://www.ae86zy.com/api.php/provide/vod/at/xml,解析
 浪潮资源,http://langchaozy6.com/api.php/provide/vod/at/xml,解析
 速播资源,https://api.suboapi.com/api.php/provide/vod/at/xml,解析
-逼哩逼哩视频,http://blbl.space/inc/api.php,解析
+逼哩逼哩视频,http://blbl.space/inc/api.php/provide/vod/at/xml,解析
 色花都,http://sehuadu.life/inc/api.php,解析
 酷豆资源,https://api.kdapi.info/api.php/provide/vod/at/xml,解析
 378资源,http://378zy.com/api.php/provide/vod/at/xml,解析
