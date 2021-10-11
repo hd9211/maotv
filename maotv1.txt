@@ -108,7 +108,7 @@
 		"key": "清欢资源",
 		"name": "清欢资源",
 		"type": 0,
-		"api": "https://www.qinghuanzy.cn/api.php/provide/vod/at/xml",
+		"api": "http://free.qinghuanzy.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -117,6 +117,14 @@
 		"name": "融兴资源",
 		"type": 0,
 		"api": "https://www.rongxingvr.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "融兴bilibili",
+		"name": "融兴bilibili",
+		"type": 0,
+		"api": "https://bilibili.rongxingvr.cc/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -213,6 +221,14 @@
 		"name": "多多资源",
 		"type": 0,
 		"api": "https://www.duoduozy.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "一帆资源(VPN)",
+		"name": "一帆资源(VPN)",
+		"type": 0,
+		"api": "http://demo.if101.tv/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1085,14 +1101,6 @@
 		"name": "云播APP",
 		"type": 0,
 		"api": "http://bxin.tv/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "快活资源",
-		"name": "快活资源",
-		"type": 0,
-		"api": "https://www.khzywapi.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
