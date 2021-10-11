@@ -108,7 +108,7 @@
 		"key": "清欢资源",
 		"name": "清欢资源",
 		"type": 0,
-		"api": "https://www.qinghuanzy.cn/api.php/provide/vod/at/xml",
+		"api": "http://free.qinghuanzy.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -117,6 +117,14 @@
 		"name": "融兴资源",
 		"type": 0,
 		"api": "https://www.rongxingvr.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "融兴bilibili",
+		"name": "融兴bilibili",
+		"type": 0,
+		"api": "https://bilibili.rongxingvr.cc/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -213,6 +221,14 @@
 		"name": "多多资源",
 		"type": 0,
 		"api": "https://www.duoduozy.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "一帆资源(VPN)",
+		"name": "一帆资源(VPN)",
+		"type": 0,
+		"api": "http://demo.if101.tv/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1233,14 +1249,6 @@
 		"categories": []
 	},
 	{
-		"key": "淘剧影院",
-		"name": "淘剧影院",
-		"type": 0,
-		"api": "https://www.tjyy06.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "鲍鱼BB",
 		"name": "鲍鱼BB",
 		"type": 0,
@@ -1261,14 +1269,6 @@
 		"name": "痴汉队长",
 		"type": 0,
 		"api": "https://javcaptain.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "爱麻豆",
-		"name": "爱麻豆",
-		"type": 0,
-		"api": "http://emodao.la/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1353,18 +1353,10 @@
 		"categories": []
 	},
 	{
-		"key": "色花都",
-		"name": "色花都",
-		"type": 0,
-		"api": "http://sehuadu.life/inc/api.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "酷豆资源",
 		"name": "酷豆资源",
 		"type": 0,
-		"api": "https://api.kdapi.info/api.php/provide/vod/at/xml",
+		"api": "https://kudouzy.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1385,8 +1377,8 @@
 		"categories": []
 	},
 	{
-		"key": "5X资源",
-		"name": "5X资源",
+		"key": "5X社区",
+		"name": "5X社区",
 		"type": 0,
 		"api": "https://0413.api.cdn.5api123.com/api.php",
 		"playUrl": "",
@@ -1513,14 +1505,6 @@
 		"categories": []
 	},
 	{
-		"key": "趣播资源",
-		"name": "趣播资源",
-		"type": 0,
-		"api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "博天堂",
 		"name": "博天堂",
 		"type": 0,
@@ -1601,22 +1585,6 @@
 		"categories": []
 	},
 	{
-		"key": "久草资源",
-		"name": "久草资源",
-		"type": 0,
-		"api": "http://jcspcj8.co/sapi",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "久草在线视频",
-		"name": "久草在线视频",
-		"type": 0,
-		"api": "https://hhjc2.com/sapi",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "利来资源",
 		"name": "利来资源",
 		"type": 0,
@@ -1628,7 +1596,7 @@
 		"key": "佳丽资源",
 		"name": "佳丽资源",
 		"type": 0,
-		"api": "https://api.jializyzapi.com/inc/api.php",
+		"api": "https://jializyzapi.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1909,6 +1877,54 @@
 		"name": "快活资源",
 		"type": 0,
 		"api": "https://www.khzywapi.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "淘剧影院",
+		"name": "淘剧影院",
+		"type": 0,
+		"api": "https://www.tjyy06.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "爱麻豆",
+		"name": "爱麻豆",
+		"type": 0,
+		"api": "http://emodao.la/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "色花都",
+		"name": "色花都",
+		"type": 0,
+		"api": "http://sehuadu.life/inc/api.php",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "趣播资源",
+		"name": "趣播资源",
+		"type": 0,
+		"api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "久草资源",
+		"name": "久草资源",
+		"type": 0,
+		"api": "http://jcspcj8.co/sapi",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "久草在线视频",
+		"name": "久草在线视频",
+		"type": 0,
+		"api": "https://hhjc2.com/sapi",
 		"playUrl": "",
 		"categories": []
 	},
