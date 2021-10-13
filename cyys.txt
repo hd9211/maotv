@@ -49,6 +49,7 @@ BL视频,https://bljiex.com/api.php/provide/vod/at/xml,解析
 YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
 火星2048,https://www.hx2048.com/api.php/provide/vod/at/xml,解析
 美剧星球,https://www.meijuxq.tv/inc/api.php,解析
+爱搜影院,http://yunbangcheng.com/api.php/provide/vod/at/xml,解析
 人人资源,https://www.rrzyw.cc/api.php/provide/vod/at/xml,解析
 真不卡,http://db.taijuwang.cc/api.php/provide/vod/at/xml,解析
 污妖动漫,https://www.wyydm.com/api.php/provide/vod/at/xml,解析
@@ -80,6 +81,7 @@ YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
 穿梭资源,http://ok.888hyk.com/api.php/provide/vod/at/xml,解析
 蓝果APP,http://www.languotv.com/api.php/provide/vod/at/xml,解析
 播放呀APP,https://www.bofangya.com/api.php/provide/vod/at/xml,解析
+流星雨APP,http://syy.lxyyy.xyz/mv/api.php/provide/vod/at/xml,解析
 追剧吧,http://www.huaxiab.com/api.php/provide/vod/at/xml,解析
 嗨哆咪影视,http://hdmys1.com/api.php/provide/vod/at/xml,解析
 安逸影院,http://dy.51isu.com:11801/api.php/provide/vod/at/xml,解析
@@ -115,6 +117,7 @@ X8影音,https://www.govzhejiang.ru/api.php/provide/vod/at/xml,解析
 千寻时光,http://wy.dqyhg.cn/api.php/provide/vod/at/xml,解析
 快看客栈,https://www.vp1127.com/api.php/provide/vod/at/xml,解析
 嘀哩嘀哩,http://api.diliktv.xyz/api.php/provide/vod/at/xml,解析
+
 恐怖鸭资源,https://kongbuya.com/api.php/provide/vod/at/xml,解析
 乐喵资源,https://98hyk.cn/api.php/provide/vod/at/xml,解析
 好好资源,http://haohaozy.com/api.php/provide/vod/at/xml,解析
@@ -137,6 +140,7 @@ U猫m3u8,http://umao.ml/api.php/provide/vod/at/xml,解析
 嘿锋影视,https://hfys8.vip/api.php/provide/vod/at/xml,解析
 红影APP,http://csksk.com/api.php/provide/vod/at/xml,解析
 云播APP,http://bxin.tv/api.php/provide/vod/at/xml,解析
+趣播资源,https://www.qbzyz.com/api.php/provide/vod/at/xml,解析
 免费影院,http://www.ruiuri.com/api.php/provide/vod/at/xml,解析
 哆咪动漫,http://www.dmdm2020.com/api.php/provide/vod/at/xml,解析
 若梦影视,http://47.106.80.129/api.php/provide/vod/at/xml,解析
