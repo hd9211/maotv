@@ -401,6 +401,14 @@
 		"categories": []
 	},
 	{
+		"key": "爱搜影院",
+		"name": "爱搜影院",
+		"type": 0,
+		"api": "http://yunbangcheng.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "人人资源",
 		"name": "人人资源",
 		"type": 0,
@@ -645,6 +653,14 @@
 		"name": "播放呀APP",
 		"type": 0,
 		"api": "https://www.bofangya.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "流星雨APP",
+		"name": "流星雨APP",
+		"type": 0,
+		"api": "http://syy.lxyyy.xyz/mv/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1561,6 +1577,14 @@
 		"categories": []
 	},
 	{
+		"key": "久草资源",
+		"name": "久草资源",
+		"type": 0,
+		"api": "http://jcspcj8.co/sapi?ac=videolist",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "狼少年",
 		"name": "狼少年",
 		"type": 0,
@@ -1909,22 +1933,6 @@
 		"name": "趣播资源",
 		"type": 0,
 		"api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "久草资源",
-		"name": "久草资源",
-		"type": 0,
-		"api": "http://jcspcj8.co/sapi",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "久草在线视频",
-		"name": "久草在线视频",
-		"type": 0,
-		"api": "https://hhjc2.com/sapi",
 		"playUrl": "",
 		"categories": []
 	},
