@@ -8,8 +8,7 @@
 秀色资源,https://api.xiuseapi.com/api.php/provide/vod/at/xml,解析
 探探资源,https://apittzy.com/api.php/provide/vod/at/xml,解析
 桃色资源,https://api.taoseapi.com/api.php/provide/vod/at/xml,解析
-色猫资源,https://api.maozyapi.com/inc/api.php,解析
-色狗资源,https://segouzy1.com/inc/api.php,解析
+色猫资源,https://api.maozyapi.com/inc/api.php/provide/vod/at/xml,解析
 骚色资源,http://api.saosezy.icu/api.php/provide/vod/at/xml,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
 色屌丝资源,http://sdscj11.com/home/cjapi/9bf31c7ff062936a96d3c8bd1f8f2ff3/vod/xml,解析
@@ -43,6 +42,7 @@ AV集中淫,https://www.caiji22.com/home/cjapi/35f4a8d465e6e1edc05f3d8ab658c551/
 天堂AV,http://www.njxinli.com/inc/api.php,解析
 痴汉队长,https://javcaptain.com/api.php/provide/vod/at/xml,解析
 抖阴视频,https://www.888dav.com/api.php/provide/vod/at/xml,解析
+麻豆视频,https://madouse.la/api.php/provide/vod/at/xml,解析
 裸艺视频,http://122ap.com/inc/api.php,解析
 柚萌视频,https://nameweb.xyz/api.php/provide/vod/at/xml,解析
 99资源吧,http://99zyba.com/api.php/provide/vod/at/xml,解析
@@ -51,7 +51,7 @@ EU资源,http://euzy9.xyz/api.php/provide/vod/at/xml,解析
 AE86资源,https://www.ae86zy.com/api.php/provide/vod/at/xml,解析
 浪潮资源,http://langchaozy6.com/api.php/provide/vod/at/xml,解析
 速播资源,https://api.suboapi.com/api.php/provide/vod/at/xml,解析
-逼哩逼哩视频,http://blbl.space/inc/api.php,解析
+逼哩逼哩视频,http://blbl.space/inc/api.php/provide/vod/at/xml,解析
 酷豆资源,https://kudouzy.com/api.php/provide/vod/at/xml,解析
 378资源,http://378zy.com/api.php/provide/vod/at/xml,解析
 猛牛影视,https://mnys12.site/api.php/provide/vod/at/xml,解析
@@ -96,12 +96,9 @@ SB资源,http://www.shabizy.com:777/inc/sea,解析
 1024资源,https://www.1024nf.com/api.php/provide/vod/at/xml/,解析
 猛牛资源,http://nen13.space/api.php/provide/vod/at/xml,解析
 99,http://yllzy.com/api.php/provide/vod/at/xml/,解析
-快活资源,https://www.khzywapi.com/api.php/provide/vod/at/xml,解析
-淘剧影院,https://www.tjyy06.com/api.php/provide/vod/at/xml,解析
-爱麻豆,http://emodao.la/api.php/provide/vod/at/xml,解析
 色花都,http://sehuadu.life/inc/api.php,解析
-若梦影视,http://47.106.80.129/api.php/provide/vod/at/xml,解析
-测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
+色狗资源,https://segouzy1.com/inc/api.php,解析
+趣播资源,https://www.qbzyz.com/api.php/provide/vod/at/xml,解析
 结束
 解析：
 解析：
