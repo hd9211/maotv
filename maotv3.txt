@@ -1333,7 +1333,7 @@
 		"name": "美少女资源",
 		"type": 1,
 		"api": "https://www.msnii.com/api/json.php",
-		"playUrl": "https://www.ckplayer.vip/jiexi/?url=",
+		"playUrl": "",
 		"categories": []
 	},
 	{
@@ -1341,7 +1341,7 @@
 		"name": "淫水机资源",
 		"type": 1,
 		"api": "https://www.xrbsp.com/api/json.php",
-		"playUrl": "https://www.ckplayer.vip/jiexi/?url=",
+		"playUrl": "",
 		"categories": []
 	},
 	{
@@ -1349,7 +1349,7 @@
 		"name": "香奶儿资源",
 		"type": 1,
 		"api": "https://www.gdlsp.com/api/json.php",
-		"playUrl": "https://www.ckplayer.vip/jiexi/?url=",
+		"playUrl": "",
 		"categories": []
 	},
 	{
@@ -1357,7 +1357,7 @@
 		"name": "白嫖资源",
 		"type": 1,
 		"api": "https://www.kxgav.com/api/json.php",
-		"playUrl": "https://www.ckplayer.vip/jiexi/?url=",
+		"playUrl": "",
 		"categories": []
 	},
 	{
@@ -1365,7 +1365,7 @@
 		"name": "小湿妹资源",
 		"type": 1,
 		"api": "https://www.afasu.com/api/json.php",
-		"playUrl": "https://www.ckplayer.vip/jiexi/?url=",
+		"playUrl": "",
 		"categories": []
 	},
 	{
@@ -1373,7 +1373,7 @@
 		"name": "黄AV资源",
 		"type": 1,
 		"api": "https://www.pgxdy.com/api/json.php",
-		"playUrl": "https://www.ckplayer.vip/jiexi/?url=",
+		"playUrl": "",
 		"categories": []
 	},
 	{
