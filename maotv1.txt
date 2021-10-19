@@ -33,6 +33,14 @@
 		"categories": []
 	},
 	{
+		"key": "6U资源",
+		"name": "6U资源",
+		"type": 0,
+		"api": "http://zy.ataoju.com/inc/api.php",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "2A资源",
 		"name": "2A资源",
 		"type": 0,
@@ -317,6 +325,14 @@
 		"name": "饭团影视",
 		"type": 0,
 		"api": "https://fantuan.wkfile.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "OmoFun动漫",
+		"name": "OmoFun动漫",
+		"type": 0,
+		"api": "https://www.omofun.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -748,7 +764,7 @@
 		"key": "飘花影院",
 		"name": "飘花影院",
 		"type": 0,
-		"api": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml",
+		"api": "https://www.2mjtt.com/inc/api.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -780,7 +796,7 @@
 		"key": "X8影音",
 		"name": "X8影音",
 		"type": 0,
-		"api": "https://www.govhebei.fun/api.php/provide/vod/at/xml",
+		"api": "https://www.govbeijing.buzz/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -861,6 +877,14 @@
 		"name": "嘀哩嘀哩",
 		"type": 0,
 		"api": "http://api.diliktv.xyz/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "云美剧",
+		"name": "云美剧",
+		"type": 0,
+		"api": "http://www.ezmedias.net/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
