@@ -33,6 +33,14 @@
 		"categories": []
 	},
 	{
+		"key": "6U资源",
+		"name": "6U资源",
+		"type": 0,
+		"api": "http://zy.ataoju.com/inc/api.php",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "2A资源",
 		"name": "2A资源",
 		"type": 0,
@@ -317,6 +325,14 @@
 		"name": "饭团影视",
 		"type": 0,
 		"api": "https://fantuan.wkfile.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "OmoFun动漫",
+		"name": "OmoFun动漫",
+		"type": 0,
+		"api": "https://www.omofun.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -748,7 +764,7 @@
 		"key": "飘花影院",
 		"name": "飘花影院",
 		"type": 0,
-		"api": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml",
+		"api": "https://www.2mjtt.com/inc/api.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -780,7 +796,7 @@
 		"key": "X8影音",
 		"name": "X8影音",
 		"type": 0,
-		"api": "https://www.govhebei.fun/api.php/provide/vod/at/xml",
+		"api": "https://www.govbeijing.buzz/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -865,6 +881,14 @@
 		"categories": []
 	},
 	{
+		"key": "云美剧",
+		"name": "云美剧",
+		"type": 0,
+		"api": "http://www.ezmedias.net/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "77资源",
 		"name": "77资源",
 		"type": 0,
@@ -940,7 +964,7 @@
 		"key": "色猫资源",
 		"name": "色猫资源",
 		"type": 0,
-		"api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml",
+		"api": "https://api.maozyapi.com/inc/api.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1329,6 +1353,22 @@
 		"categories": []
 	},
 	{
+		"key": "奶茶资源",
+		"name": "奶茶资源",
+		"type": 0,
+		"api": "https://caiji.naichaapi.com/inc/api.php",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "爱播资源",
+		"name": "爱播资源",
+		"type": 0,
+		"api": "https://api.aibozyapi.com/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "美少女资源",
 		"name": "美少女资源",
 		"type": 0,
@@ -1444,7 +1484,7 @@
 		"key": "博天堂",
 		"name": "博天堂",
 		"type": 0,
-		"api": "http://bttcj.com/inc/sapi.php?ac=videolist",
+		"api": "http://bttcj.com/inc/sapi.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1452,7 +1492,7 @@
 		"key": "环亚资源",
 		"name": "环亚资源",
 		"type": 0,
-		"api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
+		"api": "http://wmcj8.com/inc/sapi.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1460,7 +1500,7 @@
 		"key": "JAV名优馆",
 		"name": "JAV名优馆",
 		"type": 0,
-		"api": "http://mygzycj.com/api.php?ac=list",
+		"api": "http://mygzycj.com/api.php",
 		"playUrl": "",
 		"categories": []
 	},
