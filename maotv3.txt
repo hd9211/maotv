@@ -185,6 +185,14 @@
 		"categories": []
 	},
 	{
+		"key": "56资源",
+		"name": "56资源",
+		"type": 1,
+		"api": "http://svip.popo520.cn/api.php/provide/vod/",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "蓝猫影视",
 		"name": "蓝猫影视",
 		"type": 1,
@@ -221,6 +229,14 @@
 		"name": "淘片资源",
 		"type": 1,
 		"api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/json",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "一帆资源(VPN)",
+		"name": "一帆资源(VPN)",
+		"type": 1,
+		"api": "http://api.if101.tv/v1/vod",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1339,7 +1355,7 @@
 	{
 		"key": "5X社区",
 		"name": "5X社区",
-		"type": 1,
+		"type": 0,
 		"api": "https://0413.api.cdn.5api123.com/api.php",
 		"playUrl": "",
 		"categories": []
@@ -1484,7 +1500,7 @@
 		"key": "博天堂",
 		"name": "博天堂",
 		"type": 0,
-		"api": "http://bttcj.com/inc/sapi.php?ac=videolist",
+		"api": "http://bttcj.com/inc/sapi.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1492,7 +1508,7 @@
 		"key": "环亚资源",
 		"name": "环亚资源",
 		"type": 0,
-		"api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
+		"api": "http://wmcj8.com/inc/sapi.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1500,7 +1516,7 @@
 		"key": "JAV名优馆",
 		"name": "JAV名优馆",
 		"type": 0,
-		"api": "http://mygzycj.com/api.php?ac=list",
+		"api": "http://mygzycj.com/api.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1524,7 +1540,7 @@
 		"key": "色色资源",
 		"name": "色色资源",
 		"type": 0,
-		"api": "http://secj8.com/inc/sapi.php?ac=videolist",
+		"api": "http://secj8.com/inc/sapi.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1532,7 +1548,7 @@
 		"key": "玖玖资源",
 		"name": "玖玖资源",
 		"type": 0,
-		"api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
+		"api": "http://99zywcj.com/inc/sapi.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1540,7 +1556,7 @@
 		"key": "久草资源",
 		"name": "久草资源",
 		"type": 0,
-		"api": "http://jcspcj8.co/sapi?ac=videolist",
+		"api": "http://jcspcj8.co/sapi",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1548,7 +1564,7 @@
 		"key": "狼少年",
 		"name": "狼少年",
 		"type": 0,
-		"api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+		"api": "http://cjmygzy.com/inc/sapi.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1556,7 +1572,7 @@
 		"key": "富二代资源",
 		"name": "富二代资源",
 		"type": 0,
-		"api": "http://f2dcj6.com/sapi/?ac=videolist",
+		"api": "http://f2dcj6.com/sapi",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1564,7 +1580,7 @@
 		"key": "字幕网",
 		"name": "字幕网",
 		"type": 0,
-		"api": "http://zmcj88.com/sapi?ac=videolist",
+		"api": "http://zmcj88.com/sapi",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1572,7 +1588,7 @@
 		"key": "利来资源",
 		"name": "利来资源",
 		"type": 0,
-		"api": "http://llzxcj.com/inc/sck.php?ac=videolist",
+		"api": "http://llzxcj.com/inc/sck.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1805,14 +1821,6 @@
 		"name": "多多资源",
 		"type": 1,
 		"api": "https://www.duoduozy.com/api.php/provide/vod/",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "一帆资源(VPN)",
-		"name": "一帆资源(VPN)",
-		"type": 1,
-		"api": "http://demo.if101.tv/api.php/provide/vod/",
 		"playUrl": "",
 		"categories": []
 	},
