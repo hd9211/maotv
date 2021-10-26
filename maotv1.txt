@@ -185,6 +185,14 @@
 		"categories": []
 	},
 	{
+		"key": "56资源",
+		"name": "56资源",
+		"type": 0,
+		"api": "http://svip.popo520.cn/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "蓝猫影视",
 		"name": "蓝猫影视",
 		"type": 0,
@@ -444,7 +452,7 @@
 		"key": "红牛资源",
 		"name": "红牛资源",
 		"type": 0,
-		"api": "https://www.hongniuzy.com/inc/seahnm3u8.php",
+		"api": "https://www.hongniuzy.com/inc/api.php",
 		"playUrl": "",
 		"categories": []
 	},
@@ -764,7 +772,7 @@
 		"key": "飘花影院",
 		"name": "飘花影院",
 		"type": 0,
-		"api": "https://www.2mjtt.com/inc/api.php",
+		"api": "https://www.2mjtt.com/inc/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -1037,14 +1045,6 @@
 		"name": "多多资源",
 		"type": 0,
 		"api": "https://www.duoduozy.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "一帆资源(VPN)",
-		"name": "一帆资源(VPN)",
-		"type": 0,
-		"api": "http://demo.if101.tv/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
