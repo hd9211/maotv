@@ -22,6 +22,7 @@ M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 百搜资源,https://vip.baisou.ltd/api.php/provide/vod/at/xml,解析
 忘忧果,https://ax.jx.cn/api.php/provide/vod/at/xml,解析
 木白资源,https://cj.22xr.cn/api.php/provide/vod/at/xml,解析
+56资源,http://svip.popo520.cn/api.php/provide/vod/at/xml,解析
 蓝猫影视,http://tv.daidaitv.top:43800/api.php/provide/vod/at/xml,解析
 白嫖资源,http://www.baipiaozy.com/api.php/provide/vod/at/xml,解析
 U酷资源,http://ukuzy.com/api.php/provide/vod/at/xml,解析
@@ -54,7 +55,7 @@ YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
 605资源,http://www.605zy.co/inc/api.php,解析
 88资源,http://www.88zy.live/inc/api.php,解析
 番茄资源,http://api.fqzy.cc/api.php/provide/vod/at/xml,解析
-红牛资源,https://www.hongniuzy.com/inc/seahnm3u8.php,解析
+红牛资源,https://www.hongniuzy.com/inc/api.php,解析
 北斗星资源,https://m3u8.bdxzyapi.com/api.php/provide/vod/at/xml,解析
 奇乐(优剧)资源,https://zy.ujuba.com/api.php/provide/vod/at/xml,解析
 最新(云播)资源,https://api.yunboys.cn/api.php/provide/vod/at/xml,解析
@@ -94,7 +95,7 @@ KK看剧,http://www.kkkanju.com/api.php/provide/vod/at/xml,解析
 爱看1080,http://www.ik1080.com/api.php/provide/vod/at/xml,解析
 飘花电影,http://www.zzrhgg.com/api.php/provide/vod/at/xml,解析
 热映网,http://hl.reying.vip/api.php/provide/vod/at/xml,解析
-飘花影院,https://www.2mjtt.com/inc/api.php,解析
+飘花影院,https://www.2mjtt.com/inc/api.php/provide/vod/at/xml,解析
 蜂鸟视频,https://v.fnsp0.com/api.php/provide/vod/at/xml,解析
 随便看电影,https://www.sbkdy.com/inc/api.php,解析
 美剧星球,https://www.meijuxq.tv/inc/api.php,解析
@@ -129,7 +130,6 @@ U猫m3u8,http://umao.ml/api.php/provide/vod/at/xml,解析
 348电影网,https://348z.com/api.php/provide/vod/at/xml,解析
 迷你库(人人迷),https://www.miniku.cc/api.php/provide/vod/at/xml,解析
 多多资源,https://www.duoduozy.com/api.php/provide/vod/at/xml,解析
-一帆资源(VPN),http://demo.if101.tv/api.php/provide/vod/at/xml,解析
 测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
 结束
 解析：
