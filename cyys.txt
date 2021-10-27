@@ -1,4 +1,13 @@
 点播：
+腾讯1,http://zy.itono.cn/inc/qq.php,解析
+乐视,http://zy.itono.cn/inc/letv.php,解析
+芒果,http://zy.itono.cn/inc/mgtv.php,解析
+咪咕,http://zy.itono.cn/inc/migu.php,解析
+PPTV,http://zy.itono.cn/inc/pptv.php,解析
+奇艺,http://zy.itono.cn/inc/qiyi.php,解析
+搜狐,http://zy.itono.cn/inc/sohu.php,解析
+优酷,http://zy.itono.cn/inc/youku.php,解析
+哔哩,http://zy.itono.cn/inc/bilibili.php,解析
 1717资源,http://zy.itono.cn/inc/api.php,解析
 8090资源,http://zy.yilans.net:8090/api.php/provide/vod/at/xml,解析
 萌果资源,http://api.appearoo.top/api.php/provide/vod/at/xml,解析
