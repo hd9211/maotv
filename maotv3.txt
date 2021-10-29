@@ -1,5 +1,5 @@
 {
-	"spider": "https://cdn.jsdelivr.net/gh/hd9211/CatVodTVSpider@master/jar/custom_spider.jar",
+	"spider": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 	"sites": [
 		{
 			"key": "csp_Aidi",
@@ -214,7 +214,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/tvci.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/tvci.json"
 		},
 		{
 			"key": "csp_xpath_duboku",
@@ -224,7 +224,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/duboku.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/duboku.json"
 		},
 		{
 			"key": "csp_xpath_saohuotv",
@@ -234,7 +234,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/saohuotv2.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/saohuotv2.json"
 		},
 		{
 			"key": "csp_xpath_dm84",
@@ -244,7 +244,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/dm84.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/dm84.json"
 		},
 		{
 			"key": "csp_xpath_egg",
@@ -254,7 +254,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/egg.json"
 		},
 		{
 			"key": "csp_yysdali",
@@ -264,7 +264,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/yyds.json"
 		},
 		{
 			"key": "csp_xpath_555",
@@ -274,7 +274,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/555.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/555.json"
 		},
 		{
 			"key": "1717资源",
