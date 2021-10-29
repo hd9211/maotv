@@ -1,6 +1,6 @@
 点播：
 77资源,https://www.77zy.vip/inc/m3u8.php,解析
-523资源,https://caiji.523zyw.com/inc/api.php,解析
+523资源,https://caiji.523zyw.com/incapi.php,解析
 丝袜资源,https://siwazyw.net/api.php/provide/vod/at/xml,解析
 芒果资源,https://mgzyz1.com/api.php/provide/vod/at/xml,解析
 乐鱼资源,https://www.leyuzyapi.com/inc/seacmsapi.php,解析
@@ -10,6 +10,7 @@
 桃色资源,https://api.taoseapi.com/api.php/provide/vod/at/xml,解析
 色猫资源,https://api.maozyapi.com/inc/api.php,解析
 骚色资源,http://api.saosezy.icu/api.php/provide/vod/at/xml,解析
+色鸡资源,https://sejizy2.com/inc/api.php,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
 色屌丝资源,http://sdscj11.com/home/cjapi/9bf31c7ff062936a96d3c8bd1f8f2ff3/vod/xml,解析
 小姐姐资源,https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml,解析
@@ -38,8 +39,8 @@ AV集中淫,https://www.caiji22.com/home/cjapi/35f4a8d465e6e1edc05f3d8ab658c551/
 天噜啦资源,http://www.987caiji.com/api/max.php,解析
 99资源,http://99zy.pw/api.php/provide/vod/at/xml,解析
 010爱资源,http://www.010aizy.com/API/macs.php,解析
-鲍鱼BB,http://baoyub.live/inc/api.php,解析
-天堂AV,http://www.njxinli.com/inc/api.php,解析
+鲍鱼BB,http://baoyub.live/incapi.php,解析
+天堂AV,http://www.njxinli.com/incapi.php,解析
 痴汉队长,https://javcaptain.com/api.php/provide/vod/at/xml,解析
 抖阴视频,https://www.888dav.com/api.php/provide/vod/at/xml,解析
 麻豆视频,https://madouse.la/api.php/provide/vod/at/xml,解析
@@ -76,7 +77,7 @@ BB资源,http://bbzy.cc/inc/maccms10.php,解析
 博天堂,http://bttcj.com/inc/sapi.php,解析
 环亚资源,http://wmcj8.com/inc/sapi.php,解析
 JAV名优馆,http://mygzycj.com/api.php,解析
-AVZY6888资源,http://m.7777688.com/inc/api.php,解析
+AVZY6888资源,http://m.7777688.com/incapi.php,解析
 800188188,http://www.800188188.com/inc/api.php,解析
 色色资源,http://secj8.com/inc/sapi.php,解析
 玖玖资源,http://99zywcj.com/inc/sapi.php,解析
