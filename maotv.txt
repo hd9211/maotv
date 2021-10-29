@@ -193,7 +193,7 @@
 		"categories": []
 	},
 	{
-		"key": "蓝猫影视",
+		"key": "搬运工资源",
 		"name": "搬运工资源",
 		"type": 0,
 		"api": "https://cj.banyung.xyz:7788/tongyong/",
@@ -209,7 +209,7 @@
 		"categories": []
 	},
 	{
-		"key": "U酷资源",
+		"key": "白嫖联盟",
 		"name": "白嫖联盟",
 		"type": 0,
 		"api": "https://www.hszbj.net/api.php/provide/vod/at/xml",
@@ -217,7 +217,7 @@
 		"categories": []
 	},
 	{
-		"key": "人人迷蓝光",
+		"key": "U酷资源",
 		"name": "U酷资源",
 		"type": 0,
 		"api": "http://ukuzy.com/api.php/provide/vod/at/xml",
@@ -225,7 +225,7 @@
 		"categories": []
 	},
 	{
-		"key": "淘片资源",
+		"key": "人人迷蓝光",
 		"name": "人人迷蓝光",
 		"type": 0,
 		"api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml",
@@ -233,7 +233,7 @@
 		"categories": []
 	},
 	{
-		"key": "一帆资源(VPN)",
+		"key": "淘片资源",
 		"name": "淘片资源",
 		"type": 0,
 		"api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
@@ -241,7 +241,7 @@
 		"categories": []
 	},
 	{
-		"key": "思古影院",
+		"key": "一帆资源(VPN)",
 		"name": "一帆资源(VPN)",
 		"type": 0,
 		"api": "http://api.if101.tv/v1/vod",
@@ -249,7 +249,7 @@
 		"categories": []
 	},
 	{
-		"key": "555电影",
+		"key": "思古影院",
 		"name": "思古影院",
 		"type": 0,
 		"api": "https://www.siguyy.com/api.php/provide/vod/at/xml",
@@ -257,7 +257,7 @@
 		"categories": []
 	},
 	{
-		"key": "5060影院",
+		"key": "瓜皮TV",
 		"name": "瓜皮TV",
 		"type": 0,
 		"api": "http://www.dijiaxia.com/api.php/provide/vod/at/xml",
@@ -265,7 +265,7 @@
 		"categories": []
 	},
 	{
-		"key": "竹嘎(蓝光解析)",
+		"key": "污妖动漫",
 		"name": "污妖动漫",
 		"type": 0,
 		"api": "https://www.wyydm.com/api.php/provide/vod/at/xml",
@@ -273,7 +273,7 @@
 		"categories": []
 	},
 	{
-		"key": "喵派对蓝光",
+		"key": "348电影网",
 		"name": "348电影网",
 		"type": 0,
 		"api": "https://348z.com/api.php/provide/vod/at/xml",
@@ -281,7 +281,7 @@
 		"categories": []
 	},
 	{
-		"key": "爱看",
+		"key": "555电影",
 		"name": "555电影",
 		"type": 0,
 		"api": "http://w7tv.com/api.php/provide/vod/at/xml",
@@ -289,7 +289,7 @@
 		"categories": []
 	},
 	{
-		"key": "欧乐影院",
+		"key": "5060影院",
 		"name": "5060影院",
 		"type": 0,
 		"api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
@@ -297,7 +297,7 @@
 		"categories": []
 	},
 	{
-		"key": "剧好看",
+		"key": "竹嘎(蓝光解析)",
 		"name": "竹嘎(蓝光解析)",
 		"type": 0,
 		"api": "http://m.ycccyk.cn/api.php/provide/vod/at/xml",
@@ -305,7 +305,7 @@
 		"categories": []
 	},
 	{
-		"key": "TVB云播",
+		"key": "喵派对蓝光",
 		"name": "喵派对蓝光",
 		"type": 0,
 		"api": "https://www.neenl.com/api.php/provide/vod/at/xml",
@@ -313,7 +313,7 @@
 		"categories": []
 	},
 	{
-		"key": "BL视频",
+		"key": "爱看",
 		"name": "爱看",
 		"type": 0,
 		"api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml",
@@ -321,7 +321,7 @@
 		"categories": []
 	},
 	{
-		"key": "优全影视",
+		"key": "欧乐影院",
 		"name": "欧乐影院",
 		"type": 0,
 		"api": "https://www.olevod.tv/api.php/provide/vod/at/xml",
@@ -329,7 +329,7 @@
 		"categories": []
 	},
 	{
-		"key": "畅视影视",
+		"key": "剧好看",
 		"name": "剧好看",
 		"type": 0,
 		"api": "https://www.juhaokan.cc/api.php/provide/vod/at/xml",
@@ -337,7 +337,7 @@
 		"categories": []
 	},
 	{
-		"key": "饭团影视",
+		"key": "TVB云播",
 		"name": "TVB云播",
 		"type": 0,
 		"api": "http://www.tvyb02.com/api.php/provide/vod/at/xml",
@@ -345,7 +345,7 @@
 		"categories": []
 	},
 	{
-		"key": "OmoFun动漫",
+		"key": "BL视频",
 		"name": "BL视频",
 		"type": 0,
 		"api": "https://bljiex.com/api.php/provide/vod/at/xml",
@@ -353,7 +353,7 @@
 		"categories": []
 	},
 	{
-		"key": "人人资源",
+		"key": "优全影视",
 		"name": "优全影视",
 		"type": 0,
 		"api": "https://xmyun.xyz/api.php/provide/vod/at/xml",
@@ -361,7 +361,7 @@
 		"categories": []
 	},
 	{
-		"key": "真不卡",
+		"key": "畅视影视",
 		"name": "畅视影视",
 		"type": 0,
 		"api": "http://app.reboju.net/api.php/provide/vod/at/xml",
@@ -369,7 +369,7 @@
 		"categories": []
 	},
 	{
-		"key": "九九美剧",
+		"key": "饭团影视",
 		"name": "饭团影视",
 		"type": 0,
 		"api": "https://fantuan.wkfile.com/api.php/provide/vod/at/xml",
@@ -377,7 +377,7 @@
 		"categories": []
 	},
 	{
-		"key": "爱看啦",
+		"key": "电影牛",
 		"name": "电影牛",
 		"type": 0,
 		"api": "https://www.dianyingn.cc/api.php/provide/vod/at/xml",
@@ -385,7 +385,7 @@
 		"categories": []
 	},
 	{
-		"key": "YT影视",
+		"key": "OmoFun动漫",
 		"name": "OmoFun动漫",
 		"type": 0,
 		"api": "https://www.omofun.com/api.php/provide/vod/at/xml",
@@ -393,7 +393,7 @@
 		"categories": []
 	},
 	{
-		"key": "火星2048",
+		"key": "人人资源",
 		"name": "人人资源",
 		"type": 0,
 		"api": "https://www.rrzyw.cc/api.php/provide/vod/at/xml",
@@ -401,7 +401,7 @@
 		"categories": []
 	},
 	{
-		"key": "天龙影院",
+		"key": "真不卡",
 		"name": "真不卡",
 		"type": 0,
 		"api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
@@ -409,7 +409,7 @@
 		"categories": []
 	},
 	{
-		"key": "爱搜影院",
+		"key": "九九美剧",
 		"name": "九九美剧",
 		"type": 0,
 		"api": "https://www.999meiju.tv/api.php/provide/vod/at/xml",
@@ -417,7 +417,7 @@
 		"categories": []
 	},
 	{
-		"key": "小蜻蜓APP",
+		"key": "爱看啦",
 		"name": "爱看啦",
 		"type": 0,
 		"api": "http://v.aik.la/api.php/provide/vod/at/xml",
@@ -425,7 +425,7 @@
 		"categories": []
 	},
 	{
-		"key": "侦探APP",
+		"key": "YT影视",
 		"name": "YT影视",
 		"type": 0,
 		"api": "http://ytys.cc/api.php/provide/vod/at/xml",
@@ -433,7 +433,7 @@
 		"categories": []
 	},
 	{
-		"key": "605资源",
+		"key": "火星2048",
 		"name": "火星2048",
 		"type": 0,
 		"api": "https://www.hx2048.com/api.php/provide/vod/at/xml",
@@ -441,7 +441,7 @@
 		"categories": []
 	},
 	{
-		"key": "88资源",
+		"key": "天龙影院",
 		"name": "天龙影院",
 		"type": 0,
 		"api": "http://www.tl86dy.com/api.php/provide/vod/at/xml",
@@ -449,7 +449,7 @@
 		"categories": []
 	},
 	{
-		"key": "番茄资源",
+		"key": "爱搜影院",
 		"name": "爱搜影院",
 		"type": 0,
 		"api": "http://yunbangcheng.com/api.php/provide/vod/at/xml",
@@ -457,7 +457,7 @@
 		"categories": []
 	},
 	{
-		"key": "红牛资源",
+		"key": "小蜻蜓APP",
 		"name": "小蜻蜓APP",
 		"type": 0,
 		"api": "http://3ketv.com/api.php/provide/vod/at/xml",
@@ -465,7 +465,7 @@
 		"categories": []
 	},
 	{
-		"key": "北斗星资源",
+		"key": "侦探APP",
 		"name": "侦探APP",
 		"type": 0,
 		"api": "http://ys.huangguay.com/api.php/provide/vod/at/xml",
@@ -473,7 +473,7 @@
 		"categories": []
 	},
 	{
-		"key": "奇乐(优剧)资源",
+		"key": "77影视",
 		"name": "77影视",
 		"type": 0,
 		"api": "http://kunyu77.com/api.php/provide/vod/at/xml",
@@ -481,7 +481,7 @@
 		"categories": []
 	},
 	{
-		"key": "最新(云播)资源",
+		"key": "TVB云播03",
 		"name": "TVB云播03",
 		"type": 0,
 		"api": "https://www.hktv03.com/api.php/provide/vod/at/xml",
@@ -489,7 +489,7 @@
 		"categories": []
 	},
 	{
-		"key": "樱花资源",
+		"key": "乐活影视",
 		"name": "乐活影视",
 		"type": 0,
 		"api": "https://lehootv.com/api.php/provide/vod/at/xml",
@@ -497,7 +497,7 @@
 		"categories": []
 	},
 	{
-		"key": "想看资源",
+		"key": "西门影视",
 		"name": "西门影视",
 		"type": 0,
 		"api": "https://ximenys.com/api.php/provide/vod/at/xml",
@@ -505,7 +505,7 @@
 		"categories": []
 	},
 	{
-		"key": "酷点资源",
+		"key": "605资源",
 		"name": "605资源",
 		"type": 0,
 		"api": "http://www.605zy.co/incapi.php",
@@ -513,7 +513,7 @@
 		"categories": []
 	},
 	{
-		"key": "韩剧资源",
+		"key": "88资源",
 		"name": "88资源",
 		"type": 0,
 		"api": "http://www.88zy.live/inc/api.php",
@@ -521,7 +521,7 @@
 		"categories": []
 	},
 	{
-		"key": "美剧天堂",
+		"key": "番茄资源",
 		"name": "番茄资源",
 		"type": 0,
 		"api": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
@@ -529,7 +529,7 @@
 		"categories": []
 	},
 	{
-		"key": "影视聚合采集",
+		"key": "红牛资源",
 		"name": "红牛资源",
 		"type": 0,
 		"api": "https://www.hongniuzy.com/inc/api.php",
@@ -537,7 +537,7 @@
 		"categories": []
 	},
 	{
-		"key": "快播资源",
+		"key": "北斗星资源",
 		"name": "北斗星资源",
 		"type": 0,
 		"api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/at/xml",
@@ -545,7 +545,7 @@
 		"categories": []
 	},
 	{
-		"key": "八戒资源",
+		"key": "奇乐(优剧)资源",
 		"name": "奇乐(优剧)资源",
 		"type": 0,
 		"api": "https://zy.ujuba.com/api.php/provide/vod/at/xml",
@@ -553,7 +553,7 @@
 		"categories": []
 	},
 	{
-		"key": "豆瓣资源",
+		"key": "最新(云播)资源",
 		"name": "最新(云播)资源",
 		"type": 0,
 		"api": "https://api.yunboys.cn/api.php/provide/vod/at/xml",
@@ -561,7 +561,7 @@
 		"categories": []
 	},
 	{
-		"key": "百度资源",
+		"key": "樱花资源",
 		"name": "樱花资源",
 		"type": 0,
 		"api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
@@ -569,7 +569,7 @@
 		"categories": []
 	},
 	{
-		"key": "无尽资源",
+		"key": "想看资源",
 		"name": "想看资源",
 		"type": 0,
 		"api": "https://m3u8.xiangkanapi.com/provide/vod/at/xml",
@@ -577,7 +577,7 @@
 		"categories": []
 	},
 	{
-		"key": "天空资源",
+		"key": "酷点资源",
 		"name": "酷点资源",
 		"type": 0,
 		"api": "https://api.kuapi.cc/api.php/provide/vod/at/xml",
@@ -585,7 +585,7 @@
 		"categories": []
 	},
 	{
-		"key": "百度伦理资源",
+		"key": "新影资源",
 		"name": "新影资源",
 		"type": 0,
 		"api": "https://api.xinyingcaiji.com/api.php/provide/vod/at/xml",
@@ -593,7 +593,7 @@
 		"categories": []
 	},
 	{
-		"key": "乐多资源",
+		"key": "韩剧资源",
 		"name": "韩剧资源",
 		"type": 0,
 		"api": "http://www.hanjuzy.com/inc/api.php",
@@ -601,7 +601,7 @@
 		"categories": []
 	},
 	{
-		"key": "穿梭资源",
+		"key": "美剧天堂",
 		"name": "美剧天堂",
 		"type": 0,
 		"api": "https://www.meijuday.com/api.php/provide/vod/at/xml",
@@ -609,7 +609,7 @@
 		"categories": []
 	},
 	{
-		"key": "蓝果APP",
+		"key": "影视聚合采集",
 		"name": "影视聚合采集",
 		"type": 0,
 		"api": "http://zy.vodcdn.top/api.php/provide/vod/at/xml",
@@ -617,7 +617,7 @@
 		"categories": []
 	},
 	{
-		"key": "播放呀APP",
+		"key": "快播资源",
 		"name": "快播资源",
 		"type": 0,
 		"api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
@@ -625,7 +625,7 @@
 		"categories": []
 	},
 	{
-		"key": "流星雨APP",
+		"key": "八戒资源",
 		"name": "八戒资源",
 		"type": 0,
 		"api": "http://cj.bajiecaiji.com/inc/api.php",
@@ -633,7 +633,7 @@
 		"categories": []
 	},
 	{
-		"key": "追剧吧APP",
+		"key": "豆瓣资源",
 		"name": "豆瓣资源",
 		"type": 0,
 		"api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
@@ -641,7 +641,7 @@
 		"categories": []
 	},
 	{
-		"key": "追剧吧",
+		"key": "百度资源",
 		"name": "百度资源",
 		"type": 0,
 		"api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
@@ -649,7 +649,7 @@
 		"categories": []
 	},
 	{
-		"key": "嗨哆咪影视",
+		"key": "无尽资源",
 		"name": "无尽资源",
 		"type": 0,
 		"api": "https://wuzy9.com/api.php/provide/vod/at/xml",
@@ -657,7 +657,7 @@
 		"categories": []
 	},
 	{
-		"key": "安逸影院",
+		"key": "天空资源",
 		"name": "天空资源",
 		"type": 0,
 		"api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
@@ -665,7 +665,7 @@
 		"categories": []
 	},
 	{
-		"key": "橘猫影视",
+		"key": "百度伦理资源",
 		"name": "百度伦理资源",
 		"type": 0,
 		"api": "http://llbdzy.com/api.php/provide/vod/at/xml",
@@ -673,7 +673,7 @@
 		"categories": []
 	},
 	{
-		"key": "白熊影院",
+		"key": "乐多资源",
 		"name": "乐多资源",
 		"type": 0,
 		"api": "http://api.leduosj.com/inc/api.php",
@@ -681,7 +681,7 @@
 		"categories": []
 	},
 	{
-		"key": "阿里影视网",
+		"key": "穿梭资源",
 		"name": "穿梭资源",
 		"type": 0,
 		"api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
@@ -689,7 +689,7 @@
 		"categories": []
 	},
 	{
-		"key": "淘影",
+		"key": "蓝果APP",
 		"name": "蓝果APP",
 		"type": 0,
 		"api": "http://www.languotv.com/api.php/provide/vod/at/xml",
@@ -697,7 +697,7 @@
 		"categories": []
 	},
 	{
-		"key": "速影",
+		"key": "播放呀APP",
 		"name": "播放呀APP",
 		"type": 0,
 		"api": "https://www.bofangya.com/api.php/provide/vod/at/xml",
@@ -705,7 +705,7 @@
 		"categories": []
 	},
 	{
-		"key": "无极影院",
+		"key": "流星雨APP",
 		"name": "流星雨APP",
 		"type": 0,
 		"api": "http://syy.lxyyy.xyz/mv/api.php/provide/vod/at/xml",
@@ -713,7 +713,7 @@
 		"categories": []
 	},
 	{
-		"key": "飞鱼影视",
+		"key": "追剧吧APP",
 		"name": "追剧吧APP",
 		"type": 0,
 		"api": "http://data.zju8.cc:1234/api.php/provide/vod/at/xml",
@@ -721,7 +721,7 @@
 		"categories": []
 	},
 	{
-		"key": "77影视",
+		"key": "追剧吧",
 		"name": "追剧吧",
 		"type": 0,
 		"api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
@@ -729,7 +729,7 @@
 		"categories": []
 	},
 	{
-		"key": "思乐影视",
+		"key": "嗨哆咪影视",
 		"name": "嗨哆咪影视",
 		"type": 0,
 		"api": "http://hdmys1.com/api.php/provide/vod/at/xml",
@@ -737,7 +737,7 @@
 		"categories": []
 	},
 	{
-		"key": "KK看剧",
+		"key": "安逸影院",
 		"name": "安逸影院",
 		"type": 0,
 		"api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
@@ -745,7 +745,7 @@
 		"categories": []
 	},
 	{
-		"key": "零玖影视",
+		"key": "橘猫影视",
 		"name": "橘猫影视",
 		"type": 0,
 		"api": "http://www.zitv.cc/api.php/provide/vod/at/xml",
@@ -753,7 +753,7 @@
 		"categories": []
 	},
 	{
-		"key": "爱看1080",
+		"key": "白熊影院",
 		"name": "白熊影院",
 		"type": 0,
 		"api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
@@ -761,7 +761,7 @@
 		"categories": []
 	},
 	{
-		"key": "飘花电影",
+		"key": "阿里影视网",
 		"name": "阿里影视网",
 		"type": 0,
 		"api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
@@ -769,7 +769,7 @@
 		"categories": []
 	},
 	{
-		"key": "热映网",
+		"key": "淘影",
 		"name": "淘影",
 		"type": 0,
 		"api": "http://tv.4kvod.com/api.php/provide/vod/at/xml",
@@ -777,7 +777,7 @@
 		"categories": []
 	},
 	{
-		"key": "飘花影院",
+		"key": "速影",
 		"name": "速影",
 		"type": 0,
 		"api": "https://速影128.xyz/incapi.php",
@@ -785,7 +785,7 @@
 		"categories": []
 	},
 	{
-		"key": "蜂鸟视频",
+		"key": "无极影院",
 		"name": "无极影院",
 		"type": 0,
 		"api": "http://wujiys.com/api.php/provide/vod/at/xml",
@@ -793,7 +793,7 @@
 		"categories": []
 	},
 	{
-		"key": "随便看电影",
+		"key": "飞鱼影视",
 		"name": "飞鱼影视",
 		"type": 0,
 		"api": "https://app.feiyu5.com/api.php/provide/vod/at/xml",
@@ -801,7 +801,7 @@
 		"categories": []
 	},
 	{
-		"key": "美剧星球",
+		"key": "77影视",
 		"name": "77影视",
 		"type": 0,
 		"api": "https://www.77diany.com/api.php/provide/vod/at/xml",
@@ -809,7 +809,7 @@
 		"categories": []
 	},
 	{
-		"key": "X8影音",
+		"key": "思乐影视",
 		"name": "思乐影视",
 		"type": 0,
 		"api": "https://www.4ltv.com/api.php/provide/vod/at/xml",
@@ -817,7 +817,7 @@
 		"categories": []
 	},
 	{
-		"key": "清莲影院",
+		"key": "KK看剧",
 		"name": "KK看剧",
 		"type": 0,
 		"api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
@@ -825,7 +825,7 @@
 		"categories": []
 	},
 	{
-		"key": "小小影视",
+		"key": "零玖影视",
 		"name": "零玖影视",
 		"type": 0,
 		"api": "https://09tv.top/api.php/provide/vod/at/xml",
@@ -833,7 +833,7 @@
 		"categories": []
 	},
 	{
-		"key": "晓峰影视",
+		"key": "爱看1080",
 		"name": "爱看1080",
 		"type": 0,
 		"api": "http://www.ik1080.com/api.php/provide/vod/at/xml",
@@ -841,7 +841,7 @@
 		"categories": []
 	},
 	{
-		"key": "南瓜影视",
+		"key": "飘花电影",
 		"name": "飘花电影",
 		"type": 0,
 		"api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
@@ -849,7 +849,7 @@
 		"categories": []
 	},
 	{
-		"key": "不开门",
+		"key": "热映网",
 		"name": "热映网",
 		"type": 0,
 		"api": "http://hl.reying.vip/api.php/provide/vod/at/xml",
@@ -857,7 +857,7 @@
 		"categories": []
 	},
 	{
-		"key": "蜗牛看鸭",
+		"key": "飘花影院",
 		"name": "飘花影院",
 		"type": 0,
 		"api": "https://www.2mjtt.com/inc/api.php",
@@ -865,7 +865,7 @@
 		"categories": []
 	},
 	{
-		"key": "趣看",
+		"key": "蜂鸟视频",
 		"name": "蜂鸟视频",
 		"type": 0,
 		"api": "https://v.fnsp0.com/api.php/provide/vod/at/xml",
@@ -873,7 +873,7 @@
 		"categories": []
 	},
 	{
-		"key": "千寻时光",
+		"key": "随便看电影",
 		"name": "随便看电影",
 		"type": 0,
 		"api": "https://www.sbkdy.com/inc/api.php",
@@ -881,7 +881,7 @@
 		"categories": []
 	},
 	{
-		"key": "快看客栈",
+		"key": "美剧星球",
 		"name": "美剧星球",
 		"type": 0,
 		"api": "https://www.meijuxq.tv/inc/api.php",
@@ -889,7 +889,7 @@
 		"categories": []
 	},
 	{
-		"key": "嘀哩嘀哩",
+		"key": "X8影音",
 		"name": "X8影音",
 		"type": 0,
 		"api": "https://www.govbeijing.buzz/api.php/provide/vod/at/xml",
@@ -897,7 +897,7 @@
 		"categories": []
 	},
 	{
-		"key": "云美剧",
+		"key": "清莲影院",
 		"name": "清莲影院",
 		"type": 0,
 		"api": "https://www.qinglyy.com/api.php/provide/vod/at/xml",
@@ -905,7 +905,7 @@
 		"categories": []
 	},
 	{
-		"key": "77资源",
+		"key": "小小影视",
 		"name": "小小影视",
 		"type": 0,
 		"api": "http://haowywz.com/api.php/provide/vod/at/xml",
@@ -913,7 +913,7 @@
 		"categories": []
 	},
 	{
-		"key": "523资源",
+		"key": "晓峰影视",
 		"name": "晓峰影视",
 		"type": 0,
 		"api": "http://api.xxcr.tk/api.php/provide/vod/at/xml",
@@ -921,7 +921,7 @@
 		"categories": []
 	},
 	{
-		"key": "丝袜资源",
+		"key": "南瓜影视",
 		"name": "南瓜影视",
 		"type": 0,
 		"api": "http://www.xfeiji.com/api.php/provide/vod/at/xml",
@@ -929,7 +929,7 @@
 		"categories": []
 	},
 	{
-		"key": "芒果资源",
+		"key": "不开门",
 		"name": "不开门",
 		"type": 0,
 		"api": "http://c.bukai.men/api.php/provide/vod/at/xml",
@@ -937,7 +937,7 @@
 		"categories": []
 	},
 	{
-		"key": "乐鱼资源",
+		"key": "蜗牛看鸭",
 		"name": "蜗牛看鸭",
 		"type": 0,
 		"api": "http://snailkya.xyz/api.php/provide/vod/at/xml",
@@ -945,7 +945,7 @@
 		"categories": []
 	},
 	{
-		"key": "水蜜桃",
+		"key": "趣看",
 		"name": "趣看",
 		"type": 0,
 		"api": "http://qkmp4.cn/api.php/provide/vod/at/xml",
@@ -953,7 +953,7 @@
 		"categories": []
 	},
 	{
-		"key": "秀色资源",
+		"key": "千寻时光",
 		"name": "千寻时光",
 		"type": 0,
 		"api": "http://wy.dqyhg.cn/api.php/provide/vod/at/xml",
@@ -961,7 +961,7 @@
 		"categories": []
 	},
 	{
-		"key": "探探资源",
+		"key": "快看客栈",
 		"name": "快看客栈",
 		"type": 0,
 		"api": "https://www.vp1127.com/api.php/provide/vod/at/xml",
@@ -969,7 +969,7 @@
 		"categories": []
 	},
 	{
-		"key": "桃色资源",
+		"key": "嘀哩嘀哩",
 		"name": "嘀哩嘀哩",
 		"type": 0,
 		"api": "http://api.diliktv.xyz/api.php/provide/vod/at/xml",
@@ -977,7 +977,7 @@
 		"categories": []
 	},
 	{
-		"key": "色猫资源",
+		"key": "云美剧",
 		"name": "云美剧",
 		"type": 0,
 		"api": "http://www.ezmedias.net/api.php/provide/vod/at/xml",
@@ -985,7 +985,7 @@
 		"categories": []
 	},
 	{
-		"key": "骚色资源",
+		"key": "玺娜影视",
 		"name": "玺娜影视",
 		"type": 0,
 		"api": "https://www.yuxidy.cn/api.php/provide/vod/at/xml",
@@ -993,7 +993,7 @@
 		"categories": []
 	},
 	{
-		"key": "4000资源",
+		"key": "ONE影视",
 		"name": "ONE影视",
 		"type": 0,
 		"api": "http://www.onedianshi.com/api.php/provide/vod/at/xml",
@@ -1001,7 +1001,7 @@
 		"categories": []
 	},
 	{
-		"key": "色屌丝资源",
+		"key": "比邻影视",
 		"name": "比邻影视",
 		"type": 0,
 		"api": "http://0hzy.cn:9990/api.php/provide/vod/at/xml",
@@ -1009,7 +1009,7 @@
 		"categories": []
 	},
 	{
-		"key": "小姐姐资源",
+		"key": "网民电影",
 		"name": "网民电影",
 		"type": 0,
 		"api": "https://www.prinevillesda.org/api.php/provide/vod/at/xml",
@@ -1017,7 +1017,7 @@
 		"categories": []
 	},
 	{
-		"key": "黄瓜TV资源",
+		"key": "MBO影视",
 		"name": "MBO影视",
 		"type": 0,
 		"api": "https://www.mbomovie.com/api.php/provide/vod/at/xmlat/xml/",
@@ -1025,7 +1025,7 @@
 		"categories": []
 	},
 	{
-		"key": "快播盒子资源",
+		"key": "兔子窝",
 		"name": "兔子窝",
 		"type": 0,
 		"api": "http://cj.huimaojia.com:12345/api.php/provide/vod/at/xml",
@@ -1033,7 +1033,7 @@
 		"categories": []
 	},
 	{
-		"key": "大香蕉资源",
+		"key": "哇可可影视",
 		"name": "哇可可影视",
 		"type": 0,
 		"api": "https://www.zwcoco.com/api.php/provide/vod/at/xml",
@@ -1041,7 +1041,7 @@
 		"categories": []
 	},
 	{
-		"key": "日本AV在线",
+		"key": "唐人街影院",
 		"name": "唐人街影院",
 		"type": 0,
 		"api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml",
@@ -1049,7 +1049,7 @@
 		"categories": []
 	},
 	{
-		"key": "久久热在线",
+		"key": "77资源",
 		"name": "77资源",
 		"type": 0,
 		"api": "https://www.77zy.vip/inc/m3u8.php",
@@ -1057,7 +1057,7 @@
 		"categories": []
 	},
 	{
-		"key": "青青草视频",
+		"key": "523资源",
 		"name": "523资源",
 		"type": 0,
 		"api": "https://caiji.523zyw.com/incapi.php",
@@ -1065,7 +1065,7 @@
 		"categories": []
 	},
 	{
-		"key": "麻豆视频",
+		"key": "丝袜资源",
 		"name": "丝袜资源",
 		"type": 0,
 		"api": "https://siwazyw.net/api.php/provide/vod/at/xml",
@@ -1073,7 +1073,7 @@
 		"categories": []
 	},
 	{
-		"key": "一本道资源",
+		"key": "芒果资源",
 		"name": "芒果资源",
 		"type": 0,
 		"api": "https://mgzyz1.com/api.php/provide/vod/at/xml",
@@ -1081,7 +1081,7 @@
 		"categories": []
 	},
 	{
-		"key": "草榴视频",
+		"key": "乐鱼资源",
 		"name": "乐鱼资源",
 		"type": 0,
 		"api": "https://www.leyuzyapi.com/inc/seacmsapi.php",
@@ -1089,7 +1089,7 @@
 		"categories": []
 	},
 	{
-		"key": "52AVAV",
+		"key": "水蜜桃",
 		"name": "水蜜桃",
 		"type": 0,
 		"api": "http://51smt4.xyz/api.php/provide/vod/at/xml",
@@ -1097,7 +1097,7 @@
 		"categories": []
 	},
 	{
-		"key": "亚洲成人在线",
+		"key": "秀色资源",
 		"name": "秀色资源",
 		"type": 0,
 		"api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
@@ -1105,7 +1105,7 @@
 		"categories": []
 	},
 	{
-		"key": "水帘洞资源",
+		"key": "探探资源",
 		"name": "探探资源",
 		"type": 0,
 		"api": "https://apittzy.com/api.php/provide/vod/at/xml",
@@ -1113,7 +1113,7 @@
 		"categories": []
 	},
 	{
-		"key": "我要啪啪",
+		"key": "桃色资源",
 		"name": "桃色资源",
 		"type": 0,
 		"api": "https://api.taoseapi.com/api.php/provide/vod/at/xml",
@@ -1121,7 +1121,7 @@
 		"categories": []
 	},
 	{
-		"key": "AV集中淫",
+		"key": "色猫资源",
 		"name": "色猫资源",
 		"type": 0,
 		"api": "https://api.maozyapi.com/inc/api.php",
@@ -1129,7 +1129,7 @@
 		"categories": []
 	},
 	{
-		"key": "夜夜撸资源",
+		"key": "骚色资源",
 		"name": "骚色资源",
 		"type": 0,
 		"api": "http://api.saosezy.icu/api.php/provide/vod/at/xml",
@@ -1137,7 +1137,7 @@
 		"categories": []
 	},
 	{
-		"key": "大屌丝资源",
+		"key": "色鸡资源",
 		"name": "色鸡资源",
 		"type": 0,
 		"api": "https://sejizy2.com/inc/api.php",
@@ -1145,7 +1145,7 @@
 		"categories": []
 	},
 	{
-		"key": "咪咪资源",
+		"key": "4000资源",
 		"name": "4000资源",
 		"type": 0,
 		"api": "https://www.4000zy.com/inc/api.php",
@@ -1153,7 +1153,7 @@
 		"categories": []
 	},
 	{
-		"key": "鲍鱼AV",
+		"key": "色屌丝资源",
 		"name": "色屌丝资源",
 		"type": 0,
 		"api": "http://sdscj11.com/home/cjapi/9bf31c7ff062936a96d3c8bd1f8f2ff3/vod/xml",
@@ -1161,7 +1161,7 @@
 		"categories": []
 	},
 	{
-		"key": "精工厂资源",
+		"key": "小姐姐资源",
 		"name": "小姐姐资源",
 		"type": 0,
 		"api": "https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml",
@@ -1169,7 +1169,7 @@
 		"categories": []
 	},
 	{
-		"key": "点点娱乐",
+		"key": "黄瓜TV资源",
 		"name": "黄瓜TV资源",
 		"type": 0,
 		"api": "https://www.caiji10.com/home/cjapi/14bfa6bb14875e45bba028a21ed38046/vod/xml",
@@ -1177,7 +1177,7 @@
 		"categories": []
 	},
 	{
-		"key": "淫人妻资源",
+		"key": "快播盒子资源",
 		"name": "快播盒子资源",
 		"type": 0,
 		"api": "http://www.caiji09.com/home/cjapi/a3f390d88e4c41f2747bfa2f1b5f87db/vod/xml",
@@ -1185,7 +1185,7 @@
 		"categories": []
 	},
 	{
-		"key": "小处女资源",
+		"key": "大香蕉资源",
 		"name": "大香蕉资源",
 		"type": 0,
 		"api": "https://www.caiji08.com/home/cjapi/735b90b4568125ed6c3f678819b6e058/vod/xml",
@@ -1193,7 +1193,7 @@
 		"categories": []
 	},
 	{
-		"key": "天噜啦资源",
+		"key": "日本AV在线",
 		"name": "日本AV在线",
 		"type": 0,
 		"api": "http://caiji07.com/home/cjapi/3295c76acbf4caaed33c36b1b5fc2cb1/vod/xml",
@@ -1201,7 +1201,7 @@
 		"categories": []
 	},
 	{
-		"key": "99资源",
+		"key": "久久热在线",
 		"name": "久久热在线",
 		"type": 0,
 		"api": "http://caiji06.com/home/cjapi/fc490ca45c00b1249bbe3554a4fdf6fb/vod/xml",
@@ -1209,7 +1209,7 @@
 		"categories": []
 	},
 	{
-		"key": "010爱资源",
+		"key": "青青草视频",
 		"name": "青青草视频",
 		"type": 0,
 		"api": "http://caiji05.com/home/cjapi/ea5d2f1c4608232e07d3aa3d998e5135/vod/xml",
@@ -1217,7 +1217,7 @@
 		"categories": []
 	},
 	{
-		"key": "鲍鱼BB",
+		"key": "麻豆视频",
 		"name": "麻豆视频",
 		"type": 0,
 		"api": "http://caiji04.com/home/cjapi/03afdbd66e7929b125f8597834fa83a4/vod/xml",
@@ -1225,7 +1225,7 @@
 		"categories": []
 	},
 	{
-		"key": "天堂AV",
+		"key": "一本道资源",
 		"name": "一本道资源",
 		"type": 0,
 		"api": "http://caiji03.com/home/cjapi/44f683a84163b3523afe57c2e008bc8c/vod/xml",
@@ -1233,7 +1233,7 @@
 		"categories": []
 	},
 	{
-		"key": "痴汉队长",
+		"key": "草榴视频",
 		"name": "草榴视频",
 		"type": 0,
 		"api": "https://www.caiji02.com/home/cjapi/7f39f8317fbdb1988ef4c628eba02591/vod/xml",
@@ -1241,7 +1241,7 @@
 		"categories": []
 	},
 	{
-		"key": "抖阴视频",
+		"key": "52AVAV",
 		"name": "52AVAV",
 		"type": 0,
 		"api": "http://02caiji.com/home/cjapi/aab3238922bcc25a6f606eb525ffdc56/vod/xml",
@@ -1249,7 +1249,7 @@
 		"categories": []
 	},
 	{
-		"key": "麻豆视频",
+		"key": "亚洲成人在线",
 		"name": "亚洲成人在线",
 		"type": 0,
 		"api": "https://www.caiji01.com/home/cjapi/072b030ba126b2f4b2374f342be9ed44/vod/xml",
@@ -1257,7 +1257,7 @@
 		"categories": []
 	},
 	{
-		"key": "裸艺视频",
+		"key": "水帘洞资源",
 		"name": "水帘洞资源",
 		"type": 0,
 		"api": "https://www.sldcaiji.com/home/cjapi/f4b9ec30ad9f68f89b29639786cb62ef/vod/xml",
@@ -1265,7 +1265,7 @@
 		"categories": []
 	},
 	{
-		"key": "柚萌视频",
+		"key": "我要啪啪",
 		"name": "我要啪啪",
 		"type": 0,
 		"api": "http://www.caiji21.com/home/cjapi/28dd2c7955ce926456240b2ff0100bde/vod/xml",
@@ -1273,7 +1273,7 @@
 		"categories": []
 	},
 	{
-		"key": "99资源吧",
+		"key": "AV集中淫",
 		"name": "AV集中淫",
 		"type": 0,
 		"api": "https://www.caiji22.com/home/cjapi/35f4a8d465e6e1edc05f3d8ab658c551/vod/xml",
@@ -1281,7 +1281,7 @@
 		"categories": []
 	},
 	{
-		"key": "佳人资源",
+		"key": "夜夜撸资源",
 		"name": "夜夜撸资源",
 		"type": 0,
 		"api": "https://www.caiji23.com/home/cjapi/d1fe173d08e959397adf34b1d77e88d7/vod/xml",
@@ -1289,7 +1289,7 @@
 		"categories": []
 	},
 	{
-		"key": "EU资源",
+		"key": "大屌丝资源",
 		"name": "大屌丝资源",
 		"type": 0,
 		"api": "http://www.caiji24.com/home/cjapi/f033ab37c30201f73f142449d037028d/vod/xml",
@@ -1297,7 +1297,7 @@
 		"categories": []
 	},
 	{
-		"key": "AE86资源",
+		"key": "咪咪资源",
 		"name": "咪咪资源",
 		"type": 0,
 		"api": "http://www.caiji25.com/home/cjapi/43ec517d68b6edd3015b3edc9a11367b/vod/xml",
@@ -1305,7 +1305,7 @@
 		"categories": []
 	},
 	{
-		"key": "浪潮资源",
+		"key": "鲍鱼AV",
 		"name": "鲍鱼AV",
 		"type": 0,
 		"api": "http://caiji26.com/home/cjapi/9778d5d219c5080b9a6a17bef029331c/vod/xml",
@@ -1313,7 +1313,7 @@
 		"categories": []
 	},
 	{
-		"key": "速播资源",
+		"key": "精工厂资源",
 		"name": "精工厂资源",
 		"type": 0,
 		"api": "https://www.016caiji.com/home/cjapi/7cbbc409ec990f19c78c75bd1e06f215/vod/xml",
@@ -1321,7 +1321,7 @@
 		"categories": []
 	},
 	{
-		"key": "逼哩逼哩视频",
+		"key": "点点娱乐",
 		"name": "点点娱乐",
 		"type": 0,
 		"api": "http://32ddtv.com/home/cjapi/c74d97b01eae257e44aa9d5bade97baf/vod/xml",
@@ -1329,7 +1329,7 @@
 		"categories": []
 	},
 	{
-		"key": "酷豆资源",
+		"key": "淫人妻资源",
 		"name": "淫人妻资源",
 		"type": 0,
 		"api": "http://www.yrqcaiji.com/home/cjapi/98dce83da57b0395e163467c9dae521b/vod/xml",
@@ -1337,7 +1337,7 @@
 		"categories": []
 	},
 	{
-		"key": "378资源",
+		"key": "小处女资源",
 		"name": "小处女资源",
 		"type": 0,
 		"api": "http://xcncaiji.com/home/cjapi/812b4ba287f5ee0bc9d43bbf5bbe87fb/vod/xml",
@@ -1345,7 +1345,7 @@
 		"categories": []
 	},
 	{
-		"key": "猛牛影视",
+		"key": "天噜啦资源",
 		"name": "天噜啦资源",
 		"type": 0,
 		"api": "http://www.987caiji.com/api/max.php",
@@ -1353,7 +1353,7 @@
 		"categories": []
 	},
 	{
-		"key": "5X社区",
+		"key": "99资源",
 		"name": "99资源",
 		"type": 0,
 		"api": "http://99zy.pw/api.php/provide/vod/at/xml",
@@ -1361,7 +1361,7 @@
 		"categories": []
 	},
 	{
-		"key": "银龙资源",
+		"key": "010爱资源",
 		"name": "010爱资源",
 		"type": 0,
 		"api": "http://www.010aizy.com/API/macs.php",
@@ -1369,7 +1369,7 @@
 		"categories": []
 	},
 	{
-		"key": "奶茶资源",
+		"key": "鲍鱼BB",
 		"name": "鲍鱼BB",
 		"type": 0,
 		"api": "http://baoyub.live/incapi.php",
@@ -1377,7 +1377,7 @@
 		"categories": []
 	},
 	{
-		"key": "爱播资源",
+		"key": "天堂AV",
 		"name": "天堂AV",
 		"type": 0,
 		"api": "http://www.njxinli.com/incapi.php",
@@ -1385,7 +1385,7 @@
 		"categories": []
 	},
 	{
-		"key": "美少女资源",
+		"key": "痴汉队长",
 		"name": "痴汉队长",
 		"type": 0,
 		"api": "https://javcaptain.com/api.php/provide/vod/at/xml",
@@ -1393,7 +1393,7 @@
 		"categories": []
 	},
 	{
-		"key": "淫水机资源",
+		"key": "抖阴视频",
 		"name": "抖阴视频",
 		"type": 0,
 		"api": "https://www.888dav.com/api.php/provide/vod/at/xml",
@@ -1401,7 +1401,7 @@
 		"categories": []
 	},
 	{
-		"key": "香奶儿资源",
+		"key": "麻豆视频",
 		"name": "麻豆视频",
 		"type": 0,
 		"api": "https://madouse.la/api.php/provide/vod/at/xml",
@@ -1409,7 +1409,7 @@
 		"categories": []
 	},
 	{
-		"key": "白嫖资源",
+		"key": "裸艺视频",
 		"name": "裸艺视频",
 		"type": 0,
 		"api": "http://122ap.com/inc/api.php",
@@ -1417,7 +1417,7 @@
 		"categories": []
 	},
 	{
-		"key": "小湿妹资源",
+		"key": "柚萌视频",
 		"name": "柚萌视频",
 		"type": 0,
 		"api": "https://nameweb.xyz/api.php/provide/vod/at/xml",
@@ -1425,7 +1425,7 @@
 		"categories": []
 	},
 	{
-		"key": "黄AV资源",
+		"key": "99资源吧",
 		"name": "99资源吧",
 		"type": 0,
 		"api": "http://99zyba.com/api.php/provide/vod/at/xml",
@@ -1433,7 +1433,7 @@
 		"categories": []
 	},
 	{
-		"key": "大地资源",
+		"key": "佳人资源",
 		"name": "佳人资源",
 		"type": 0,
 		"api": "https://www.951c.tk/api.php/provide/vod/at/xml",
@@ -1441,7 +1441,7 @@
 		"categories": []
 	},
 	{
-		"key": "CK资源",
+		"key": "EU资源",
 		"name": "EU资源",
 		"type": 0,
 		"api": "http://euzy9.xyz/api.php/provide/vod/at/xml",
@@ -1449,7 +1449,7 @@
 		"categories": []
 	},
 	{
-		"key": "BB资源",
+		"key": "AE86资源",
 		"name": "AE86资源",
 		"type": 0,
 		"api": "https://www.ae86zy.com/api.php/provide/vod/at/xml",
@@ -1457,7 +1457,7 @@
 		"categories": []
 	},
 	{
-		"key": "老鸭资源",
+		"key": "浪潮资源",
 		"name": "浪潮资源",
 		"type": 0,
 		"api": "http://langchaozy6.com/api.php/provide/vod/at/xml",
@@ -1465,7 +1465,7 @@
 		"categories": []
 	},
 	{
-		"key": "茄子资源",
+		"key": "速播资源",
 		"name": "速播资源",
 		"type": 0,
 		"api": "https://api.suboapi.com/api.php/provide/vod/at/xml",
@@ -1473,7 +1473,7 @@
 		"categories": []
 	},
 	{
-		"key": "花椒资源",
+		"key": "逼哩逼哩视频",
 		"name": "逼哩逼哩视频",
 		"type": 0,
 		"api": "http://blbl.space/inc/api.php",
@@ -1481,7 +1481,7 @@
 		"categories": []
 	},
 	{
-		"key": "辣椒资源",
+		"key": "酷豆资源",
 		"name": "酷豆资源",
 		"type": 0,
 		"api": "https://kudouzy.com/api.php/provide/vod/at/xml",
@@ -1489,7 +1489,7 @@
 		"categories": []
 	},
 	{
-		"key": "乐播资源",
+		"key": "378资源",
 		"name": "378资源",
 		"type": 0,
 		"api": "http://378zy.com/api.php/provide/vod/at/xml",
@@ -1497,7 +1497,7 @@
 		"categories": []
 	},
 	{
-		"key": "博天堂",
+		"key": "猛牛影视",
 		"name": "猛牛影视",
 		"type": 0,
 		"api": "https://mnys12.site/api.php/provide/vod/at/xml",
@@ -1505,7 +1505,7 @@
 		"categories": []
 	},
 	{
-		"key": "环亚资源",
+		"key": "5X社区",
 		"name": "5X社区",
 		"type": 0,
 		"api": "https://0413.api.cdn.5api123.com/api.php",
@@ -1513,7 +1513,7 @@
 		"categories": []
 	},
 	{
-		"key": "JAV名优馆",
+		"key": "银龙资源",
 		"name": "银龙资源",
 		"type": 0,
 		"api": "https://yinlong.tv/api.php/provide/vod/at/xml",
@@ -1521,7 +1521,7 @@
 		"categories": []
 	},
 	{
-		"key": "AVZY6888资源",
+		"key": "奶茶资源",
 		"name": "奶茶资源",
 		"type": 0,
 		"api": "https://caiji.naichaapi.com/inc/api.php",
@@ -1529,7 +1529,7 @@
 		"categories": []
 	},
 	{
-		"key": "800188188",
+		"key": "爱播资源",
 		"name": "爱播资源",
 		"type": 0,
 		"api": "https://api.aibozyapi.com/vod/",
@@ -1537,7 +1537,7 @@
 		"categories": []
 	},
 	{
-		"key": "色色资源",
+		"key": "美少女资源",
 		"name": "美少女资源",
 		"type": 0,
 		"api": "https://www.msnii.com/api/xml.php",
@@ -1545,7 +1545,7 @@
 		"categories": []
 	},
 	{
-		"key": "玖玖资源",
+		"key": "淫水机资源",
 		"name": "淫水机资源",
 		"type": 0,
 		"api": "https://www.xrbsp.com/api/xml.php",
@@ -1553,7 +1553,7 @@
 		"categories": []
 	},
 	{
-		"key": "久草资源",
+		"key": "香奶儿资源",
 		"name": "香奶儿资源",
 		"type": 0,
 		"api": "https://www.gdlsp.com/api/xml.php",
@@ -1561,7 +1561,7 @@
 		"categories": []
 	},
 	{
-		"key": "狼少年",
+		"key": "白嫖资源",
 		"name": "白嫖资源",
 		"type": 0,
 		"api": "https://www.kxgav.com/api/xml.php",
@@ -1569,7 +1569,7 @@
 		"categories": []
 	},
 	{
-		"key": "富二代资源",
+		"key": "小湿妹资源",
 		"name": "小湿妹资源",
 		"type": 0,
 		"api": "https://www.afasu.com/api/xml.php",
@@ -1577,7 +1577,7 @@
 		"categories": []
 	},
 	{
-		"key": "字幕网",
+		"key": "黄AV资源",
 		"name": "黄AV资源",
 		"type": 0,
 		"api": "https://www.pgxdy.com/api/xml.php",
@@ -1585,7 +1585,7 @@
 		"categories": []
 	},
 	{
-		"key": "利来资源",
+		"key": "大地资源",
 		"name": "大地资源",
 		"type": 0,
 		"api": "https://dadiapi.com/api.php",
@@ -1593,7 +1593,7 @@
 		"categories": []
 	},
 	{
-		"key": "佳丽资源",
+		"key": "CK资源",
 		"name": "CK资源",
 		"type": 0,
 		"api": "http://www.feifei67.com/api.php/provide/vod/at/xml",
@@ -1601,7 +1601,7 @@
 		"categories": []
 	},
 	{
-		"key": "番号资源",
+		"key": "BB资源",
 		"name": "BB资源",
 		"type": 0,
 		"api": "http://bbzy.cc/inc/maccms10.php",
@@ -1609,7 +1609,7 @@
 		"categories": []
 	},
 	{
-		"key": "苍天资源",
+		"key": "老鸭资源",
 		"name": "老鸭资源",
 		"type": 0,
 		"api": "http://laoyazy.vip/api.php/provide/vod/at/xml",
@@ -1617,7 +1617,7 @@
 		"categories": []
 	},
 	{
-		"key": "鲨鱼资源",
+		"key": "茄子资源",
 		"name": "茄子资源",
 		"type": 0,
 		"api": "http://www.qiezizy8.com/api.php/provide/vod/at/xml",
@@ -1625,7 +1625,7 @@
 		"categories": []
 	},
 	{
-		"key": "速度资源",
+		"key": "花椒资源",
 		"name": "花椒资源",
 		"type": 0,
 		"api": "https://apihjzy.com/api.php/provide/vod/at/xml",
@@ -1633,7 +1633,7 @@
 		"categories": []
 	},
 	{
-		"key": "优果资源",
+		"key": "辣椒资源",
 		"name": "辣椒资源",
 		"type": 0,
 		"api": "http://www.lajiaozy18.com/api.php/provide/vod/at/xml",
@@ -1641,7 +1641,7 @@
 		"categories": []
 	},
 	{
-		"key": "KK写真资源",
+		"key": "乐播资源",
 		"name": "乐播资源",
 		"type": 0,
 		"api": "https://lbapi9.com/api.php/provide/vod/at/xml",
@@ -1649,7 +1649,7 @@
 		"categories": []
 	},
 	{
-		"key": "鸭奈飞资源",
+		"key": "博天堂",
 		"name": "博天堂",
 		"type": 0,
 		"api": "http://bttcj.com/inc/sapi.php?ac=videolist",
@@ -1657,7 +1657,7 @@
 		"categories": []
 	},
 	{
-		"key": "好好资源",
+		"key": "环亚资源",
 		"name": "环亚资源",
 		"type": 0,
 		"api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
@@ -1665,7 +1665,7 @@
 		"categories": []
 	},
 	{
-		"key": "U猫m3u8",
+		"key": "JAV名优馆",
 		"name": "JAV名优馆",
 		"type": 0,
 		"api": "http://mygzycj.com/api.php?ac=list",
@@ -1673,7 +1673,7 @@
 		"categories": []
 	},
 	{
-		"key": "白嫖联盟",
+		"key": "AVZY6888资源",
 		"name": "AVZY6888资源",
 		"type": 0,
 		"api": "http://m.7777688.com/incapi.php",
@@ -1681,7 +1681,7 @@
 		"categories": []
 	},
 	{
-		"key": "墨鱼影视",
+		"key": "800188188",
 		"name": "800188188",
 		"type": 0,
 		"api": "http://www.800188188.com/inc/api.php",
@@ -1689,7 +1689,7 @@
 		"categories": []
 	},
 	{
-		"key": "宅看影视",
+		"key": "色色资源",
 		"name": "色色资源",
 		"type": 0,
 		"api": "http://secj8.com/inc/sapi.php?ac=videolist",
@@ -1697,7 +1697,7 @@
 		"categories": []
 	},
 	{
-		"key": "陈家影视",
+		"key": "玖玖资源",
 		"name": "玖玖资源",
 		"type": 0,
 		"api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
@@ -1705,7 +1705,7 @@
 		"categories": []
 	},
 	{
-		"key": "嘿锋影视",
+		"key": "久草资源",
 		"name": "久草资源",
 		"type": 0,
 		"api": "http://jcspcj8.co/sapi?ac=videolist",
@@ -1713,7 +1713,7 @@
 		"categories": []
 	},
 	{
-		"key": "红影APP",
+		"key": "狼少年",
 		"name": "狼少年",
 		"type": 0,
 		"api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
@@ -1721,7 +1721,7 @@
 		"categories": []
 	},
 	{
-		"key": "淘剧影院",
+		"key": "富二代资源",
 		"name": "富二代资源",
 		"type": 0,
 		"api": "http://f2dcj6.com/sapi/?ac=videolist",
@@ -1729,7 +1729,7 @@
 		"categories": []
 	},
 	{
-		"key": "色花都",
+		"key": "字幕网",
 		"name": "字幕网",
 		"type": 0,
 		"api": "http://zmcj88.com/sapi?ac=videolist",
@@ -1737,7 +1737,7 @@
 		"categories": []
 	},
 	{
-		"key": "色狗资源",
+		"key": "利来资源",
 		"name": "利来资源",
 		"type": 0,
 		"api": "http://llzxcj.com/inc/sck.php?ac=videolist",
@@ -1745,7 +1745,7 @@
 		"categories": []
 	},
 	{
-		"key": "趣播资源",
+		"key": "佳丽资源",
 		"name": "佳丽资源",
 		"type": 0,
 		"api": "https://jializyzapi.com/api.php/provide/vod/at/xml",
@@ -1753,7 +1753,7 @@
 		"categories": []
 	},
 	{
-		"key": "哆咪动漫",
+		"key": "番号资源",
 		"name": "番号资源",
 		"type": 0,
 		"api": "http://fhapi9.com/api.php/provide/vod/at/xml",
@@ -1761,7 +1761,7 @@
 		"categories": []
 	},
 	{
-		"key": "追剧喵",
+		"key": "苍天资源",
 		"name": "苍天资源",
 		"type": 0,
 		"api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml",
@@ -1769,7 +1769,7 @@
 		"categories": []
 	},
 	{
-		"key": "核桃影视",
+		"key": "鲨鱼资源",
 		"name": "鲨鱼资源",
 		"type": 0,
 		"api": "https://shayuapi.com/api.php/provide/vod/at/xml",
@@ -1777,7 +1777,7 @@
 		"categories": []
 	},
 	{
-		"key": "污妖动漫",
+		"key": "速度资源",
 		"name": "速度资源",
 		"type": 0,
 		"api": "http://www.ggmmzy.com:9999/inc/xml",
@@ -1785,7 +1785,7 @@
 		"categories": []
 	},
 	{
-		"key": "电影牛",
+		"key": "优果资源",
 		"name": "优果资源",
 		"type": 0,
 		"api": "https://www.ugirl6.com/inc/zyapimac.php",
@@ -1793,7 +1793,7 @@
 		"categories": []
 	},
 	{
-		"key": "极品影视",
+		"key": "KK写真资源",
 		"name": "KK写真资源",
 		"type": 0,
 		"api": "https://api.fengapp.xyz/api.php/provide/vod/at/xml",
@@ -1801,7 +1801,7 @@
 		"categories": []
 	},
 	{
-		"key": "348电影网",
+		"key": "百度伦理",
 		"name": "百度伦理",
 		"type": 0,
 		"api": "http://www.llbdzy.com/api.php/provide/vod/at/xml",
@@ -1809,7 +1809,7 @@
 		"categories": []
 	},
 	{
-		"key": "迷你库(人人迷)",
+		"key": "SB资源",
 		"name": "SB资源",
 		"type": 0,
 		"api": "http://www.shabizy.com:777/inc/sea",
@@ -1817,7 +1817,7 @@
 		"categories": []
 	},
 	{
-		"key": "多多资源",
+		"key": "1024资源",
 		"name": "1024资源",
 		"type": 0,
 		"api": "https://www.1024nf.com/api.php/provide/vod/at/xml/",
@@ -1825,7 +1825,7 @@
 		"categories": []
 	},
 	{
-		"key": "测试",
+		"key": "猛牛资源",
 		"name": "猛牛资源",
 		"type": 0,
 		"api": "http://nen13.space/api.php/provide/vod/at/xml",
@@ -1833,7 +1833,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "99",
 		"name": "99",
 		"type": 0,
 		"api": "http://yllzy.com/api.php/provide/vod/at/xml/",
@@ -1841,7 +1841,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "鸭奈飞资源",
 		"name": "鸭奈飞资源",
 		"type": 0,
 		"api": "https://yanetflix.com/api.php/provide/vod/at/xml",
@@ -1849,7 +1849,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "好好资源",
 		"name": "好好资源",
 		"type": 0,
 		"api": "http://haohaozy.com/api.php/provide/vod/at/xml",
@@ -1857,7 +1857,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "U猫m3u8",
 		"name": "U猫m3u8",
 		"type": 0,
 		"api": "http://umao.ml/api.php/provide/vod/at/xml",
@@ -1865,7 +1865,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "墨鱼影视",
 		"name": "墨鱼影视",
 		"type": 0,
 		"api": "http://www.moyuyingshi.com/api.php/provide/vod/at/xml",
@@ -1873,7 +1873,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "宅看影视",
 		"name": "宅看影视",
 		"type": 0,
 		"api": "http://zhaikanys.xyz/api.php/provide/vod/at/xml",
@@ -1881,7 +1881,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "陈家影视",
 		"name": "陈家影视",
 		"type": 0,
 		"api": "https://www.cjt521.com/api.php/provide/vod/at/xml",
@@ -1889,7 +1889,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "嘿锋影视",
 		"name": "嘿锋影视",
 		"type": 0,
 		"api": "https://hfys8.vip/api.php/provide/vod/at/xml",
@@ -1897,7 +1897,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "红影APP",
 		"name": "红影APP",
 		"type": 0,
 		"api": "http://csksk.com/api.php/provide/vod/at/xml",
@@ -1905,7 +1905,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "淘剧影院",
 		"name": "淘剧影院",
 		"type": 0,
 		"api": "https://www.tjyy06.com/api.php/provide/vod/at/xml",
@@ -1913,7 +1913,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "色花都",
 		"name": "色花都",
 		"type": 0,
 		"api": "http://sehuadu.life/inc/api.php",
@@ -1921,7 +1921,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "色狗资源",
 		"name": "色狗资源",
 		"type": 0,
 		"api": "https://segouzy1.com/inc/api.php",
@@ -1929,7 +1929,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "趣播资源",
 		"name": "趣播资源",
 		"type": 0,
 		"api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
@@ -1937,7 +1937,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "哆咪动漫",
 		"name": "哆咪动漫",
 		"type": 0,
 		"api": "http://www.dmdm2020.com/api.php/provide/vod/at/xml",
@@ -1945,7 +1945,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "追剧喵",
 		"name": "追剧喵",
 		"type": 0,
 		"api": "https://zjmiao.com/api.php/provide/vod/at/xml",
@@ -1953,7 +1953,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "核桃影视",
 		"name": "核桃影视",
 		"type": 0,
 		"api": "http://app.hetaoys.vip/api.php/provide/vod/at/xml",
@@ -1961,7 +1961,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "极品影视",
 		"name": "极品影视",
 		"type": 0,
 		"api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
@@ -1969,7 +1969,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "迷你库(人人迷)",
 		"name": "迷你库(人人迷)",
 		"type": 0,
 		"api": "https://www.miniku.cc/api.php/provide/vod/at/xml",
@@ -1977,7 +1977,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "多多资源",
 		"name": "多多资源",
 		"type": 0,
 		"api": "https://www.duoduozy.com/api.php/provide/vod/at/xml",
@@ -1985,7 +1985,7 @@
 		"categories": []
 	},
 	{
-		"key": "",
+		"key": "测试",
 		"name": "测试",
 		"type": 0,
 		"api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml",
