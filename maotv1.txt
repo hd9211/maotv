@@ -144,7 +144,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/94sm.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/94sm.json"
 		},
 		{
 			"key": "csp_xpath_jpys",
@@ -154,7 +154,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/jpys.json"
 		},
 		{
 			"key": "csp_xpath_age",
@@ -164,7 +164,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/agefans.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/agefans.json"
 		},
 		{
 			"key": "csp_xpath_jpyszl",
@@ -174,7 +174,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/jpys.json"
 		},
 		{
 			"key": "csp_xpath_cjt",
@@ -184,7 +184,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/cjtys.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/cjtys.json"
 		},
 		{
 			"key": "csp_xpath_nfmov",
@@ -194,7 +194,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/nfmovie.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/nfmovie.json"
 		},
 		{
 			"key": "csp_xpath_Jumi",
@@ -204,7 +204,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jumi.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/jumi.json"
 		},
 		{
 			"key": "csp_xpath_tvci",
@@ -214,7 +214,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/tvci.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/tvci.json"
 		},
 		{
 			"key": "csp_xpath_duboku",
@@ -224,7 +224,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/duboku.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/duboku.json"
 		},
 		{
 			"key": "csp_xpath_saohuotv",
@@ -234,7 +234,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/saohuotv2.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/saohuotv2.json"
 		},
 		{
 			"key": "csp_xpath_dm84",
@@ -244,7 +244,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/dm84.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/dm84.json"
 		},
 		{
 			"key": "csp_xpath_egg",
@@ -254,7 +254,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/egg.json"
 		},
 		{
 			"key": "csp_yysdali",
@@ -264,7 +264,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/yyds.json"
 		},
 		{
 			"key": "csp_xpath_555",
@@ -274,7 +274,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/555.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/555.json"
 		},
 		{
 			"key": "csp_xpath_sky4k",
@@ -284,7 +284,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/sky4k.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/sky4k.json"
 		},
 		{
 			"key": "csp_xpath_4kyu",
@@ -294,7 +294,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/4kyu.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/4kyu.json"
 		},
 		{
 			"key": "csp_xpath_miniku",
@@ -304,7 +304,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/miniku.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/miniku.json"
 		},
 		{
 			"key": "csp_xpath_pianba",
@@ -314,7 +314,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/pianba.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/pianba.json"
 		},
 		{
 			"key": "csp_xpath_Ole",
@@ -324,7 +324,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/olevod.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/olevod.json"
 		},
 		{
 			"key": "csp_xpath_fantuan",
@@ -334,7 +334,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/fantuan.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/fantuan.json"
 		},
 		{
 			"key": "csp_xpath_vipmv",
@@ -344,7 +344,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/vipmv.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/vipmv.json"
 		},
 		{
 			"key": "csp_xpath_pianku",
@@ -354,7 +354,17 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/pianku.json"
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/pianku.json"
+		},
+		{
+			"key": "csp_xpath_onedianshi",
+			"name": "@ONE蓝光(XPath)",
+			"type": 3,
+			"api": "csp_XPath",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/onedianshi.json"
 		},
 		{
 			"key": "↓↓（2021.10.30by小黄瓜）↓↓",
