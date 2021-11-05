@@ -307,24 +307,24 @@
 			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/miniku.json"
 		},
 		{
-			"key": "csp_xpath_pianba",
-			"name": "Pianba(XPath)",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/pianba.json"
-		},
-		{
-			"key": "csp_xpath_Ole",
-			"name": "Ole(EXO)",
+			"key": "csp_xpath_olevod",
+			"name": "@欧乐影院(播放器要改成Exo)",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/olevod.json"
+		},
+		{
+			"key": "csp_xpath_pianba",
+			"name": "@片吧影院XPath)",
+			"type": 3,
+			"api": "csp_XPath",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/pianba.json"
 		},
 		{
 			"key": "csp_xpath_fantuan",
@@ -358,13 +358,33 @@
 		},
 		{
 			"key": "csp_xpath_onedianshi",
-			"name": "@ONE蓝光(XPath)",
+			"name": "@ONE蓝光影院(XPath)",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/onedianshi.json"
+		},
+		{
+			"key": "csp_xpath_nfuxs",
+			"name": "@南府影视(XPath)",
+			"type": 3,
+			"api": "csp_XPath",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/nfuxs.json"
+		},
+		{
+			"key": "csp_xpath_nindedy",
+			"name": "@您的电影网(XPath)",
+			"type": 3,
+			"api": "csp_XPath",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/nindedy.json"
 		},
 		{
 			"key": "↓↓（2021.10.30by小黄瓜）↓↓",
