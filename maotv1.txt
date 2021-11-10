@@ -137,6 +137,15 @@
 			"filterable": 1
 		},
 		{
+			"key":"csp_Juhi",
+			"name":"@剧嗨(爬虫)",
+			"type":3,
+			"api":"csp_Juhi",
+			"searchable":1,"
+			quickSearch":0,"
+			filterable":1
+		},
+		{
 			"key": "csp_xpath_94sm",
 			"name": "94神马(XPath)",
 			"type": 3,
