@@ -395,6 +395,45 @@
 			"filterable": 0,
 			"ext": "https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/nindedy.json"
 		},
+				{
+			"key":"csp_xpath_yinghuacd",
+			"name":"@樱花动漫(XPath)",
+			"type":3,"api":"csp_XPath",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/yinghuacd.json"
+		},
+		{
+			"key":"csp_xpath_lezhutv",
+			"name":"@乐猪(XPath)",
+			"type":3,
+			"api":"csp_XPath",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/lezhutv.json"
+		},
+		{
+			"key":"csp_xpath_88dmw",
+			"name":"@动漫岛(XPath)",
+			"type":3,
+			"api":"csp_XPath",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/88dmw.json"
+		},
+		{
+			"key":"csp_xpath_mp4er",
+			"name":"@哔嘀影视(XPath)",
+			"type":3,
+			"api":"csp_XPath",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitee.com/hd2019/CatVodTVSpider/raw/master/xpath/mp4er.json"
+		},
 		{
 			"key": "↓↓（2021.10.30 by 小黄瓜）↓↓",
 			"name": "↓↓M浏览器中APP影视规则支持（测试版）支持筛选，接口太多，建议自测，哪个能用用哪个↓↓",
