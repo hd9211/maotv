@@ -13,6 +13,7 @@
 色鸡资源,https://sejizy2.com/inc/api.php,解析
 草莓资源,https://caiji.caomeiapi.com/inc/api.php,解析
 爱看资源,http://www.aikanzyz9.com/inc/api.php,解析
+大雕资源,http://www.dd-01.com/api.php/provide/vod/at/xml,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
 色屌丝资源,http://sdscj11.com/home/cjapi/9bf31c7ff062936a96d3c8bd1f8f2ff3/vod/xml,解析
 小姐姐资源,https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml,解析
@@ -46,6 +47,7 @@ AE86资源,https://www.ae86zy.com/api.php/provide/vod/at/xml,解析
 速播资源,https://api.suboapi.com/api.php/provide/vod/at/xml,解析
 逼哩逼哩视频,http://blbl.space/inc/api.php,解析
 酷豆资源,https://kudouzy.com/api.php/provide/vod/at/xml,解析
+酷伦理,https://api.kudian70.com/api.php/provide/vod/at/xml,解析
 378资源,http://378zy.com/api.php/provide/vod/at/xml,解析
 猛牛影视,https://mnys12.site/api.php/provide/vod/at/xml,解析
 5X社区,https://0413.api.cdn.5api123.com/api.php,解析
