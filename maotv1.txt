@@ -326,10 +326,10 @@
 {"key": "嘀哩嘀哩", "name": "嘀哩嘀哩", "type": 1,"api": "http://api.diliktv.xyz/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "云美剧", "name": "云美剧", "type": 1,"api": "http://www.ezmedias.net/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "玺娜影视", "name": "玺娜影视", "type": 1,"api": "https://www.yuxidy.cn/api.php/provide/vod/","playUrl": "", "categories": []},
-{"key": "ONE影视", "name": "ONE影视", "type": 0,"api": "http://www.onedianshi.com/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "ONE影视", "name": "ONE影视", "type": 1,"api": "http://www.onedianshi.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "比邻影视", "name": "比邻影视", "type": 1,"api": "http://0hzy.cn:9990/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "网民电影", "name": "网民电影", "type": 1,"api": "https://www.prinevillesda.org/api.php/provide/vod/","playUrl": "", "categories": []},
-{"key": "MBO影视", "name": "MBO影视", "type": 1,"api": "https://www.mbomovie.com/api.php/provide/vod/at/xml/","playUrl": "", "categories": []},
+{"key": "MBO影视", "name": "MBO影视", "type": 0,"api": "https://www.mbomovie.com/api.php/provide/vod/at/xml/","playUrl": "", "categories": []},
 {"key": "兔子窝", "name": "兔子窝", "type": 1,"api": "http://cj.huimaojia.com:12345/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "哇可可影视", "name": "哇可可影视", "type": 1,"api": "https://www.zwcoco.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "天龙影院", "name": "天龙影院", "type": 1,"api": "http://www.tl86dy.com/api.php/provide/vod/","playUrl": "", "categories": []},
@@ -353,10 +353,10 @@
 {"key": "瓜皮TV", "name": "瓜皮TV", "type": 1,"api": "http://www.dijiaxia.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "饭团影视", "name": "饭团影视", "type": 1,"api": "https://fantuan.wkfile.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "污妖动漫", "name": "污妖动漫", "type": 1,"api": "https://www.wyydm.com/api.php/provide/vod/","playUrl": "", "categories": []},
-{"key": "墨鱼影视", "name": "墨鱼影视", "type": ,"api": "http://www.moyuyingshi.com/api.php/provide/vod/","playUrl": "", "categories": []},
-{"key": "多多资源", "name": "多多资源", "type": ,"api": "https://www.duoduozy.com/api.php/provide/vod/","playUrl": "", "categories": []},
-{"key": "蘑菇资源", "name": "蘑菇资源", "type": ,"api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/","playUrl": "", "categories": []},
-{"key": "测试", "name": "测试", "type": ,"api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/","playUrl": "", "categories": []}
+{"key": "墨鱼影视", "name": "墨鱼影视", "type": 1,"api": "http://www.moyuyingshi.com/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "多多资源", "name": "多多资源", "type": 1,"api": "https://www.duoduozy.com/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "蘑菇资源", "name": "蘑菇资源", "type": 1,"api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "测试", "name": "测试", "type": 1,"api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/","playUrl": "", "categories": []}
 ],
 "lives": [
 {"group":"douyu","channels":[
