@@ -23,10 +23,13 @@ M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 56资源,http://svip.popo520.cn/api.php/provide/vod/at/xml,解析
 搬运工资源,https://cj.banyung.xyz:7788/tongyong/,解析
 聆风资源,http://maccms.bwcxvip.top/api.php/provide/vod/at/xml,解析
+江湖,http://jhzy.jhdyw.vip:8091/api.php/provide/vod,解析
+竹嘎,http://m.ycccyk.cn/api.php/provide/vod/at/xml,解析
 白嫖资源,http://www.baipiaozy.com/api.php/provide/vod/at/xml,解析
 白嫖联盟,https://www.hszbj.net/api.php/provide/vod/at/xml,解析
 U酷资源,https://ukuzy.com/api.php/provide/vod/at/xml,解析
 人人迷蓝光,https://kuu.renrenmi.cc/api.php/provide/vod/at/xml,解析
+奈菲迷蓝光,https://zyplayer.naifeimi.com/api.php/provide/vod/at/xml,解析
 淘片资源,https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml,解析
 喵派对蓝光,https://www.mgtv.one/api.php/provide/vod/at/xml,解析
 一帆资源(VPN),http://api.if101.tv/v1/vod,解析
@@ -34,7 +37,6 @@ U酷资源,https://ukuzy.com/api.php/provide/vod/at/xml,解析
 348电影网,https://348z.com/api.php/provide/vod/at/xml,解析
 555电影,http://w7tv.com/api.php/provide/vod/at/xml,解析
 5060影院,https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml,解析
-竹嘎(蓝光解析),http://m.ycccyk.cn/api.php/provide/vod/at/xml,解析
 爱看,http://tvcms.ikan6.vip/api.php/provide/vod/at/xml,解析
 欧乐影院,https://www.olevod.tv/api.php/provide/vod/at/xml,解析
 剧好看,https://www.juhaokan.cc/api.php/provide/vod/at/xml,解析
@@ -82,6 +84,7 @@ TVB云播03,https://www.hktv03.com/api.php/provide/vod/at/xml,解析
 穿梭资源,http://ok.888hyk.com/api.php/provide/vod/at/xml,解析
 蓝果APP,http://www.languotv.com/api.php/provide/vod/at/xml,解析
 追剧吧APP,http://data.zju8.cc:1234/api.php/provide/vod/at/xml,解析
+小极TV,http://api.8d8q.com/mmv/api.php/provide/vod/at/xml,解析
 追剧吧,http://www.huaxiab.com/api.php/provide/vod/at/xml,解析
 嗨哆咪影视,http://hdmys1.com/api.php/provide/vod/at/xml,解析
 安逸影院,http://dy.51isu.com:11801/api.php/provide/vod/at/xml,解析
@@ -115,11 +118,14 @@ TVB云播03,https://www.hktv03.com/api.php/provide/vod/at/xml,解析
 ONE影视,http://www.onedianshi.com/api.php/provide/vod/at/xml,解析
 比邻影视,http://0hzy.cn:9990/api.php/provide/vod/at/xml,解析
 网民电影,https://www.prinevillesda.org/api.php/provide/vod/at/xml,解析
-MBO影视,https://www.mbomovie.com/api.php/provide/vod/at/xml/,解析
+MBO影视,https://www.mbomovie.com/api.php/provide/vod/at/xmlat/xml/,解析
 兔子窝,http://cj.huimaojia.com:12345/api.php/provide/vod/at/xml,解析
 哇可可影视,https://www.zwcoco.com/api.php/provide/vod/at/xml,解析
 天龙影院,http://www.tl86dy.com/api.php/provide/vod/at/xml,解析
 西门影视,https://ximenys.com/api.php/provide/vod/at/xml,解析
+舒渡影视,http://www.lovctv.com/api.php/provide/vod/at/xml,解析
+宅男影视,http://www.sexyy.top/api.php/provide/vod/at/xml,解析
+任我云,https://www.renwoyun.cn/api.php/provide/vod/at/xml,解析
 鸭奈飞资源,https://yanetflix.com/api.php/provide/vod/at/xml,解析
 好好资源,http://haohaozy.com/api.php/provide/vod/at/xml,解析
 U猫m3u8,http://umao.ml/api.php/provide/vod/at/xml,解析
@@ -139,7 +145,6 @@ U猫m3u8,http://umao.ml/api.php/provide/vod/at/xml,解析
 墨鱼影视,http://www.moyuyingshi.com/api.php/provide/vod/at/xml,解析
 多多资源,https://www.duoduozy.com/api.php/provide/vod/at/xml,解析
 蘑菇资源,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml,解析
-奈菲迷,https://zy.naifeimi.com/api.php/provide/vod/at/xml,解析
 测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
 结束
 解析：
