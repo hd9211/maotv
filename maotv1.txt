@@ -337,6 +337,7 @@
 {"key": "舒渡影视", "name": "舒渡影视", "type": 1,"api": "http://www.lovctv.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "宅男影视", "name": "宅男影视", "type": 1,"api": "http://www.sexyy.top/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "任我云", "name": "任我云", "type": 1,"api": "https://www.renwoyun.cn/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "酷猫影视", "name": "酷猫影视", "type": 1,"api": "https://www.pgcms10.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "鸭奈飞资源", "name": "鸭奈飞资源", "type": 1,"api": "https://yanetflix.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "好好资源", "name": "好好资源", "type": 1,"api": "http://haohaozy.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "U猫m3u8", "name": "U猫m3u8", "type": 1,"api": "http://umao.ml/api.php/provide/vod/","playUrl": "", "categories": []},
