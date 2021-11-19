@@ -127,6 +127,7 @@ MBO影视,https://www.mbomovie.com/api.php/provide/vod/at/xmlat/xml/,解析
 宅男影视,http://www.sexyy.top/api.php/provide/vod/at/xml,解析
 任我云,https://www.renwoyun.cn/api.php/provide/vod/at/xml,解析
 酷猫影视,https://www.pgcms10.com/api.php/provide/vod/at/xml,解析
+嘛哩嘛哩,https://malimali2.com/api.php/provide/vod/at/xml,解析
 鸭奈飞资源,https://yanetflix.com/api.php/provide/vod/at/xml,解析
 好好资源,http://haohaozy.com/api.php/provide/vod/at/xml,解析
 U猫m3u8,http://umao.ml/api.php/provide/vod/at/xml,解析
