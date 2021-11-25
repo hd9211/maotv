@@ -97,7 +97,7 @@ AVZY6888资源,http://m.7777688.com/inc/api.php,解析
 速度资源,http://www.ggmmzy.com:9999/inc/xml,解析
 优果资源,https://www.ugirl6.com/inc/zyapimac.php,解析
 KK写真资源,https://api.fengapp.xyz/api.php/provide/vod/at/xml,解析
-百度伦理,http://www.llbdzy.com/api.php/provide/vod/at/xml,解析
+百度伦理,http://www.llbdzy.com/api.php/provide/vod,解析
 SB资源,http://www.shabizy.com:777/inc/sea,解析
 1024资源,https://www.1024nf.com/api.php/provide/vod/at/xml,解析
 猛牛资源,http://nen13.space/api.php/provide/vod/at/xml,解析
