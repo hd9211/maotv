@@ -457,7 +457,7 @@
 {"name":"凤凰资讯","urls":["http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8","http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8"]},
 {"name":"天映经典","urls":["http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8"]},
 {"name":"TVB星河","urls":["http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8"]},
-{"name":"TVB翡翠","urls":["http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8"]}，
+{"name":"TVB翡翠","urls":["http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8"]}]},
 {"group": "自定义","channels": [
 {"name": "凤凰卫视","urls": ["http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/1629698107-1-1618932691.hls.ts",",http://117.169.120.138:8080/live/fhchinese/index.m3u8","http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8"]},
 {"name": "凤凰资讯","urls": ["http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8","http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8"]},
