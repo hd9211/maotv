@@ -424,7 +424,7 @@
 {"name":"NewTV军事评论","urls":["http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl"]},
 {"name":"NewTV农业致富","urls":["http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf"]},
 {"name":"NewTV热播精选","urls":["http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd"]},
-{"name":"NewTV中国功夫","urls":["http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu"]}]}
+{"name":"NewTV中国功夫","urls":["http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu"]}]},
 {"group":"央视","channels":[
 {"name":"CCTV-1综合","urls":["http://223.110.241.206:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ"]},
 {"name":"CCTV-2财经","urls":["http://223.110.241.206:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ"]},
