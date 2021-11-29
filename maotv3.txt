@@ -1,3 +1,4 @@
+{
 "spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;c1628d87108616e40b1cd4cac17cbf8a",
 "sites":[
 {"key":"rrm_spider","name":"人人迷(免解)","type":3,"api":"csp_Rrm","searchable":1,"quickSearch":1,"filterable":0,"ext":"B9C8093A210EADA1"},
