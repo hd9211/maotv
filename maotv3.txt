@@ -409,7 +409,7 @@
 {"key": "秀色资源", "name": "秀色资源", "type": 1,"api": "https://api.xiuseapi.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "探探资源", "name": "探探资源", "type": 1,"api": "https://apittzy.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "桃色资源", "name": "桃色资源", "type": 1,"api": "https://api.taoseapi.com/api.php/provide/vod/","playUrl": "", "categories": []},
-{"key": "色猫资源", "name": "色猫资源", "type": 1,"api": "https://api.maozyapi.com/inc/apijson_vod.php","playUrl": "https://api.maozyapi.com/m3u8/?url=", "categories": []},
+{"key": "色猫资源", "name": "色猫资源", "type": 1,"api": "https://api.maozyapi.com/inc/apijson_vod.php","playUrl": "", "categories": []},
 {"key": "骚色资源", "name": "骚色资源", "type": 1,"api": "http://api.saosezy.icu/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "色鸡资源", "name": "色鸡资源", "type": 1,"api": "https://sejizy2.com/inc/apijson_vod.php","playUrl": "", "categories": []},
 {"key": "草莓资源", "name": "草莓资源", "type": 1,"api": "https://caiji.caomeiapi.com/inc/apijson_vod.php","playUrl": "", "categories": []},
