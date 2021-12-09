@@ -1,5 +1,5 @@
 {
-"spider":"https://github.com/Tangsan99999/cat/blob/main/official/jar/custom_spider.jar?raw=true;md5;0ed6ec1d3a843b0dd89dd6265f4c539a", 
+"spider":"https://gitee.com/hd2019/Public/raw/main/official/jar/custom_spider.jar;md5;0ed6ec1d3a843b0dd89dd6265f4c539a", 
 "wallpaper":"https://raw.githubusercontent.com/Tangsan99999/cat/main/wall.jpg",
 
 "sites":[
