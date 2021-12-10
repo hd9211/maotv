@@ -466,6 +466,7 @@
 "parses":[
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"瓜瓜免嗅","type":2,"url":"Cucumber"},
 {"name":"555TV","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=1752&my=fhlwyABGHJLNRX1489&url=","t":182,"i":"checkat2021-12-0616:29:03"},
 {"name":"快云影音1","type":1,"url":"http://vip.mengx.vip/home/api?type=ys&uid=2494472&key=deglpquwxzDNQRV378&url=","t":229,"i":"checkat2021-12-0616:27:54"},
 {"name":"大熊影视","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=1735&my=bcefosxyACJKOWX678&url=","t":240,"i":"checkat2021-12-0616:26:30"},
