@@ -82,8 +82,9 @@
 {"name":"雨果影视","type":1,"url":"https://json.nbjx.vip:4399/?wap=0&url=","t":866,"i":"checkat2021-12-1008:40:06"},
 {"name":"我爱电影","type":1,"url":"https://ysjx.jikezhuji.com/api/?key=Q4tfgmPEsD23t3TCTU&url=","t":881,"i":"checkat2021-12-1008:41:27"},
 {"name":"氢视频","type":1,"url":"https://json.qd234.cn/api/?key=CC99HRrrB0YgsSCPlS&url=","t":922,"i":"checkat2021-12-1008:40:57"},
+
 {"name":"1","type":0,"url":"https://jx.yparse.com/index.php?url="},
-{"name":"2","type":0,"url":"https://jx.618g.com/?url="},
+{"name":"2","type":0,"url":"https://jx.618g.com/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"],
