@@ -31,7 +31,7 @@ M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 白嫖联盟,https://www.hszbj.net/api.php/provide/vod/at/xml,解析
 U酷资源,https://ukuzy.com/api.php/provide/vod/at/xml,解析
 人人迷蓝光,https://kuu.renrenmi.cc/api.php/provide/vod/at/xml,解析
-奈菲迷蓝光,https://vip.naifeimi.com/api.php/provide/vod/at/xml,解析
+星一蓝光,https://lgku.suboyun.cn/api.php/provide/vod/at/xml,解析
 开放云切片,http://cai.iopenyun.com:665/apicj.php/provide/vod/from/Tcm3u8/?ac=list,解析
 初心影视,https://18mv.club/api.php/provide/vod/at/xml,解析
 影世界,http://video.yingworld.vip/api.php/provide/vod/at/xml,解析
