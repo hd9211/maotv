@@ -27,6 +27,7 @@ M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 竹嘎,http://m.ycccyk.cn/api.php/provide/vod/at/xml,解析
 雪人官采,https://zl.qd234.cn/api.php/provide/vod/at/xml,解析
 木偶人,http://vip.muoutv.com/api.php/provide/vod/at/xml,解析
+MuX官采,https://video.muxvip.com/api.php/provide/vod/at/xml,解析
 白嫖资源,http://www.baipiaozy.com/api.php/provide/vod/at/xml,解析
 白嫖联盟,https://www.hszbj.net/api.php/provide/vod/at/xml,解析
 U酷资源,https://ukuzy.com/api.php/provide/vod/at/xml,解析
