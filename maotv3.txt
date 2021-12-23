@@ -1,12 +1,14 @@
 {
 "spider": "https://gitee.com/hd2019/OneClickRun/raw/master/xpath/main_spider.txt",
-//"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;23fc7810f7e28a36a41a886aeb5458ae",
+//"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;dd70f51058b030fdeb0f616064a1567c",
 "sites":[
 {"key":"2345_spider","name":"2345影视(官源)","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/2345.json"},
 {"key":"sogou_spider","name":"搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/sogou.json"},
 {"key":"rrm_spider","name":"人人迷(免解)","type":3,"api":"csp_Rrm","searchable":1,"quickSearch":1,"filterable":0,"ext":"B9C8093A210EADA1"},
-{"key":"gdyy_spider","name":"孤单影视(测FV0)","type":3,"api":"csp_GdyyFV0","searchable":1,"quickSearch":0,"filterable":1,"ext":"00c8ce12-fece-5bd8-90d8-04ae99099644"},
+{"key":"gdyy_spider","name":"孤单影视(测FV0)","type":3,"api":"csp_Gdyy","searchable":1,"quickSearch":0,"filterable":1,"ext":"00c8ce12-fece-5bd8-90d8-04ae99099644"},
+{"key":"wgyy_spider","name":"乌龟影视(测FV0)","type":3,"api":"csp_Wgyy","searchable":1,"quickSearch":0,"filterable":1,"ext":"dfcd0b28-56b4-5313-9ce2-7e9f0857186f"},
 {"key":"ikan_spider","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":0,"ext":"A9545C889B5D"},
+{"key":"epang_spider","name":"阿房App(SP)","type":3,"api":"csp_EPangApp","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"360_spider","name":"360影视(官源)","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/360.json"},
 {"key":"nfzjm_spider","name":"南府追剧(AT)","type":3,"api":"csp_Nfzjm","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Nfuxs","name":"南府(P)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/Nfuxs.json"},
