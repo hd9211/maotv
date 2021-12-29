@@ -82,6 +82,8 @@
 {"key":"csp_xpath_czspp_h","name":"@厂长资源_08","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/hstsws008/mao@master/xpath/czspp.json"},	  
 {"key":"csp_xpath_rrviprw_hy","name":"@人人影视_hd","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/hyundaic/xpath@master/rrviprw.json"},
 {"key":"csp_xpath_smdyy_hy","name":"@神马影视_hd","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/hyundaic/xpath@master/smdyy.json"},
+{"key":"csp_xpath_waipian2","name":"歪片星球_yh","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/waipian2.json"},
+
 //{"key":"csp_xpath_2345_hy","name":"@2345影视_hd","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/hyundaic/xpath@master/2345.json"},
 //以下M列表
 {"key":"csp_appys_xiaogui_007影视", "name":"007影视_M", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_007影视"},
