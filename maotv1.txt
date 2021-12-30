@@ -3,7 +3,7 @@
 //"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;6792999d26cd9dc07692d5922c7bfd56",
 "sites":[
 {"key":"2345_spider","name":"2345影视(官源)","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/2345.json"},
-{"key":"独播库","name":"独播库(XPMac)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":https://gitee.com/hd2019/OneClickRun/raw/master/xpath/duboku2.json"},
+{"key":"独播库","name":"独播库(XPMac)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/duboku2.json"},
 {"key":"sogou_spider","name":"搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/sogou.json"},
 {"key":"rrm_spider","name":"人人迷(免解)","type":3,"api":"csp_Rrm","searchable":1,"quickSearch":1,"filterable":0,"ext":"B9C8093A210EADA1"},
 {"key":"gdyy_spider","name":"孤单影视(FV0)","type":3,"api":"csp_Gdyy","searchable":1,"quickSearch":0,"filterable":1,"ext":"00c8ce12-fece-5bd8-90d8-04ae99099644"},
