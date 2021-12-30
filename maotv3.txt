@@ -401,7 +401,7 @@
 {"key": "嘛哩嘛哩", "name": "嘛哩嘛哩", "type": 1,"api": "https://malimali2.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "玺心影视", "name": "玺心影视", "type": 1,"api": "https://tvcj.arbd.cn/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "77资源", "name": "77资源", "type": 1,"api": "https://www.77zy.vip/inc/apijson_vod.php","playUrl": "", "categories": []},
-{"key": "523资源", "name": "523资源", "type": 1,"api": "https://caiji.523zyw.com/inc/apijson.php","playUrl": "", "categories": []},
+{"key": "523资源", "name": "523资源", "type": 0,"api": "https://caiji.523zyw.com/inc/api.php","playUrl": "", "categories": []},
 {"key": "丝袜资源", "name": "丝袜资源", "type": 1,"api": "https://siwazyw.net/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "芒果资源", "name": "芒果资源", "type": 1,"api": "https://mgzyz1.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "乐鱼资源", "name": "乐鱼资源", "type": 1,"api": "https://www.leyuzyapi.com/inc/apijson_vod.php","playUrl": "", "categories": []},
