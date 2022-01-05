@@ -87,6 +87,7 @@ TVB云播03,https://www.hktv03.com/api.php/provide/vod/at/xml,解析
 聚合资源,https://ziyuan.juhesys.com/api.php/provide/vod/at/xml,解析
 追剧吧APP,http://data.zju8.cc:1234/api.php/provide/vod/at/xml,解析
 小极TV,http://api.8d8q.com/mmv/api.php/provide/vod/at/xml,解析
+剧大神,http://judashen.com/api.php/provide/vod/vod/at/xml,解析
 8K影视,http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/at/xml,解析
 KK看剧,https://www.kkkanju.com/api.php/provide/vod/at/xml,解析
 追剧吧,http://www.huaxiab.com/api.php/provide/vod/at/xml,解析
@@ -133,7 +134,7 @@ MBO影视,https://www.mbomovie.com/api.php/provide/vod/at/xml/,解析
 宅男影视,http://www.sexyy.top/api.php/provide/vod/at/xml,解析
 任我云,https://www.renwoyun.cn/api.php/provide/vod/at/xml,解析
 酷猫影视,https://www.pgcms10.com/api.php/provide/vod/at/xml,解析
-嘛哩嘛哩,https://malimali2.com/api.php/provide/vod/at/xml,解析
+嘛哩嘛,https://malimali3.com/api.php/provide/vod/at/xml,解析
 玺心影视,https://tvcj.arbd.cn/api.php/provide/vod/at/xml,解析
 鸭奈飞资源,https://yanetflix.com/api.php/provide/vod/at/xml,解析
 好好资源,http://haohaozy.com/api.php/provide/vod/at/xml,解析
