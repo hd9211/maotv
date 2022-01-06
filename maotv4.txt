@@ -891,5 +891,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;e5b492f1fd59ac8a38856c8341e59481"
+  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+  "spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;a2306aaca7ae7afa0d900a33bce07346"
 }
