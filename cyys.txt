@@ -25,7 +25,7 @@ MuX官采,https://video.muxvip.com/api.php/provide/vod/at/xml,解析
 星一官采,https://gcku.suboyun.vip/api.php/provide/vod/at/xml,解析
 白嫖联盟,https://www.hszbj.net/api.php/provide/vod/at/xml,解析
 U酷资源,https://ukuzy.com/api.php/provide/vod/at/xml,解析
-龙腾资源,http://longtengzy.fun/api.php/provide/vod/at/xml,解析
+龙腾资源,http://zycj.cygc.xyz/api.php/provide/vod/at/xml,解析
 人人迷蓝光,https://kuu.renrenmi.cc/api.php/provide/vod/at/xml,解析
 星一蓝光,https://qpku.suboyun.vip/api.php/provide/vod/at/xml,解析
 看365,https://www.kan365.xyz/api.php/provide/vod/at/xml,解析
