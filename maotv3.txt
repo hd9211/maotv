@@ -286,7 +286,7 @@
 {"key": "喵派对官采", "name": "喵派对官采", "type": 1,"api": "https://zy.miao.party/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "白嫖联盟", "name": "白嫖联盟", "type": 1,"api": "https://www.hszbj.net/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "U酷资源", "name": "U酷资源", "type": 1,"api": "https://ukuzy.com/api.php/provide/vod/","playUrl": "", "categories": []},
-{"key": "龙腾资源", "name": "龙腾资源", "type": 1,"api": "http://longtengzy.fun/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "龙腾资源", "name": "龙腾资源", "type": 1,"api": "http://zycj.cygc.xyz/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "人人迷蓝光", "name": "人人迷蓝光", "type": 1,"api": "https://kuu.renrenmi.cc/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "星一蓝光", "name": "星一蓝光", "type": 1,"api": "https://qpku.suboyun.vip/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "看365", "name": "看365", "type": 1,"api": "https://www.kan365.xyz/api.php/provide/vod/","playUrl": "", "categories": []},
