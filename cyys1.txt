@@ -107,6 +107,8 @@ SB资源,http://www.shabizy.com:777/inc/sea,解析
 结束
 解析：
 解析：
+1,http://vip.cycy.xyz/?url=
+2,http://vip1.cycy.xyz/?url=
 迪奥嗅探,https://123.1dior.cn/?url=
 蚂蚁兄弟,https://daili.mayixiongdi.cn/?url=
 OK解析,https://okjx.cc/?url=
