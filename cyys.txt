@@ -145,6 +145,8 @@ MBO影视,https://www.mbomovie.com/api.php/provide/vod/at/xml/,解析
 测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
 结束
 解析：
+1,http://vip.cycy.xyz/?url=
+2,http://vip1.cycy.xyz/?url=
 迪奥嗅探,https://123.1dior.cn/?url=
 蚂蚁兄弟,https://daili.mayixiongdi.cn/?url=
 OK解析,https://okjx.cc/?url=
