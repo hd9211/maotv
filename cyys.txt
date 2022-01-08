@@ -35,7 +35,7 @@ U酷资源,https://ukuzy.com/api.php/provide/vod/at/xml,解析
 淘片资源(VPN),https://taopianapi.com/home/cjapi/as/mc/vod/xml,解析
 喵派对蓝光,https://www.mgtv.one/api.php/provide/vod/at/xml,解析
 LIBVIO,https://www.libvio.com/api.php/provide/vod/at/xml,解析
-思古影院,https://www.siguyy.com/api.php/provide/vod/at/xml,解析
+思古影院,https://www.siguyy.net/api.php/provide/vod/at/xml,解析
 555电影,http://w7tv.com/api.php/provide/vod/at/xml,解析
 5060影院,https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml,解析
 天天看,https://www.ttky8.com/api.php/provide/vod/at/xml,解析
