@@ -86,6 +86,7 @@ TVB云播03,https://www.hktv03.com/api.php/provide/vod/at/xml,解析
 穿梭资源,http://ok.888hyk.com/api.php/provide/vod/at/xml,解析
 聚合资源,https://ziyuan.juhesys.com/api.php/provide/vod/at/xml,解析
 追剧吧APP,http://data.zju8.cc:1234/api.php/provide/vod/at/xml,解析
+追剧吧,http://www.zhuiju8.vip/api.php/provide/vod/at/xml,解析
 小极TV,http://api.8d8q.com/mmv/api.php/provide/vod/at/xml,解析
 剧大神,http://judashen.com/api.php/provide/vod/vod/at/xml,解析
 8K影视,http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/at/xml,解析
