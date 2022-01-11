@@ -321,6 +321,7 @@
 {"key": "穿梭资源", "name": "穿梭资源", "type": 1,"api": "http://ok.888hyk.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "聚合资源", "name": "聚合资源", "type": 1,"api": "https://ziyuan.juhesys.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "追剧吧APP", "name": "追剧吧APP", "type": 1,"api": "http://data.zju8.cc:1234/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "追剧吧", "name": "追剧吧", "type": 1,"api": "http://www.zhuiju8.vip/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "小极TV", "name": "小极TV", "type": 1,"api": "http://api.8d8q.com/mmv/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "剧大神", "name": "剧大神", "type": 1,"api": "http://judashen.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "8K影视", "name": "8K影视", "type": 1,"api": "http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/","playUrl": "", "categories": []},
