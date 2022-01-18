@@ -293,6 +293,7 @@
 {"key": "想看资源", "name": "想看资源", "type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/","playUrl": "", "categories": []},
 {"key": "酷点资源", "name": "酷点资源", "type": 1,"api": "https://api.kuapi.cc/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "速更资源", "name": "速更资源", "type": 1,"api": "https://sugengzy.cn/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "影库资源", "name": "影库资源", "type": 1,"api": "http://api.ykapi.net/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "英皇影城资源", "name": "英皇影城资源", "type": 1,"api": "https://www.yhyczy.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "闪电资源", "name": "闪电资源", "type": 1,"api": "http://sdzyapi.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "飞速资源", "name": "飞速资源", "type": 1,"api": "https://m3u8.feisuzyapi.com/vod/","playUrl": "", "categories": []},
