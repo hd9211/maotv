@@ -59,6 +59,7 @@ YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
 想看资源,https://m3u8.xiangkanapi.com/provide/vod/at/xml,解析
 酷点资源,https://api.kuapi.cc/api.php/provide/vod/at/xml,解析
 速更资源,https://sugengzy.cn/api.php/provide/vod/at/xml,解析
+影库资源,http://api.ykapi.net/api.php/provide/vod/at/xml,解析
 英皇影城资源,https://www.yhyczy.com/api.php/provide/vod/at/xml,解析
 闪电资源,http://sdzyapi.com/api.php/provide/vod/at/xml,解析
 飞速资源,https://m3u8.feisuzyapi.com/vod/?at=xml,解析
