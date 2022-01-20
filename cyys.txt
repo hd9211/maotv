@@ -223,6 +223,9 @@ SMYS,https://jxx.smys8.cn/index.php?url=
 200,https://vip.66parse.club/?url=
 月亮,https://api.yueliangjx.com/?url=
 小狼,https://jx.yaohuaxuan.com/?url=
+灵狐影视,https://api.parwix.com:4433/analysis/json/?uid=84&my=gijkmnouvxyFHPYZ28&url=
+黄河影视,http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url=
+Vip影院1,https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url=
 parwix,https://jx.parwix.com:4433/player/?url=
 瑞丰资源,https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url=
 绿箭影视2,https://json.pangujiexi.com:12345/json.php?url=
@@ -266,6 +269,7 @@ TV酷,http://a.dxzj88.com/jhjson/?url=
 遗忘影视,http://gq.bywdtk.cn/?url=
 玺娜影视,https://balabala.yatongle.com/api/?key=RuHZpg9zxigiLZRIyl&url=
 林谷影视,http://jf.lemiaoyun.cn/home/api?type=ys&uid=40190120&key=dhilnoCDHLOPQRUW29&url=
+雪人影视,https://svip.renrenmi.cc:2222/api/?key=S77lACKG9VTwNq5Upv&url=
 结束
 直播：
 【分类头】央视频道-卫视频道-数字频道-少儿频道-地方频道-港澳频道【分类尾】
