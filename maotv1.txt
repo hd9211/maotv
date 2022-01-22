@@ -1,7 +1,7 @@
 {
 "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-//"spider":"https://gitee.com/hd2019/CatVodTVSpider/raw/master/jar/custom_spider.jar",
-"spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
+"spider":"https://gitee.com/hd2019/CatVodTVSpider/raw/master/jar/custom_spider.jar",
+//"spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 "sites":[
 
 {"key":"csp_appys_躺平影视","name":"躺平影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.lltpys.com/api.php/app/"},
@@ -46,7 +46,7 @@
 {"key":"csp_appys_熊猫动漫","name":"熊猫动漫(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
 {"key":"csp_appys_樱花动漫","name":"樱花动漫(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.dmwu.cc/api.php/v1.vod"},
 
-//（2022.01.17 by小黄瓜）M浏览器中APP影视规则支持（测试版）支持筛选，接口太多，建议自测，哪个能用用哪个
+//M浏览器中APP影视规则支持（2022.01.17 by 小黄瓜）支持筛选。因App影视接口收集地址停止维护，代码里不再读取相关json地址。如果你有对应影视Api地址请在ext字段中直接配置Api地址。
 //{"key":"csp_appys_3080影视","name":"3080影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://3080l.me/api.php/app/"},
 {"key":"csp_appys_555电影","name":"555电影(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://w7tv.com/xgapp.php/v1/"},
 {"key":"csp_appys_5060影院","name":"5060影院(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.linzhiyuan.xyz/xgapp.php/v1/"},
@@ -73,7 +73,7 @@
 //{"key":"csp_appys_抖音影视","name":"抖音影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.webiyeys99.com/api.php/app/"},
 {"key":"csp_appys_非凡TV","name":"非凡TV(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.feifan.live:2087/api.php/app/"},
 {"key":"csp_appys_饭团影院","name":"饭团影院(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://television.wkfile.com/api.php/app/"},
-//{"key":"csp_appys_瓜皮TV","name":"瓜皮TV(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://appguapi.lihaoyun.top:11543/api.php/app/"},
+{"key":"csp_appys_瓜皮TV","name":"瓜皮TV(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.dijiaxia.com/xgapp.php/v1/"},
 {"key":"csp_appys_海胆影视","name":"海胆影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://xf123.cc/api.php/app/"},
 //{"key":"csp_appys_火箭影视","name":"火箭影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://huojian.wchulian.com.cn/api.php/app/"},
 //{"key":"csp_appys_环球影视","name":"环球影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://hqystv.com/api.php/app/"},
@@ -119,7 +119,7 @@
 {"key":"csp_appys_映迷","name":"映迷(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.inmi.app/xgapp.php/v1/"},
 {"key":"csp_appys_鸭奈飞","name":"鸭奈飞(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://netflix.mom/api.php/app/"},
 {"key":"csp_appys_影视工场","name":"影视工场(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.ysgc.cc/xgapp.php/v1/"},
-//{"key":"csp_appys_追剧达人","name":"追剧达人(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://vipmv.tv/xgapp.php/v1/"},
+{"key":"csp_appys_追剧达人","name":"追剧达人(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://vipmv.tv/xgapp.php/v1/"},
 //{"key":"csp_appys_大熊影视","name":"大熊影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://dxys2233.com/mogai_api.php/v1.vod"},
 //{"key":"csp_appys_免费看","name":"免费看(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://freekan.vip/mogai_api.php/v1.vod"},
 {"key":"csp_appys_全能影视","name":"全能影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://qnys5566.com/mogai_api.php/v1.vod"},
@@ -159,7 +159,7 @@
 {"key":"csp_appys_南府影视","name":"南府影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://iapp.nfuxs.club/dnmb.php/v1.vod"},
 {"key":"csp_appys_柠柚影视","name":"柠柚影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://nu.e4tv.cn/lvdou_api.php/v1.vod"},
 //{"key":"csp_appys_七零影视","name":"七零影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://api.70yu.cn/mogai_api.php/v1.vod"},
-//{"key":"csp_appys_瑞丰资源","name":"瑞丰资源(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ts.yjhan.com:4433/ruifenglb_api.php/v1.vod"},
+{"key":"csp_appys_瑞丰资源","name":"瑞丰资源(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ts.yjhan.com:4433/ruifenglb_api.php/v1.vod"},
 {"key":"csp_appys_思乐影视","name":"思乐影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.huandian.top/ruifenglb_api.php/v1.vod"},
 //{"key":"csp_appys_温妮影视","name":"温妮影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.wenniys.com/mogai_api.php/v1.vod"},
 {"key":"csp_appys_星辰视频","name":"星辰视频(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://m.hj0999.com/api.php/v1.vod"},
@@ -177,7 +177,7 @@
 {"key":"csp_appys_yoyo","name":"yoyo(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://jx.wnvod.net/ruifenglb_api.php/v1.vod"},
 {"key":"csp_appys_爱影视","name":"爱影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.hzlff.cn/api.php/v1.vod"},
 //{"key":"csp_appys_爱追剧2","name":"爱追剧2(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://81.71.18.95:520/lvdou_api.php/v1.vod"},
-//{"key":"csp_appys_艾特影视","name":"艾特影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.aitee.cc/api.php/v1.vod"},
+{"key":"csp_appys_艾特影视","name":"艾特影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.aitee.cc/api.php/v1.vod"},
 //{"key":"csp_appys_白菜追剧","name":"白菜追剧(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod"},
 {"key":"csp_appys_比邻影视","name":"比邻影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://0hzy.cn:9990/mogai_api.php/v1.vod"},
 //{"key":"csp_appys_百讯视频","name":"百讯视频(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://z.iopenyun.com:99/app_api.php/v1.vod"},
