@@ -29,11 +29,12 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 看365,https://www.kan365.xyz/api.php/provide/vod/at/xml,解析
 影世界,https://video.yingworld.vip/api.php/provide/vod/at/xml,解析
 淘片资源,https://taopianapi.com/home/cjapi/as/mc/vod/xml,解析
-喵派对蓝光,https://www.mgtv.one/api.php/provide/vod/at/xml,解析
+喵派对蓝光,https://maoyingshi-api.tvan.xyz/api.php/provide/vod/at/xml,解析
 思古影院,https://www.siguyy.net/api.php/provide/vod/at/xml,解析
 5060影院,https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml,解析
 天天看,https://www.ttky8.com/api.php/provide/vod/at/xml,解析
 欧乐影院(VPN),https://www.olevod.tv/api.php/provide/vod/at/xml,解析
+电影牛,https://www.dianyingn.cc/api.php/provide/vod/at/xml,解析
 剧好看,https://www.juhaokan.cc/api.php/provide/vod/at/xml,解析
 TVB云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,解析
 BL视频,https://bljiex.com/api.php/provide/vod/at/xml,解析
@@ -79,6 +80,7 @@ YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
 小极TV,http://api.8d8q.com/mmv/api.php/provide/vod/at/xml,解析
 剧大神,http://judashen.com/api.php/provide/vod/at/xml,解析
 8K影视,http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/at/xml,解析
+海外电影,https://www.200121.com/api.php/provide/vod/at/xml,解析
 KK看剧,https://www.kkkanju.com/api.php/provide/vod/at/xml,解析
 追剧吧,http://www.huaxiab.com/api.php/provide/vod/at/xml,解析
 嗨哆咪影视,http://hdmys1.com/api.php/provide/vod/at/xml,解析
