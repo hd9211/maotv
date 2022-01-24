@@ -298,6 +298,7 @@
 {"key": "思古影院", "name": "思古影院", "type": 1,"api": "https://www.siguyy.net/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "5060影院", "name": "5060影院", "type": 1,"api": "https://app.linzhiyuan.xyz/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "天天看", "name": "天天看", "type": 1,"api": "https://www.ttky8.com/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "饭团影视", "name": "饭团影视", "type": 1,"api": "http://television.wkfile.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "欧乐影院(VPN)", "name": "欧乐影院(VPN)", "type": 1,"api": "https://www.olevod.tv/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "电影牛", "name": "电影牛", "type": 1,"api": "https://www.dianyingn.cc/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "剧好看", "name": "剧好看", "type": 1,"api": "https://www.juhaokan.cc/api.php/provide/vod/","playUrl": "", "categories": []},
