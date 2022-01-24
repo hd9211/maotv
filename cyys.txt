@@ -33,6 +33,7 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 思古影院,https://www.siguyy.net/api.php/provide/vod/at/xml,解析
 5060影院,https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml,解析
 天天看,https://www.ttky8.com/api.php/provide/vod/at/xml,解析
+饭团影视,http://television.wkfile.com/api.php/provide/vod/at/xml,解析
 欧乐影院(VPN),https://www.olevod.tv/api.php/provide/vod/at/xml,解析
 电影牛,https://www.dianyingn.cc/api.php/provide/vod/at/xml,解析
 剧好看,https://www.juhaokan.cc/api.php/provide/vod/at/xml,解析
