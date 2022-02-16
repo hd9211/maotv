@@ -23,7 +23,7 @@ M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 多多资源,http://qnmd.vip/api.php/provide/vod/at/xml,解析
 龙腾资源,http://zycj.cygc.xyz/api.php/provide/vod/at/xml/from/ltnb/,解析
-开放云(X5),http://cai.iopenyun.com:665/apicj.php/provide/vod/from/Tcm3u8/?ac=list,解析
+开放云(X5),https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?ac=list,解析
 星一蓝光,http://lgku.suboyun.cn/api.php/provide/vod/at/xml,解析
 人人迷蓝光,https://koko.renrenmi.cc/api.php/provide/vod/at/xml,解析
 看365,https://www.kan365.xyz/api.php/provide/vod/at/xml,解析
