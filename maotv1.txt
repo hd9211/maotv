@@ -287,7 +287,7 @@
 {"key": "U酷资源", "name": "U酷资源", "type": 1,"api": "https://api.ukuapi.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "多多资源", "name": "多多资源", "type": 1,"api": "http://qnmd.vip/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "龙腾资源", "name": "龙腾资源", "type": 1,"api": "http://zycj.cygc.xyz/api.php/provide/vod/from/ltnb/","playUrl": "", "categories": []},
-{"key": "开放云(X5)", "name": "开放云(X5)", "type": 1,"api": "http://cai.iopenyun.com:665/apicj.php/provide/vod/from/Tcm3u8/?ac=list","playUrl": "", "categories": []},
+{"key": "开放云(X5)", "name": "开放云(X5)", "type": 1,"api": "https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?ac=list","playUrl": "", "categories": []},
 {"key": "星一蓝光", "name": "星一蓝光", "type": 1,"api": "http://lgku.suboyun.cn/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "人人迷蓝光", "name": "人人迷蓝光", "type": 1,"api": "https://koko.renrenmi.cc/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "看365", "name": "看365", "type": 1,"api": "https://www.kan365.xyz/api.php/provide/vod/","playUrl": "", "categories": []},
