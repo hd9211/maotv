@@ -15,7 +15,7 @@
 爱看资源,http://www.aikanzyz9.com/inc/api.php,解析
 大雕资源,http://www.dd-01.com/api.php/provide/vod/at/xml,解析
 爱上资源,https://www.aiszyz.com/inc/api.php,解析
-爱上资源,https://www.aiszyz.com/inc/api.php,解析
+猪哥资源,https://zhugezy3.com/inc/api.php,解析
 国产AV,https://zy.difi.life/api.php/provide/vod/at/xml,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
 色屌丝资源,https://sdszyapi.com/home/cjapi/asbb/vod/xml,解析
