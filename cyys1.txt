@@ -16,7 +16,7 @@
 猪哥资源,https://zhugezy3.com/inc/api.php,解析
 花魁资源,https://caiji.huakuiapi.com/inc/api.php,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
-色屌丝资源,https://sdszyapi.com/home/cjapi/asbb/mc/vod/xml,解析
+色屌丝资源,http://sdszyapi.com/home/cjapi/asbb/mc/vod/xml,解析
 小姐姐资源,https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml,解析
 52AVAV,https://52zyapi.com/home/cjapi/asda/mc/vod/xml,解析
 水帘洞资源,https://www.sldcaiji.com/home/cjapi/s6da/mc/vod/xml,解析
@@ -78,7 +78,7 @@ JAV名优馆,http://mygzycj.com/api.php,解析
 AVZY6888资源,http://m.7777688.com/inc/api.php,解析
 色色资源,http://secj8.com/inc/sapi.php,解析
 玖玖资源,http://99zywcj.com/inc/sapi.php,解析
-久草资源,http://jcspcj8.co/api,解析
+久草资源,http://jcspcj8.com/api,解析
 狼少年,http://cjmygzy.com/inc/sapi.php,解析
 富二代资源,http://f2dcj6.com/sapi,解析
 字幕网,http://zmcj88.com/sapi,解析
