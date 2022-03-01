@@ -19,6 +19,7 @@ MuX官采,https://video.muxvip.com/api.php/provide/vod/at/xml,解析
 2345官采,http://2345.tgzy.cc:1005/api.php/provide/vod/at/xml,解析
 360官采,http://360.tgzy.cc:1005/api.php/provide/vod/at/xml,解析
 云海官采,http://101.34.7.151:600/api.php/provide/vod/at/xml,解析
+诺讯资源,http://caiji.nxflv.com/api.php/provide/vod/at/xml,解析
 恋恋影视(Bilibili),https://xkzy.cc/api.php/provide/vod/at/xml,解析
 U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 龙腾资源1,https://www.bajiezy.xyz/api.php/provide/vod/from/ltnb/,解析
