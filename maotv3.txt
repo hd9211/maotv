@@ -285,7 +285,7 @@
 {"key": "88资源", "name": "88资源", "type": 1,"api": "http://www.88zy.live/inc/apijson_vod.php","playUrl": "", "categories": []},
 {"key": "步步高资源", "name": "步步高资源", "type": 0,"api": "https://api.yparse.com/api/m3u8","playUrl": "", "categories": []},
 {"key": "番茄资源", "name": "番茄资源", "type": 1,"api": "http://api.fqzy.cc/api.php/provide/vod/","playUrl": "", "categories": []},
-{"key": "卧龙资源", "name": "卧龙资源", "type": 1,"api": "https://wlzyw6.com/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "卧龙资源", "name": "卧龙资源", "type": 1,"api": "https://collect.wolongzyw.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "红牛资源", "name": "红牛资源", "type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "北斗星资源", "name": "北斗星资源", "type": 1,"api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "樱花资源", "name": "樱花资源", "type": 1,"api": "https://m3u8.apiyhzy.com/api.php/provide/vod/","playUrl": "", "categories": []},
