@@ -20,7 +20,12 @@
 {"key":"enlienli_spider","name":"嗯哩嗯哩(SP)","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Buka","name":"真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 
-{"key":"独播库","name":"独播库(XPMac)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/duboku2.json"},
+{"key":"csp_xpath_Ole","name":"欧乐(XPMac)(播放器要改成Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/olevod.json"},
+{"key":"独播库","name":"独播库(XPMac)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/duboku.json"},
+{"key":"csp_xpath_cokemv","name":"Cokemv(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/cokemv.json"},
+{"key":"csp_xpath_libv","name":"Libvio(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/libv.json"},
+{"key":"csp_xpath_zxzj","name":"在线之家(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/zxzj.json"},
+{"key":"csp_xpath_dmw","name":"动漫岛(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/dmw.json"},
 {"key":"Jumi","name":"剧迷TV(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/Jumi.json"},
 {"key":"csp_xpath_tvci","name":"大师兄(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/tvci.json"},
 {"key":"Gimy","name":"GimyTV(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/Gimy.json"},
@@ -29,17 +34,18 @@
 {"key":"csp_xpath_lranc","name":"天天影视(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/lranc.json"},
 {"key":"csp_xpath_4kpianku","name":"4k片库网(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/4kpianku.json"},
 
+{"key":"csp_xpath_aidi","name":"爱迪影视(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/aidi.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/lezhutv.json"},
 {"key":"csp_xpath_waipian2","name":"歪片星球(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/waipian2.json"},
 {"key":"csp_xpath_1090ys2","name":"1090影视(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/1090ys2.json"},
 {"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/duboku.json"},
-{"key":"csp_xpath_Ole","name":"欧乐(XPMac)(播放器要改成Exo)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/olevod.json"},
 {"key":"csp_xpath_pianba","name":"片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/pianba.json"},
 
+{"key":"csp_xpath_auete","name":"Auete影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/auete.json"},
 {"key":"csp_xpath_94sm","name":"94神马(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/94sm.json"},
 {"key":"csp_xpath_dm84","name":"动漫巴士(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/dm84.json"},
 {"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/agefans.json"},
-{"key":"csp_yinghua","name":"樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/yinghua.json"},
+{"key":"csp_yinghua","name":"樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/yinghua2.json"},
 {"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/saohuotv2.json"},
 {"key":"csp_xpath_subb","name":"素白白影视(XP)(不能播改EXO)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/subaibai.json"},
 //{"key":"csp_xpath_jpys","name":"极品(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/jpys.json"},
@@ -244,7 +250,6 @@
 {"key":"csp_appysv2_CC影视","name":"CC影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ccbug.cc/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_极品影视","name":"极品影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.yhzy.xyz/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_速播影院","name":"速播影院(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://subolg.com/lvdou_api.php/v1.vod"},
-
 {"key":"小蜻蜓APP","name":"小蜻蜓APP","type":1,"api":"http://3ketv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"乐多资源","name":"乐多资源","type":0,"api":"http://cj.leduocaiji.com/inc/api.php","playUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid=","searchable":1,"quickSearch":1,"categories":[]},
@@ -324,7 +329,7 @@
 {"key":"*JAV名优","name":"*JAV名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","playUrl":"","categories":[],"quickSearch":0},
 {"key":"*色色资源","name":"*色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
 {"key":"*环亚资源","name":"*环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
-{"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","categories":[],"quickSearch":0},
+{"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","categories":[],"searchable":0,"quickSearch":0},
 {"key":"*字幕网","name":"*字幕网","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
 {"key":"*色猫资源","name":"*色猫资源","type":0,"api":"https://api.maozyapi.com/inc/api.php","playUrl":"","categories":[],"quickSearch":0},
 {"key":"*桃色资源","name":"*桃色资源","type":1,"api":"https://api.taoseapi.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
@@ -353,7 +358,7 @@
 {"key":"*痴汉队长","name":"*痴汉队长","type":1,"api":"https://javcaptain.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"*抖阴视频","name":"*抖阴视频","type":1,"api":"https://www.888dav.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"*AE86资源","name":"*AE86资源","type":1,"api":"https://www.caiji22.com/home/cjapi/klp0/mc10/vod/json/m3u8","playUrl":"","categories":[],"quickSearch":0},
-{"key":"*乐鱼资源","name":"*乐鱼资源","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","playUrl":"","categories":[],"quickSearch":0}
+{"key":"*乐鱼资源","name":"*乐鱼资源","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","playUrl":"","categories":[],"searchable":0,"quickSearch":0}
 ],
 "lives":[
 {"group":"redirect","channels":[
@@ -364,7 +369,6 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-//{"name":"大熊影视","type":1,"url":"http://42.157.128.85:880/analysis/json/?uid=1735&my=bcdgkmpvxADJLNUYZ8&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","奇艺"]}},
 {"name":"大熊影视","type":1,"url":"http://42.157.128.85:880/analysis/json/?uid=1735&my=bcdgkmpvxADJLNUYZ8&url=","ext":{"flag":["youku","优酷","qq","腾讯","qiyi","爱奇艺","奇艺"]}},
 {"name":"菜鸟追剧1","type":1,"url":"http://106.52.51.138:52013/lt.php?url=","ext":{"flag":["ltnb"]}},
 {"name":"小白动漫","type":1,"url":"http://121.62.60.222:1314/lt.php?url=","ext":{"flag":["ltnb","longteng"]}},
