@@ -38,7 +38,7 @@
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/lezhutv.json"},
 {"key":"csp_xpath_waipian2","name":"歪片星球(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/waipian2.json"},
 {"key":"csp_xpath_1090ys2","name":"1090影视(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/1090ys2.json"},
-{"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/duboku.json"},
+{"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/duboku2.json"},
 {"key":"csp_xpath_pianba","name":"片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/pianba.json"},
 
 {"key":"csp_xpath_auete","name":"Auete影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/auete.json"},
