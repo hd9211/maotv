@@ -38,7 +38,7 @@
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/lezhutv.json"},
 {"key":"csp_xpath_waipian2","name":"歪片星球(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/waipian2.json"},
 {"key":"csp_xpath_1090ys2","name":"1090影视(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/1090ys2.json"},
-{"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/duboku.json"},
+{"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/duboku2.json"},
 {"key":"csp_xpath_pianba","name":"片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/pianba.json"},
 
 {"key":"csp_xpath_auete","name":"Auete影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/auete.json"},
@@ -239,6 +239,7 @@
 {"key":"csp_appysv2_小极TV","name":"小极TV(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://api.8d8q.com/mmv/api.php/Chengcheng/vod/"},
 {"key":"csp_appysv2_小熊猫TV","name":"小熊猫TV(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://tv2.hetaoys.vip/api.php/iptv/vod/"},
 {"key":"csp_appysv2_影视阁","name":"影视阁(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://216.98.10.85/api.php/iptv/vod/"},
+
 {"key":"csp_appysv2_爱西西","name":"爱西西(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://myaixixi.com/api.php/app/"},
 {"key":"csp_appysv2_觅影影视","name":"觅影影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://ccxg.xazhutu.com/xgapp.php/v1/"},
 {"key":"csp_appysv2_皮皮影视","name":"皮皮影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://pp.ig4.cn/api.php/app/"},
@@ -248,6 +249,7 @@
 {"key":"csp_appysv2_CC影视","name":"CC影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ccbug.cc/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_极品影视","name":"极品影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.yhzy.xyz/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_速播影院","name":"速播影院(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://subolg.com/lvdou_api.php/v1.vod"},
+
 {"key":"csp_appysv2_天天视频","name":"*天天视频(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 
 {"key": "8090资源", "name": "8090资源", "type": 1,"api": "http://zy.yilans.net:8090/api.php/provide/vod/","playUrl": "", "categories": []},
