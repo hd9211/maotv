@@ -269,6 +269,7 @@
 {"key": "诺讯资源", "name": "诺讯资源", "type": 1,"api": "http://caiji.nxflv.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "英皇官采", "name": "英皇官采", "type": 0,"api": "https://apicdn.vipm3u8.com/xml","playUrl": "", "categories": []},
 {"key": "灯塔资源", "name": "灯塔资源", "type": 1,"api": "http://vip.hwh.ink/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "江北资源", "name": "江北资源", "type": 1,"api": "https://gfzycj.hnmj.vip/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "U酷资源", "name": "U酷资源", "type": 1,"api": "https://api.ukuapi.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "八戒资源", "name": "八戒资源", "type": 1,"api": "https://www.bajiezy.xyz/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "龙腾资源", "name": "龙腾资源", "type": 1,"api": "http://zycj.cygc.xyz/api.php/provide/vod/","playUrl": "", "categories": []},
