@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/custom_spider.jar",
-"spider":"https://gitee.com/hd2019/CatVodTVSpider/blob/master/jar/custom_spider.jar",
+"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 "sites":[
 {"key":"csp_appysv2_躺平影视","name":"躺平影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lltpys.com/api.php/app/"},
 {"key":"csp_appysv2_手指","name":"手指(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://szys5678.com/mogai_api.php/v1.vod"},
@@ -278,6 +278,7 @@
 {"key": "皮荼熊TV", "name": "皮荼熊TV", "type": 1,"api": "https://www.psinu.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "影世界", "name": "影世界", "type": 1,"api": "https://video.yingworld.vip/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "考拉TV", "name": "考拉TV", "type": 1,"api": "https://ikaola.tv/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "段友影视", "name": "段友影视", "type": 1,"api": "http://shangjihuoke.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "一点影视", "name": "一点影视", "type": 1,"api": "https://m3u8.movurl.xyz/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "奇乐(优剧)资源", "name": "奇乐(优剧)资源", "type": 1,"api": "https://zy.ujuba.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "淘片资源", "name": "淘片资源", "type": 0,"api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml","playUrl": "", "categories": []},
