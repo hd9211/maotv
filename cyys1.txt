@@ -1,7 +1,7 @@
 点播：
 77资源,https://www.77zy.vip/inc/api.php,解析
 523资源,https://caiji.523zyw.com/inc/api.php,解析
-丝袜资源,https://siwazyw.net/api.php/provide/vod/at/xml,解析
+丝袜资源,https://www.siwazyw.tv/api.php/provide/vod/at/xml,解析
 芒果资源,https://mgzyz1.com/api.php/provide/vod/at/xml,解析
 乐鱼资源,https://www.leyuzyapi.com/inc/api.php,解析
 水蜜桃,http://51smt4.xyz/api.php/provide/vod/at/xml,解析
