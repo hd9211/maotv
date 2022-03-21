@@ -15,6 +15,7 @@
 大雕资源,http://www.dd-01.com/api.php/provide/vod/at/xml,解析
 猪哥资源,https://zhugezy3.com/inc/api.php,解析
 花魁资源,https://caiji.huakuiapi.com/inc/api.php,解析
+葡萄资源,https://api.putaozy.net/inc/api.php,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
 色屌丝资源,http://sdszyapi.com/home/cjapi/asbb/mc/vod/xml,解析
 小姐姐资源,https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml,解析
