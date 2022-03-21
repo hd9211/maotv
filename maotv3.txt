@@ -283,7 +283,7 @@
 {"key": "嘛哩嘛哩", "name": "嘛哩嘛哩", "type": 1,"api": "https://malimali3.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "77资源", "name": "77资源", "type": 1,"api": "https://www.77zy.vip/inc/apijson_vod.php","playUrl": "", "categories": []},
 {"key": "523资源", "name": "523资源", "type": 1,"api": "https://caiji.523zyw.com/inc/apijson_vod.php","playUrl": "", "categories": []},
-{"key": "丝袜资源", "name": "丝袜资源", "type": 1,"api": "https://siwazyw.net/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "丝袜资源", "name": "丝袜资源", "type": 1,"api": "https://www.siwazyw.tv/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "芒果资源", "name": "芒果资源", "type": 1,"api": "https://mgzyz1.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "乐鱼资源", "name": "乐鱼资源", "type": 1,"api": "https://www.leyuzyapi.com/inc/apijson_vod.php","playUrl": "", "categories": []},
 {"key": "水蜜桃", "name": "水蜜桃", "type": 1,"api": "http://51smt4.xyz/api.php/provide/vod/","playUrl": "", "categories": []},
