@@ -297,6 +297,7 @@
 {"key": "大雕资源", "name": "大雕资源", "type": 1,"api": "http://www.dd-01.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "猪哥资源", "name": "猪哥资源", "type": 1,"api": "https://zhugezy3.com/inc/apijson_vod.php","playUrl": "", "categories": []},
 {"key": "花魁资源", "name": "花魁资源", "type": 1,"api": "https://caiji.huakuiapi.com/inc/apijson_vod.php","playUrl": "", "categories": []},
+{"key": "葡萄资源", "name": "葡萄资源", "type": 1,"api": "https://api.putaozy.net/inc/apijson_vod.php","playUrl": "", "categories": []},
 {"key": "4000资源", "name": "4000资源", "type": 1,"api": "https://www.4000zy.com/inc/apijson_vod.php","playUrl": "", "categories": []},
 {"key": "色屌丝资源", "name": "色屌丝资源", "type": 0,"api": "http://sdszyapi.com/home/cjapi/asbb/mc/vod/xml","playUrl": "", "categories": []},
 {"key": "小姐姐资源", "name": "小姐姐资源", "type": 0,"api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml","playUrl": "", "categories": []},
@@ -398,6 +399,7 @@
 {"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1l1YW5Ic2luZy9PbmVDbGlja1J1bkBtYXN0ZXIveHBhdGgvbGl2ZS50eHQ="]}
 ]}
 ],
+"parses":[
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
