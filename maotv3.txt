@@ -295,6 +295,7 @@
 {"key": "猪哥资源", "name": "猪哥资源", "type": 1,"api": "https://zhugezy3.com/inc/apijson_vod.php","playUrl": "", "categories": []},
 {"key": "花魁资源", "name": "花魁资源", "type": 1,"api": "https://caiji.huakuiapi.com/inc/apijson_vod.php","playUrl": "", "categories": []},
 {"key": "葡萄资源", "name": "葡萄资源", "type": 1,"api": "https://api.putaozy.net/inc/apijson_vod.php","playUrl": "", "categories": []},
+{"key": "色窝资源", "name": "色窝资源", "type": 1,"api": "https://sewozyapi.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "4000资源", "name": "4000资源", "type": 1,"api": "https://www.4000zy.com/inc/apijson_vod.php","playUrl": "", "categories": []},
 {"key": "色屌丝资源", "name": "色屌丝资源", "type": 1,"api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/json","playUrl": "", "categories": []},
 {"key": "小姐姐资源", "name": "小姐姐资源", "type": 1,"api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/json","playUrl": "", "categories": []},
