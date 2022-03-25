@@ -449,7 +449,7 @@
 {"name": "玺娜影视","type": 1,"url": "https://balabala.yatongle.com/api/?key=RuHZpg9zxigiLZRIyl&url="},
 {"name": "黄河影视","type": 1,"url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="},
 {"name": "Vip影院1","type": 1,"url": "https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url="},
-{"name": "公主影视","type": 1,"url": "https://jx.renrenmi.cc/?url="}
+{"name": "公主影视","type": 1,"url": "https://jx.renrenmi.cc/?url="},
 
 {"name":"parwix解析","url":"https://jx.parwix.com:4433/player/?url="},	
 {"name":"默认","url":"https://api.jhdyw.vip/?url="},	
