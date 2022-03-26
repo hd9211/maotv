@@ -218,6 +218,7 @@
 {"key": "影世界", "name": "影世界", "type": 1,"api": "https://video.yingworld.vip/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "考拉TV", "name": "考拉TV", "type": 1,"api": "https://ikaola.tv/api.php/provide/vod/","playUrl": "https://ikaola.tv/vwnet/dplayer/?url=", "categories": []},
 {"key": "酷点影视", "name": "酷点影视", "type": 1,"api": "http://ys.kudian6.com/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "饭后电影", "name": "饭后电影", "type": 1,"api": "http://yinliub.cn/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "段友影视", "name": "段友影视", "type": 1,"api": "http://shangjihuoke.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "一点影视", "name": "一点影视", "type": 1,"api": "https://m3u8.movurl.xyz/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "奇乐(优剧)资源", "name": "奇乐(优剧)资源", "type": 1,"api": "https://zy.ujuba.com/api.php/provide/vod/","playUrl": "", "categories": []},
