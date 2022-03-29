@@ -234,6 +234,7 @@
 {"key": "人人资源", "name": "人人资源", "type": 1,"api": "https://www.rrzyw.cc/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "小蜻蜓APP", "name": "小蜻蜓APP", "type": 1,"api": "http://3ketv.com/api.php/provide/vod/","playUrl": "https://jx.parwix.com:4433/player/analysis.php?v=", "categories": []},
 {"key": "乐活影视", "name": "乐活影视", "type": 1,"api": "https://lehootv.com/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "鸭奈飞", "name": "鸭奈飞", "type": 1,"api": "http://newtv.yanaifei.cn/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "88资源", "name": "88资源", "type": 1,"api": "http://www.88zy.live/inc/apijson_vod.php","playUrl": "", "categories": []},
 {"key": "步步高资源", "name": "步步高资源", "type": 1,"api": "https://api.yparse.com/api/json","playUrl": "", "categories": []},
 {"key": "番茄资源", "name": "番茄资源", "type": 1,"api": "http://api.fqzy.cc/api.php/provide/vod/","playUrl": "https://jx.fqzy.cc/jx.php?url=", "categories": []},
