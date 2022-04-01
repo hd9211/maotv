@@ -222,6 +222,7 @@
 {"key": "饭后电影", "name": "饭后电影", "type": 1,"api": "http://yinliub.cn/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "段友影视", "name": "段友影视", "type": 1,"api": "http://shangjihuoke.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "一点影视", "name": "一点影视", "type": 1,"api": "https://m3u8.movurl.xyz/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "旧梦影视", "name": "旧梦影视", "type": 1,"api": "https://mac.qd234.cn/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "奇乐(优剧)资源", "name": "奇乐(优剧)资源", "type": 1,"api": "https://zy.ujuba.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "淘片资源", "name": "淘片资源", "type": 1,"api": "https://taopianapi.com/home/cjapi/as/mc10/vod/json","playUrl": "", "categories": []},
 {"key": "一帆资源(VPN)", "name": "一帆资源(VPN)", "type": 1,"api": "http://api.if101.tv/v1/vod","playUrl": "", "categories": []},
