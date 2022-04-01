@@ -28,6 +28,7 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 饭后电影,http://yinliub.cn/api.php/provide/vod/at/xml,解析
 段友影视,http://shangjihuoke.com/api.php/provide/vod/at/xml,解析
 一点影视,https://m3u8.movurl.xyz/api.php/provide/vod/at/xml,解析
+旧梦影视,https://mac.qd234.cn/api.php/provide/vod/at/xml,解析
 奇乐(优剧)资源,https://zy.ujuba.com/api.php/provide/vod/at/xml,解析
 淘片资源,https://taopianapi.com/home/cjapi/as/mc/vod/xml,解析
 思古影院,https://www.siguyy.net/api.php/provide/vod/at/xml,解析
