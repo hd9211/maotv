@@ -2,6 +2,8 @@
   {"key":"libvo_type4","name":"Libvio(T4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/2304188638","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"mudvod_type4","name":"泥巴(T4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/7405350460","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"xiaocao_type4","name":"小草(T4)","type":4,"api":"http://cat.mcuke.top/sp/7d8c8213/6696025555","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"bde4_type4","name":"哔嘀影视(T4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/2501282101","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"wmkk_type4","name":"完美看看(T4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/1464259048","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Buka","name":"真不卡(爬虫)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
