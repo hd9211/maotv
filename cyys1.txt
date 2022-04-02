@@ -14,13 +14,14 @@
 花魁资源,https://caiji.huakuiapi.com/inc/api.php,解析
 葡萄资源,https://api.putaozy.net/inc/api.php,解析
 色窝资源,https://sewozyapi.com/api.php/provide/vod/at/xml,解析
+神速资源,https://api.sszyapi.com/api.php/provide/vod/at/xml,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
 色屌丝资源,http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml,解析
 小姐姐资源,https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml,解析
 52AVAV,https://52zyapi.com/home/cjapi/asda/mc10/vod/xml,解析
 水帘洞资源,https://www.sldcaiji.com/home/cjapi/s6da/mc10/vod/xml,解析
 我要啪啪,http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml,解析
-AV集中淫,https://www.caiji22.com/home/cjapi/klp0/mc/vod/xml,解析
+AV集中淫,https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml,解析
 夜夜撸资源,https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml,解析
 大屌丝资源,http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml,解析
 咪咪资源,http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml,解析
@@ -53,7 +54,10 @@ AV集中淫,https://www.caiji22.com/home/cjapi/klp0/mc/vod/xml,解析
 速播资源,https://api.suboapi.com/api.php/provide/vod/at/xml,解析
 逼哩逼哩视频,http://blbl.space/inc/api.php,解析
 酷豆资源,https://kudouzy.com/api.php/provide/vod/at/xml,解析
+酷豆2,https://api.kdapi.info/api.php/provide/vod/at/xml,解析
 酷伦理,https://api.kudian70.com/api.php/provide/vod/at/xml,解析
+万影色,https://wanying4.com/api.php/provide/vod/at/xml,解析
+想日B视频,https://www.xrbsp.com/api/xml.php,解析
 银龙资源,https://yinlong.tv/api.php/provide/vod/at/xml,解析
 奶茶资源,https://caiji.naichaapi.com/inc/api.php,解析
 爱播资源,https://cj.apiabzy.com/api.php/provide/vod/at/xml,解析
