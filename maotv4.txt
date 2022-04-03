@@ -26,6 +26,10 @@
   {"key":"csp_xpath_saohuotv2","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/saohuotv2.json"},
   {"key":"csp_xpath_lranc","name":"天天影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/lranc.json"},
   {"key":"csp_xpath_jpys","name":"极品影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/jpys.json"},
+  {"key":"csp_appysv2_钟特影视","name":"钟特影视(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.zteys.com/api.php/v1.vod"},
+  {"key":"csp_appysv2_青柠蓝光","name":"青柠蓝光(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.lovebuy365.com/mogai_api.php/v1.vod"},
+  {"key":"csp_appysv2_好6哦影视","name":"好6哦影视(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hao6o.com/mogai_api.php/v1.vod"},
+  {"key":"csp_appysv2_UM影院","name":"UM影院(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.2tu.uk/api.php/v1.vod"},
   {"key":"csp_appysv2_追剧达人","name":"追剧达人(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipmv.co/xgapp.php/v1/"},
   {"key":"csp_appysv2_天空影视","name":"天空推荐(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
   {"key":"csp_appysv2_天空影视V2","name":"天空影视V2(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
@@ -278,5 +282,5 @@
   ],
 
 
-  "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg","spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;6bfb97768e80bd967728229583208220"
+  "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg","spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;cf2273fb1faf3e8c0dc38ee879ae7a2b"
 }
