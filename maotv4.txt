@@ -282,5 +282,5 @@
   ],
 
 
-  "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg","spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;cf2273fb1faf3e8c0dc38ee879ae7a2b"
+  "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg","spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;8f06c101c0118b92ff3b42503819f108"
 }
