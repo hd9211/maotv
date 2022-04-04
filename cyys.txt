@@ -108,6 +108,7 @@ MBO影视,https://www.mbomovie.com/api.php/provide/vod/at/xml/,解析
 2A资源,http://zy.zcocc.com/api.php/provide/vod/at/xml,解析
 MuX官采,https://video.muxvip.com/api.php/provide/vod/at/xml,解析
 白嫖联盟,https://www.hszbj.net/api.php/provide/vod/at/xml,解析
+爱看,http://tvcms.ikan6.vip/api.php/provide/vod/at/xml,解析
 开放云(X5),https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?at=xml,解析
 椰子资源,https://zy.gbxy.net.cn/api.php/provide/vod/at/xml,解析
 TVB云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,解析
