@@ -393,6 +393,7 @@
 {"key": "2A资源", "name": "2A资源", "type": 1,"api": "http://zy.zcocc.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "MuX官采", "name": "MuX官采", "type": 1,"api": "https://video.muxvip.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "白嫖联盟", "name": "白嫖联盟", "type": 1,"api": "https://www.hszbj.net/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key": "爱看", "name": "爱看", "type": 1,"api": "http://tvcms.ikan6.vip/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "开放云(X5)", "name": "开放云(X5)", "type": 1,"api": "https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?ac=list","playUrl": "", "categories": []},
 {"key": "椰子资源", "name": "椰子资源", "type": 1,"api": "https://zy.gbxy.net.cn/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "TVB云播", "name": "TVB云播", "type": 1,"api": "http://www.tvyb02.com/api.php/provide/vod/","playUrl": "", "categories": []},
