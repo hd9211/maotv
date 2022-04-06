@@ -208,6 +208,7 @@
 {"key": "英皇官采", "name": "英皇官采", "type": 0,"api": "https://apicdn.vipm3u8.com/xml","playUrl": "", "categories": []},
 {"key": "灯塔资源", "name": "灯塔资源", "type": 1,"api": "http://vip.hwh.ink/api.php/provide/vod/","playUrl": "https://jx.parwix.com:4433/player/analysis.php?v=", "categories": []},
 {"key": "江北资源", "name": "江北资源", "type": 1,"api": "https://gfzycj.hnmj.vip/api.php/provide/vod/","playUrl": "https://jx.parwix.com:4433/player/analysis.php?v=", "categories": []},
+{"key": "思古官采", "name": "思古官采", "type": 1,"api": "https://c.sigu.tv/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "wabc(腾讯直采)", "name": "wabc(腾讯直采)", "type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "片库", "name": "片库", "type": 1,"api": "https://pianku.wang/api.php/provide/vod/","playUrl": "https://www.newsaas.cn/jx/?url=", "categories": []},
 {"key": "步步高资源", "name": "步步高资源", "type": 1,"api": "https://api.yparse.com/api/json","playUrl": "", "categories": []},
