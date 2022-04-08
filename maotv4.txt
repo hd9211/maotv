@@ -3,6 +3,7 @@
   {"key":"csp_xpath_if101","name":"if101(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tangsan99999.github.io/sub/xpath/if101.json"},
   {"key":"csp_Buka","name":"真不卡(爬虫)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Auete","name":"Auete(爬虫)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"csp_Cokemv","name":"Cokemv(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Enlienli","name":"嗯哩嗯哩(爬虫)","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_N0ys","name":"90影视(爬虫)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -288,5 +289,5 @@
   ],
 
 
-  "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg","spider":"https://tangsan99999.github.io/jar/custom_spider.jar;md5;2af0fc6dbc2ff77897b5630093217a84"
+  "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg","spider":"https://tangsan99999.github.io/jar/custom_spider.jar;md5;7dc135014e8cd8ce016dd6d75505f787"
 }
