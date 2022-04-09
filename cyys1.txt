@@ -176,10 +176,10 @@ RDHK,https://jx.rdhk.net/?v=
 思古3,https://jsap.attakids.com/?url=
 淘电影,https://jx.vodjx.top/vip/?url=
 维多,https://jx.ivito.cn/?url=
-万能解析,https://vip.legendwhb.cn/m3u8.php?url=
-喵派对资源,https://www.66kdy.com/dmplay/?url=
 parwix1,https://jx.parwix.com:4433/player/?url=
 parwix2,https://jx.parwix.com:4433/player/analysis.php?v=
+万能解析,https://vip.legendwhb.cn/m3u8.php?url=
+喵派对资源,https://www.66kdy.com/dmplay/?url=
 ltnb04,https://vip.bljiex.com/?v=
 ltnb01,https://jx.baiyu.buzz/?url=
 ltnb02,https://jx.zui.cm/?url=
@@ -191,7 +191,6 @@ duoduozy03,https://player.duoduozy.com/ddplay/?url=
 喵派对资源3,https://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=
 喵派对资源2,https://svip.iremind.me/api/?key=A5Db8HF8c8FSIOR6R1&url=
 cx99999,http://cx99999.cn/rxjson.php?url=
-kpjx,https://lt.kpjx.cc/Mao.php?url=
 鲲鹏解析,https://rrm.kpjx.cc/Mao.php?url=
 humaosp01,https://humaosp.com/json.php?url=
 300ys01,https://jx.300ys.xyz/jiexi/v.php/?url=
@@ -253,7 +252,6 @@ DC影视,https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=bcdjqBEFGLMPW
 天诚影视4,https://svip.cygc.xyz/api/?key=LHIDJlDFp1lPagfFwQ&url=
 初心影视,https://cs.024zs.com:4433/api/?key=ZGIAzc1y86fEENqYWb&url=
 爱酷影视1,https://api.m3u8.tv:5678/home/api?type=ys&uid=8459535&key=efiknotzFHKLQSVX59&url=
-叮当影视1,http://dt.hwh.ink/home/api?type=ys&uid=1297351&key=acdfklopqvwyKLOT39&url=
 天诚影视3,https://vvip.muxvip.com:8866/api/?key=7wk1FnMRDwAVTPDNAM&url=
 段友影视1,https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url=
 粉象视界5,https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=aefiklotwzCEFHJO48&url=
@@ -267,6 +265,5 @@ DC影视,https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=bcdjqBEFGLMPW
 4K影院,http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=
 4K影院,https://www.aiaine.com/api/?key=e4keFpymfY5keNsavC&url=
 益达影院1,https://ltnb.jeeves.vip/home/api?type=ys&uid=2509623&key=glnpyADKLMNOTU0249&url=
-小极影视,https://jx.xiaoysw1.com/appjson/lt.php?url=
 独播社,https://ltnb.jeeves.vip/home/api?type=ys&uid=2492729&key=bkmopwEFMNQSUWXZ67&url=
 结束
