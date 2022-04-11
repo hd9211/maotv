@@ -47,13 +47,16 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 八戒资源,https://www.bajiezy.xyz/api.php/provide/vod/at/xml,解析
 抹茶猪(龙腾),https://www.mczdyw.com/api.php/provide/vod/at/xml,解析
 人人迷蓝光,https://koko.renrenmi.cc/api.php/provide/vod/at/xml,解析
+奈菲迷,https://app.netflixmi.com/ruifenglb_api.php/provide/vod/at/xml,解析
 鸭奈飞,http://newtv.yanaifei.cn/api.php/provide/vod/at/xml,解析
 陈家影视,https://www.cjt521.com/api.php/provide/vod/at/xml,解析
+追剧吧,http://zhuiju8.vip/api.php/provide/vod/at/xml,解析
 皮荼熊TV,https://www.psinu.com/api.php/provide/vod/at/xml,解析
 影世界,https://video.yingworld.vip/api.php/provide/vod/at/xml,解析
 考拉TV,https://ikaola.tv/api.php/provide/vod/at/xml,解析
 酷点影视,http://ys.kudian6.com/api.php/provide/vod/at/xml,解析
 饭后电影,http://yinliub.cn/api.php/provide/vod/at/xml,解析
+荔枝影视,http://www.zjys.vip/api.php/provide/vod/at/xml,解析
 段友影视,http://shangjihuoke.com/api.php/provide/vod/at/xml,解析
 一点影视,https://m3u8.movurl.xyz/api.php/provide/vod/at/xml,解析
 旧梦影视,https://mac.qd234.cn/api.php/provide/vod/at/xml,解析
