@@ -231,6 +231,7 @@
 {"key":"星一官采","name":"星一官采","type":1,"api":"https://gcku.suboyun.vip/api.php/provide/vod/","playUrl":"https://www.xing1.vip/player/dp/?url=","searchable":1,"quickSearch":1},
 {"key":"wabc(腾讯直采)","name":"wabc(腾讯直采)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"https://jx.parwix.com:4433/player/analysis.php?v=","searchable":1,"quickSearch":1},
 {"key":"片库","name":"片库","type":1,"api":"https://pianku.wang/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"看猫","name":"看猫","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 {"key":"步步高资源","name":"步步高资源","type":1,"api":"https://api.yparse.com/api/json","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
