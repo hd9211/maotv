@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/custom_spider.jar",
-"spider":"https://gitee.com/hd2019/CatVodTVSpider/raw/master/jar/custom_spider.jar",
+"spider":"https://notabug.org/tomb003/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 "sites":[
 {"key":"csp_xpath_ctv","name":"冲TMTV(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext": "https://gitee.com/hd2019/OneClickRun/raw/master/xpath/chongtmtv.json"},
 {"key":"csp_xpath_汉城影院","name":"汉城影院(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/hancheng.json"},
