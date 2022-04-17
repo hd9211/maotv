@@ -12,9 +12,8 @@ M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 搬运工资源,https://cj.banyung.xyz:7788/?at=xml,解析
 诺讯资源,http://caiji.nxflv.com/api.php/provide/vod/at/xml,解析
 英皇官采,https://apicdn.vipm3u8.com/xml,解析
-灯塔资源,http://vip.hwh.ink/api.php/provide/vod/at/xml,解析
 江北资源,https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml,解析
-思古官采,https://c.sigu.tv/api.php/provide/vod/at/xml,解析
+思古官采,http://zy.sgyun.me/api.php/provide/vod/at/xml,解析
 星一官采,https://gcku.suboyun.vip/api.php/provide/vod/at/xml,解析
 wabc(腾讯直采),https://wabc.ml/mao/1.php/provide/vod/at/xml,解析
 片库,https://pianku.wang/api.php/provide/vod/at/xml,解析
@@ -47,6 +46,7 @@ wabc(腾讯直采),https://wabc.ml/mao/1.php/provide/vod/at/xml,解析
 U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 八戒资源,https://www.bajiezy.xyz/api.php/provide/vod/at/xml,解析
 抹茶猪(龙腾),https://www.mczdyw.com/api.php/provide/vod/at/xml,解析
+灯塔蓝光,http://svip.hwh.ink/api.php/provide/vod/at/xml,解析
 人人迷蓝光,https://koko.renrenmi.cc/api.php/provide/vod/at/xml,解析
 奈菲迷,https://app.netflixmi.com/ruifenglb_api.php/provide/vod/at/xml,解析
 鸭奈飞,http://newtv.yanaifei.cn/api.php/provide/vod/at/xml,解析
