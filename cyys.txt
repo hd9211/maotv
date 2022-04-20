@@ -20,6 +20,7 @@ wabc(腾讯直采),https://wabc.ml/mao/1.php/provide/vod/at/xml,解析
 看猫,http://124.222.83.15:88/api.php/provide/vod/at/xml,解析
 忆梦,http://anltv.cn/api.php/provide/vod/at/xml,解析
 土狗官采,http://vip-02.tgzy.cc/api.php/provide/vod/at/xml,解析
+晓成云,http://zycj.cygc.xyz:84/api.php/provide/vod/at/xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
 量子资源,http://cj.lziapi.com/api.php/provide/vod/at/xml,解析
 神速资源,https://api.sszyapi.com/api.php/provide/vod/at/xml,解析
