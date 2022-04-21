@@ -47,6 +47,8 @@ wabc(腾讯直采),https://wabc.ml/mao/1.php/provide/vod/at/xml,解析
 乐多资源,http://cj.leduocaiji.com/inc/api.php,解析
 聚合资源,https://ziyuan.juhesys.com/api.php/provide/vod/at/xml,解析
 南国影源,http://api.nguonphim.tv/api.php/provide/vod/at/xml,解析
+淘剧鸭,https://so2.cc/api.php/provide/vod/at/xml,解析
+293影视,http://293x.yhzy.xyz/mv/api.php/provide/vod/at/xml,解析
 U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 八戒资源,https://www.bajiezy.xyz/api.php/provide/vod/at/xml,解析
 789盘,https://www.rrvipw.com/api.php/provide/vod/from/789pan/at/xml,解析
