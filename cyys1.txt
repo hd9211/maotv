@@ -15,7 +15,7 @@
 葡萄资源,https://api.putaozy.net/inc/api.php,解析
 色窝资源,https://sewozyapi.com/api.php/provide/vod/at/xml,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
-大雕资源,http://www.caobi201.com/api.php/provide/vod/at/xml,解析
+大雕资源,http://www.caobi209.vip/api.php/provide/vod/at/xml,解析
 色屌丝资源,http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml,解析
 小姐姐资源,https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml,解析
 52AVAV,https://52zyapi.com/home/cjapi/asda/mc10/vod/xml,解析
