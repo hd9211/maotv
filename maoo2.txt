@@ -223,6 +223,7 @@
 {"key":"csp_appysv2_2号币","name":"2号币(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
 #
 
+
 # 广大侠 资源网采集
 #官方解析
 {"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","playUrl":"https://www.8090.la/8090/?url=","searchable":1,"quickSearch":1},
@@ -273,6 +274,8 @@
 {"key":"南国影源","name":"南国影源(切)","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 #
 #优质资源
+{"key":"淘剧鸭","name":"淘剧鸭(优)","type":1,"api":"https://so2.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"293影视","name":"293影视(优)","type":1,"api":"http://293x.yhzy.xyz/mv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"开放云(X5)","name":"开放云(X5)(优)","type":1,"api":"https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?ac=list","searchable":0,"quickSearch":0},
 {"key":"八戒资源2","name":"八戒资源2(优)","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/","playUrl":"json:https://json.hfyrw.com/mao.go?url=","searchable":1,"quickSearch":1},
@@ -437,7 +440,13 @@
 {"key":"*番号资源","name":"*番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*鲨鱼资源","name":"*鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
-{"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0}
+{"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
+#
+// 推送功能扩展（需v2.1.0.Beta6及以上版本）
+// 需要在配置文件中，加入key为push_agent的站点，数据返回格式和普通爬虫一致
+// 支持推送播放网盘链接
+// https://github.com/catvod/CatVodTVSpider
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 #
 ],
 "lives":[
