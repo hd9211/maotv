@@ -53,6 +53,7 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 开放云(X5),https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?at=xml,解析
 八戒资源,https://www.bajiezy.xyz/api.php/provide/vod/at/xml,解析
 789盘,https://www.rrvipw.com/api.php/provide/vod/from/789pan/at/xml,解析
+旋风云,http://appimg.ssxmall.cn/api.php/provide/vod/at/xml,解析
 抹茶猪(龙腾),https://www.mczdyw.com/api.php/provide/vod/at/xml,解析
 灯塔蓝光,http://svip.hwh.ink/api.php/provide/vod/at/xml,解析
 奈菲迷,https://app.netflixmi.com/ruifenglb_api.php/provide/vod/at/xml,解析
@@ -83,6 +84,7 @@ OmoFun动漫,https://omofun.tv/api.php/provide/vod/at/xml,解析
 星一蓝光,http://lgku.suboyun.cn/api.php/provide/vod/at/xml,解析
 筋斗云,https://tv.jindcloud.com/api.php/provide/vod/at/xml,解析
 影图,https://cj.vodimg.top/api.php/provide/vod/at/xml,解析
+猪猪影院,https://www.2zdyy.com/api.php/provide/vod/at/xml,解析
 美剧星球,https://www.meijuxq.tv/inc/api.php,解析
 初恋云影视,https://video.xuanqi.pro/api.php/provide/vod/at/xml,解析
 小猫咪,http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml,解析
