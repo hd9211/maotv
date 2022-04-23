@@ -241,6 +241,7 @@
 {"key":"看猫","name":"看猫","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"忆梦","name":"忆梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"土狗官采","name":"土狗官采","type":1,"api":"http://vip-02.tgzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"极速官采","name":"极速官采","type":1,"api":"http://gc.zhuijuba.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 {"key":"步步高资源","name":"步步高资源","type":1,"api":"https://api.yparse.com/api/json","playUrl":"","searchable":1,"quickSearch":1},
@@ -274,6 +275,7 @@
 {"key":"淘剧鸭","name":"淘剧鸭","type":1,"api":"https://so2.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"293影视","name":"293影视","type":1,"api":"http://293x.yhzy.xyz/mv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"土狗Autue","name":"土狗Autue","type":1,"api":"http://vip-08.tgzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"极速蓝光","name":"极速蓝光","type":1,"api":"http://hs.zhuijuba.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"开放云(X5)","name":"开放云(X5)","type":1,"api":"https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?ac=list","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"八戒资源","name":"八戒资源","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/","playUrl":"https://json.hfyrw.com/mao.go?url=","searchable":1,"quickSearch":1},
