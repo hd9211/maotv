@@ -20,6 +20,7 @@ wabc(腾讯直采),https://wabc.ml/mao/1.php/provide/vod/at/xml,解析
 看猫,http://124.222.83.15:88/api.php/provide/vod/at/xml,解析
 忆梦,http://anltv.cn/api.php/provide/vod/at/xml,解析
 土狗官采,http://vip-02.tgzy.cc/api.php/provide/vod/at/xml,解析
+极速官采,http://gc.zhuijuba.vip/api.php/provide/vod/at/xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
 量子资源,http://cj.lziapi.com/api.php/provide/vod/at/xml,解析
 神速资源,https://api.sszyapi.com/api.php/provide/vod/at/xml,解析
@@ -49,6 +50,7 @@ wabc(腾讯直采),https://wabc.ml/mao/1.php/provide/vod/at/xml,解析
 淘剧鸭,https://so2.cc/api.php/provide/vod/at/xml,解析
 293影视,http://293x.yhzy.xyz/mv/api.php/provide/vod/at/xml,解析
 土狗Autue,http://vip-08.tgzy.cc/api.php/provide/vod/at/xml,解析
+极速蓝光,http://hs.zhuijuba.vip/api.php/provide/vod/at/xml,解析
 U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 开放云(X5),https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?at=xml,解析
 八戒资源,https://www.bajiezy.xyz/api.php/provide/vod/at/xml,解析
