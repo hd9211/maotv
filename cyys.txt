@@ -21,6 +21,7 @@ wabc(腾讯直采),https://wabc.ml/mao/1.php/provide/vod/at/xml,解析
 忆梦,http://anltv.cn/api.php/provide/vod/at/xml,解析
 土狗官采,http://vip-02.tgzy.cc/api.php/provide/vod/at/xml,解析
 极速官采,http://gc.zhuijuba.vip/api.php/provide/vod/at/xml,解析
+晓成云,http://cj.cygc.xyz/api.php/provide/vod/at/xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
 量子资源,http://cj.lziapi.com/api.php/provide/vod/at/xml,解析
 神速资源,https://api.sszyapi.com/api.php/provide/vod/at/xml,解析
@@ -140,7 +141,6 @@ LIBVIO,https://www.libvio.com/api.php/provide/vod/at/xml,解析
 陈家影视,https://www.cjt521.com/api.php/provide/vod/at/xml,解析
 饭后电影,http://yinliub.cn/api.php/provide/vod/at/xml,解析
 看365,https://www.kan365.xyz/api.php/provide/vod/at/xml,解析
-晓成云,http://zycj.cygc.xyz:84/api.php/provide/vod/at/xml,解析
 测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
 结束
 解析：
