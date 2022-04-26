@@ -7,10 +7,8 @@
 秀色资源,https://api.xiuseapi.com/api.php/provide/vod/at/xml,解析
 探探资源,https://apittzy.com/api.php/provide/vod/at/xml,解析
 色猫资源,https://api.maozyapi.com/inc/api.php,解析
-骚色资源,http://api.saosezy.icu/api.php/provide/vod/at/xml,解析
 草莓资源,https://caiji.caomeiapi.com/inc/api.php,解析
 爱看资源,http://www.aikanzyz9.com/inc/api.php,解析
-猪哥资源,https://zhugezy3.com/inc/api.php,解析
 花魁资源,https://caiji.huakuiapi.com/inc/api.php,解析
 葡萄资源,https://api.putaozy.net/inc/api.php,解析
 色窝资源,https://sewozyapi.com/api.php/provide/vod/at/xml,解析
@@ -44,15 +42,13 @@ AV集中淫,https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml,解析
 天噜啦资源,http://www.987caiji.com/api/max.php,解析
 99资源,http://99zy.pw/api.php/provide/vod/at/xml,解析
 010爱资源,http://www.010aizy.com/API/macs.php,解析
-鲍鱼BB,http://baoyub.live/inc/api.php,解析
-天堂AV,http://www.njxinli.com/inc/api.php,解析
 痴汉队长,https://javcaptain.com/api.php/provide/vod/at/xml,解析
 抖阴视频,https://www.888dav.com/api.php/provide/vod/at/xml,解析
 麻豆视频,https://madouse.la/api.php/provide/vod/at/xml,解析
 99资源吧,http://99zyba.com/api.php/provide/vod/at/xml,解析
+爱操资源,https://aicaozy.com/api.php/provide/vod/at/xml,解析
 浪潮资源,http://langchaozy6.com/api.php/provide/vod/at/xml,解析
 速播资源,https://api.suboapi.com/api.php/provide/vod/at/xml,解析
-逼哩逼哩视频,http://blbl.space/inc/api.php,解析
 酷豆资源,https://kudouzy.com/api.php/provide/vod/at/xml,解析
 酷豆2,https://api.kdapi.info/api.php/provide/vod/at/xml,解析
 酷伦理,https://api.kudian70.com/api.php/provide/vod/at/xml,解析
