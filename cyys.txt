@@ -22,7 +22,11 @@ wabc(腾讯直采),https://wabc.ml/mao/1.php/provide/vod/at/xml,解析
 土狗官采,http://vip-02.tgzy.cc/api.php/provide/vod/at/xml,解析
 极速官采,http://gc.zhuijuba.vip/api.php/provide/vod/at/xml,解析
 晓成云,http://cj.cygc.xyz/api.php/provide/vod/at/xml,解析
+首涂官采,http://zy.ishoutu.com/api.php/provide/vod/at/xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
+松鼠资源,https://m3u8.songshuzy.com/api.php/provide/vod/at/xml,解析
+猫眼资源,http://maoyanapi.com/api.php/provide/vod/at/xml,解析
+FOX资源,https://api.foxzyapi.com/api.php/provide/vod/at/xml,解析
 量子资源,http://cj.lziapi.com/api.php/provide/vod/at/xml,解析
 神速资源,https://api.sszyapi.com/api.php/provide/vod/at/xml,解析
 番茄资源,http://api.fqzy.cc/api.php/provide/vod/at/xml,解析
@@ -55,10 +59,10 @@ wabc(腾讯直采),https://wabc.ml/mao/1.php/provide/vod/at/xml,解析
 U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 开放云(X5),https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?at=xml,解析
 八戒资源,https://www.bajiezy.xyz/api.php/provide/vod/at/xml,解析
-789盘,https://www.rrvipw.com/api.php/provide/vod/from/789pan/at/xml,解析
+唐人资源,https://tangrenzyz.com/api.php/provide/vod/at/xml,解析
+789盘,https://www.rrvipw.com/api.php/provide/vod/from/789pan/?at=xml,解析
 旋风云,http://appimg.ssxmall.cn/api.php/provide/vod/at/xml,解析
 抹茶猪(龙腾),https://www.mczdyw.com/api.php/provide/vod/at/xml,解析
-灯塔蓝光,http://svip.hwh.ink/api.php/provide/vod/at/xml,解析
 奈菲迷,https://app.netflixmi.com/ruifenglb_api.php/provide/vod/at/xml,解析
 鸭奈飞,http://newtv.yanaifei.cn/api.php/provide/vod/at/xml,解析
 追剧吧,http://zhuiju8.vip/api.php/provide/vod/at/xml,解析
@@ -73,6 +77,7 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 易看视频,https://video.yikan.app/api.php/provide/vod/at/xml,解析
 奇乐(优剧)资源,https://zy.ujuba.com/api.php/provide/vod/at/xml,解析
 淘片资源,https://taopianapi.com/home/cjapi/as/mc10/vod/xml,解析
+一帆资源(VPN),http://api.if101.tv/v1/vod?ac=list,解析
 思古影院,https://www.siguyy.net/api.php/provide/vod/at/xml,解析
 天天看,https://www.ttky8.com/api.php/provide/vod/at/xml,解析
 每天看看,http://47.113.126.237:1234/api.php/provide/vod/at/xml,解析
@@ -106,7 +111,7 @@ VV影视,https://vvdy.org/api.php/provide/vod/at/xml,解析
 39影视,https://www.39kan.com/api.php/provide/vod/at/xml,解析
 剧大神,http://judashen.com/api.php/provide/vod/at/xml,解析
 8K影视,http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/at/xml,解析
-海外电影,https://www.200121.com/api.php/provide/vod,解析
+海外电影,https://www.200121.com/api.php/provide/vod/at/xml,解析
 嗨哆咪影视,http://hdmys1.com/api.php/provide/vod/at/xml,解析
 橘猫影视,http://www.zitv.cc/api.php/provide/vod/at/xml,解析
 速影,https://速影128.xyz/inc/api.php,解析
@@ -132,6 +137,7 @@ MuX官采,https://video.muxvip.com/api.php/provide/vod/at/xml,解析
 爱看,http://tvcms.ikan6.vip/api.php/provide/vod/at/xml,解析
 椰子资源,https://zy.gbxy.net.cn/api.php/provide/vod/at/xml,解析
 人人迷蓝光,https://koko.renrenmi.cc/api.php/provide/vod/at/xml,解析
+灯塔蓝光,http://svip.hwh.ink/api.php/provide/vod/at/xml,解析
 TVB云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,解析
 LIBVIO,https://www.libvio.com/api.php/provide/vod/at/xml,解析
 念念剧场,https://997.yuanmajs.cn/api.php/provide/vod/at/xml,解析
