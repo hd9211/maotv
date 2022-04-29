@@ -266,7 +266,6 @@ Wuduzy,https://aa.xkys.tv/json.php?url=
 J28,https://api.leduotv.com/wp-api/getvodurl.php?vid=
 //
 Pro,http://api.vip123kan.vip/?url=
-Wuduzy,https://aa.xkys.tv/json.php?url=
 bilibili,https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url=
 Rx,https://vvip.funsline.cn/api/?key=JNiddoRwmLBYehxnFq&url=
 leduo,https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=
@@ -274,8 +273,6 @@ duoduozy2,https://a.dxzj88.com/jxjx/dd.php?url=
 renrenmi,https://kuba.renrenmi.cc:2266/api/?key=02wsrxJzuGkI4C8pQ5&url=
 renrenmi2,https://a.dxzj88.com/jxrrm/jiami.php?url=
 renrenmi3,https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=
-CL4K,http://jx.yjhan.com:8090/home/api?type=ys&uid=268886&key=afghilnyEGKPRTVY56&url=
-LTRX,https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=
 Pro2,https://vip.rongxingvr.top/api/?type=ys&key=JJEZkZIhzkA4cUtBfR&url=
 1,https://svip.rongxingvr.top/api/?key=Wyl9CjTyelP0UOaECD&url=
 2,https://jx.mczdyw.com/xg.php?url=
@@ -292,7 +289,6 @@ Pro2,https://vip.rongxingvr.top/api/?type=ys&key=JJEZkZIhzkA4cUtBfR&url=
 初心影视(江湖1080直解),http://api.vip123kan.vip/?url=
 CJT影院,https://svip.rongxingvr.top/api/?key=B26J6jO5MOnjUv3GqW&url=
 jx165,https://ltjx.kuaixiao.vip/home/api?type=ys&uid=506916&key=dlmpwBHIKLMPQRVW23&url=
-jx10,http://www.sigu.tv/api/?key=SxihzwORxlozE5LR8u&url=
 jx34,https://jiexi.300ys.xyz/json/jianghujx.php/?url=
 jx36,https://api.m3u8.tv:5678/home/api?type=ys&uid=9105801&key=huwxFGILMOQSTUZ679&url=
 jx86,https://17.txtest.qzbeyond.cn/e4a/?url=
@@ -301,15 +297,16 @@ xfyun云,https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ
 影视达人01,http://svip.cygc.xyz/api/?key=sAJihNO41tPHN3szy1&url=
 J02,https://svip.rongxingvr.top/api/?key=B26J6jO5MOnjUv3GqW&url=
 aiaine02,https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=
+Wuduzy,https://aa.xkys.tv/json.php?url=
+CL4K,http://jx.yjhan.com:8090/home/api?type=ys&uid=268886&key=afghilnyEGKPRTVY56&url=
+LTRX,https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=
 喵派对资源3,https://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=
 喵派对资源2,https://svip.iremind.me/api/?key=A5Db8HF8c8FSIOR6R1&url=
-💯,http://yaluan.520say.cn/home/api?type=ys&uid=666666&key=888888888888&url=
 cx99999,http://cx99999.cn/rxjson.php?url=
 hfyrw,https://json.hfyrw.com/mao.go?url=
 盘古解析,https://json.pangujiexi.com:12345/json.php?url=
 RongXingVR,http://23.224.174.74:5583/jsonindex.php?url=
 搬运工资源站,https://jx.kupu.cc/json/jxbanyung.php/?url=
-jxcxin,https://apis.jxcxin.cn/api/jx?url=
 leduotv,https://api.leduotv.com/wp-api/getvodurl.php?vid=
 白嫖影视,http://ts.yjhan.com:8090/api/?key=Y4GefMCIQJz23mc06R&url=
 段友影视,http://ts.yjhan.com:8090/api/?key=DSQFgXdmj9xkDyiXdr&url=
@@ -326,7 +323,6 @@ leduotv,https://api.leduotv.com/wp-api/getvodurl.php?vid=
 南府追剧1,https://vvip.muxvip.com:8866/api/?key=xJvC19KWkxoyQO71hk&url=
 南府影视,https://vvip.muxvip.com:8866/api/?key=xVIWNjOvnxgmvrPgXO&url=
 爱酷影视7,https://cs.024zs.com:4433/api/?key=aFWsEm27J8d2sWd0ML&url=
-六把刀影院,https://jx.xmau.cn/home/api?type=ys&uid=117834&key=abdehjstwxIJLOPU59&url=
 天诚影视4,https://svip.cygc.xyz/api/?key=LHIDJlDFp1lPagfFwQ&url=
 初心影视,https://cs.024zs.com:4433/api/?key=ZGIAzc1y86fEENqYWb&url=
 天诚影视3,https://vvip.muxvip.com:8866/api/?key=7wk1FnMRDwAVTPDNAM&url=
@@ -335,6 +331,7 @@ leduotv,https://api.leduotv.com/wp-api/getvodurl.php?vid=
 琅琊影视7,https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=ghinorsuvBCMOQTY68&url=
 OJBK,https://jmwl.qd234.cn/v/?v=
 M117,http://1.117.152.239:39000/?url=
+zui,https://jx.zui.cm/?url=
 parwix1,https://jx.parwix.com:4433/player/?url=
 parwix2,https://jx.parwix.com:4433/player/analysis.php?v=
 xuerenweb,https://s.2tu.uk/?url=
@@ -342,7 +339,6 @@ xuerenweb2,https://xrm3u8.qd234.cn/?url=
 美剧虫,https://jx.daiguaji.com/?url=
 miao,https://jx.58g8.com/1/?url=
 web1,https://www.nxflv.com/?url=
-喵派对资源,https://www.66kdy.com/dmplay/?url=
 万能解析,https://vip.legendwhb.cn/m3u8.php?url=
 ltnb04,https://vip.bljiex.com/?v=
 ltnb02,https://jx.zui.cm/?url=
