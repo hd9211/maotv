@@ -84,7 +84,11 @@
 {"name":"海胆","url":"http://xf123.cc/api.php/app/"},
 {"name":"抹茶猪","url":"https://www.mczdyw.com/api.php/app/"}
 ],
-"caijizhan": [	
+"zhujiexi": "http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://jx.300ys.xyz/json/jianghu.php/?url=",
+"beiyongjiexi": "http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=",
+"dianshizhibo": "https://gitee.com/tear2020/mao/raw/master/bb.txt",
+"caijizhan": [
+{"name":"七七","url":"http://api.kunyu77.com/api.php"},
 {"name":"8090资源","url":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml"},
 {"name":"6U资源","url":"http://zy.ataoju.com/inc/api.php"},
 {"name":"天堂资源","url":"http://vipmv.cc/api.php/provide/vod/at/xml"},
@@ -321,11 +325,6 @@
 {"name":"77资源","url":"https://www.77zy.vip/inc/api.php"},
 {"name":"测试","url":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml"}
 ],
-"zhujiexi": "http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://jx.300ys.xyz/json/jianghu.php/?url=",
-"beiyongjiexi": "http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=",
-"dianshizhibo": "https://gitee.com/tear2020/mao/raw/master/bb.txt",
-"caijizhan": [
-{"name":"七七","url":"http://api.kunyu77.com/api.php"}],
 "tiyuzhibo": "https://m.zhibo8.net",
 "reci": "https://v.sogou.com",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
