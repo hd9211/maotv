@@ -7,7 +7,6 @@
 6U资源,http://zy.ataoju.com/inc/api.php,解析
 天堂资源,http://vipmv.cc/api.php/provide/vod/at/xml,解析
 M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
-清欢资源,https://www.qinghuanzy.com/qinghuan.php/provide/vod/at/xml,解析
 麒麟资源,http://www.qilinzyz.com/api.php/provide/vod/at/xml,解析
 搬运工资源,https://cj.banyung.xyz:7788/?at=xml,解析
 诺讯资源,http://caiji.nxflv.com/api.php/provide/vod/at/xml,解析
@@ -26,6 +25,7 @@ wabc(腾讯直采),https://wabc.ml/mao/1.php/provide/vod/at/xml,解析
 奥特曼资源,https://aotemanzy.com/api.php/provide/vod/at/xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
 松鼠资源,https://m3u8.songshuzy.com/api.php/provide/vod/at/xml,解析
+OK资源,https://www.okcj.site/api/provide/vod/at/xml,解析
 猫眼资源,http://maoyanapi.com/api.php/provide/vod/at/xml,解析
 FOX资源,https://api.foxzyapi.com/api.php/provide/vod/at/xml,解析
 量子资源,http://cj.lziapi.com/api.php/provide/vod/at/xml,解析
