@@ -299,6 +299,7 @@
 {"key":"晓成云","name":"晓成云","type":1,"api":"http://cj.cygc.xyz/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"首涂官采","name":"首涂官采","type":1,"api":"http://zy.ishoutu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"奥特曼资源","name":"奥特曼资源","type":1,"api":"https://aotemanzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"雪人官采","name":"雪人官采","type":1,"api":"https://zl.chinafix.wang/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 {"key":"极速BT资源","name":"极速BT资源","type":1,"api":"https://api.jisubt.com/videos","playUrl":"","searchable":1,"quickSearch":1},
@@ -351,6 +352,7 @@
 {"key":"皮荼熊TV","name":"皮荼熊TV","type":1,"api":"https://www.psinu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"哆咪动漫","name":"哆咪动漫","type":1,"api":"http://www.dmdm2020.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"影世界","name":"影世界","type":1,"api":"https://video.yingworld.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫"]},
+{"key":"饭后电影","name":"饭后电影","type":1,"api":"http://yinliub.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"考拉TV","name":"考拉TV","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
 {"key":"荔枝影视","name":"荔枝影视","type":1,"api":"http://www.zjys.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"段友影视","name":"段友影视","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -504,27 +506,17 @@
 {"key":"KK写真资源","name":"KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 {"key":"雪人蓝光","name":"雪人蓝光","type":1,"api":"https://zy.qd234.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"大米蓝光","name":"大米蓝光","type":1,"api":"https://www.dmzyu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"2A资源","name":"2A资源","type":1,"api":"http://zy.zcocc.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"MuX官采","name":"MuX官采","type":1,"api":"https://video.muxvip.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"白嫖联盟","name":"白嫖联盟","type":1,"api":"https://www.hszbj.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"爱看","name":"爱看","type":1,"api":"http://tvcms.ikan6.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"椰子资源","name":"椰子资源","type":1,"api":"https://zy.gbxy.net.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"人人迷蓝光","name":"人人迷蓝光","type":1,"api":"https://koko.renrenmi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"灯塔蓝光","name":"灯塔蓝光","type":1,"api":"http://svip.hwh.ink/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"TVB云播","name":"TVB云播","type":1,"api":"http://www.tvyb02.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"LIBVIO","name":"LIBVIO","type":1,"api":"https://www.libvio.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"念念剧场","name":"念念剧场","type":1,"api":"https://997.yuanmajs.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"蓝猫影视","name":"蓝猫影视","type":1,"api":"http://lanmao.lanmaoymw.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"欧乐影院(VPN)","name":"欧乐影院(VPN)","type":1,"api":"https://www.olevod.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"电影牛","name":"电影牛","type":1,"api":"https://www.dianyingn.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"陈家影视","name":"陈家影视","type":1,"api":"https://www.cjt521.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"饭后电影","name":"饭后电影","type":1,"api":"http://yinliub.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"看365","name":"看365","type":1,"api":"https://www.kan365.xyz/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"5X社区","name":"5X社区","type":0,"api":"https://0413.api.cdn.5api123.com/api.php","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"桃色资源","name":"桃色资源","type":1,"api":"https://api.taoseapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"苹果资源","name":"苹果资源","type":1,"api":"https://www.pg111222.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"77资源","name":"77资源","type":1,"api":"https://www.77zy.vip/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"测试","name":"测试","type":1,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 #
 // 推送功能扩展（需v2.1.0.Beta6及以上版本）
