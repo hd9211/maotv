@@ -24,6 +24,7 @@ wabc(腾讯直采),https://wabc.ml/mao/1.php/provide/vod/at/xml,解析
 首涂官采,http://zy.ishoutu.com/api.php/provide/vod/at/xml,解析
 奥特曼资源,https://aotemanzy.com/api.php/provide/vod/at/xml,解析
 雪人官采,https://zl.chinafix.wang/api.php/provide/vod/at/xml,解析
+木子看剧,https://mzkj.maccms.cf/api.php/provide/vod/at/xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
 松鼠资源,https://m3u8.songshuzy.com/api.php/provide/vod/at/xml,解析
 OK资源,https://www.okcj.site/api/provide/vod/at/xml,解析
