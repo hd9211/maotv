@@ -300,6 +300,7 @@
 {"key":"首涂官采","name":"首涂官采","type":1,"api":"http://zy.ishoutu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"奥特曼资源","name":"奥特曼资源","type":1,"api":"https://aotemanzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"雪人官采","name":"雪人官采","type":1,"api":"https://zl.chinafix.wang/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"木子看剧","name":"木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 {"key":"极速BT资源","name":"极速BT资源","type":1,"api":"https://api.jisubt.com/videos","playUrl":"","searchable":1,"quickSearch":1},
