@@ -4,7 +4,7 @@
 
 # spider (择一使用👇)
 ## 01.🐼缝合接口
-"spider":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/custom_spider_1651671604.jar",
+"spider":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/custom_spider.jar",
 ## 02.🐉明接口
 //"spider":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/xm.jar",
 ## 03.🐱S接口
@@ -13,7 +13,7 @@
 
 # 直播 (择一使用👇)
 ## 01.🦋直播
-## --> spider 改 custom_spider.jar 或 baikan.jar 或 custom_spider_1651671604.jar
+## --> spider 改 baikan.jar 或 custom_spider.jar
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1l1YW5Ic2luZy9PbmVDbGlja1J1bkBtYXN0ZXIveHBhdGgvbGl2ZS50eHQ="]}]}],
 
 ## 02.🦋直播
@@ -24,7 +24,7 @@
 
 "sites":[
 ## 01.🐼缝合接口
-## --> spider 改 custom_spider_1651671604.jar
+## --> spider 改 custom_spider.jar
 {"key":"csp_CZSPP","name":"🐼厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Buka","name":"🐼真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1,"ext":""},
@@ -75,7 +75,6 @@
 //{"key":"ftys_spider","name":"🐱饭团(SP)","type":3,"api":"csp_Ftys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/fantuan.bmp"},
 
 
-
 ## XPath系列, APP影视规则, 资源网采集
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/duboku.json"},
 {"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
@@ -91,7 +90,7 @@
 {"key":"csp_xpath_ctv","name":"冲TMTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/chongtmtv.json"},
 {"key":"csp_xpath_汉城影院","name":"汉城影院(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/hancheng.json"},
 {"key":"csp_xpath_yanetflix","name":"鸭奈飞(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/yanet.json"},
-{"key":"csp_xpath_ddg","name":"达达龟(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/dadagui.json"},
+{"key":"csp_xpath_ddg","name":"达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/dadagui.json"},
 {"key":"csp_xpath_jbb","name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/jubaibai.json"},
 {"key":"csp_xpath_juhuang","name":"剧荒TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/juhuang.json"},
 {"key":"csp_xpath_789kp","name":"789看片(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/789kp.json"},
@@ -99,11 +98,11 @@
 {"key":"csp_xpath_dandanzan10","name":"蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/dandanzan10.json"},
 {"key":"csp_xpath_Ole","name":"欧乐(XPF)(播放器要改成Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/olevod.json"},
 {"key":"csp_xpath_ttsp","name":"天天视频(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/ttsp.json"},
-{"key":"csp_xpath_axx2","name":"爱西西影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Aixixi.json"},
+//{"key":"csp_xpath_axx2","name":"爱西西影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Aixixi.json"},
 {"key":"csp_xpath_cokemv","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/cokemv.json"},
 {"key":"csp_xpath_jpys","name":"极品影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/jpys.json"},
 {"key":"Jumi","name":"剧迷TV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Jumi.json"},
-{"key":"csp_xpath_tvci","name":"大师兄(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/tvci.json"},
+{"key":"csp_xpath_tvci","name":"大师兄(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/tvci.json"},
 {"key":"csp_xpath_唐人街","name":"唐人街(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Renjie.json"},
 {"key":"csp_xpath_meiju56","name":"美剧网(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/meiju56.json"},
 {"key":"csp_xpath_lranc","name":"天天影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/lranc.json"},
@@ -344,9 +343,11 @@
 
 {"key":"淘剧鸭","name":"淘剧鸭","type":1,"api":"https://so2.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"293影视","name":"293影视","type":1,"api":"http://293x.yhzy.xyz/mv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"土狗Autue","name":"土狗Autue","type":1,"api":"http://vip-08.tgzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"极速蓝光","name":"极速蓝光","type":1,"api":"http://hs.zhuijuba.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"看看资源","name":"看看资源","type":1,"api":"https://zy.hikan.xyz/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"淘片资源","name":"淘片资源","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"一帆资源(VPN)","name":"一帆资源(VPN)","type":1,"api":"http://api.if101.tv/v1/vod?ac=list","playUrl":"","searchable":0,"quickSearch":0},
 {"key":"开放云(X5)","name":"开放云(X5)","type":1,"api":"https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?ac=list","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"八戒资源","name":"八戒资源","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/","playUrl":"https://json.hfyrw.com/mao.go?url=","searchable":1,"quickSearch":1},
 {"key":"唐人资源","name":"唐人资源","type":1,"api":"https://tangrenzyz.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -366,9 +367,6 @@
 {"key":"一点影视","name":"一点影视","type":1,"api":"https://m3u8.movurl.xyz/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"旧梦影视","name":"旧梦影视","type":1,"api":"https://mac.qd234.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"易看视频","name":"易看视频","type":1,"api":"https://video.yikan.app/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"奇乐(优剧)资源","name":"奇乐(优剧)资源","type":1,"api":"https://zy.ujuba.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"淘片资源","name":"淘片资源","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"一帆资源(VPN)","name":"一帆资源(VPN)","type":1,"api":"http://api.if101.tv/v1/vod?ac=list","playUrl":"","searchable":0,"quickSearch":0},
 {"key":"思古影院","name":"思古影院","type":1,"api":"https://www.siguyy.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"天天看","name":"天天看","type":1,"api":"https://www.ttky8.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"每天看看","name":"每天看看","type":1,"api":"http://47.113.126.237:1234/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
@@ -430,6 +428,7 @@
 {"key":"椰子资源","name":"椰子资源","type":1,"api":"https://zy.gbxy.net.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"人人迷蓝光","name":"人人迷蓝光","type":1,"api":"https://koko.renrenmi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"灯塔蓝光","name":"灯塔蓝光","type":1,"api":"http://svip.hwh.ink/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"土狗Autue","name":"土狗Autue","type":1,"api":"http://vip-08.tgzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"TVB云播","name":"TVB云播","type":1,"api":"http://www.tvyb02.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"LIBVIO","name":"LIBVIO","type":1,"api":"https://www.libvio.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"蓝猫影视","name":"蓝猫影视","type":1,"api":"http://lanmao.lanmaoymw.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
