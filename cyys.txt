@@ -57,9 +57,11 @@ FOX资源,https://api.foxzyapi.com/api.php/provide/vod/at/xml,解析
 南国影源,http://api.nguonphim.tv/api.php/provide/vod/at/xml,解析
 淘剧鸭,https://so2.cc/api.php/provide/vod/at/xml,解析
 293影视,http://293x.yhzy.xyz/mv/api.php/provide/vod/at/xml,解析
-土狗Autue,http://vip-08.tgzy.cc/api.php/provide/vod/at/xml,解析
 极速蓝光,http://hs.zhuijuba.vip/api.php/provide/vod/at/xml,解析
 U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
+看看资源,https://zy.hikan.xyz/api.php/provide/vod/at/xml,解析
+淘片资源,https://taopianapi.com/home/cjapi/as/mc10/vod/xml,解析
+一帆资源(VPN),http://api.if101.tv/v1/vod?ac=list,解析
 开放云(X5),https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?at=xml,解析
 八戒资源,https://www.bajiezy.xyz/api.php/provide/vod/at/xml,解析
 唐人资源,https://tangrenzyz.com/api.php/provide/vod/at/xml,解析
@@ -79,9 +81,6 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 一点影视,https://m3u8.movurl.xyz/api.php/provide/vod/at/xml,解析
 旧梦影视,https://mac.qd234.cn/api.php/provide/vod/at/xml,解析
 易看视频,https://video.yikan.app/api.php/provide/vod/at/xml,解析
-奇乐(优剧)资源,https://zy.ujuba.com/api.php/provide/vod/at/xml,解析
-淘片资源,https://taopianapi.com/home/cjapi/as/mc10/vod/xml,解析
-一帆资源(VPN),http://api.if101.tv/v1/vod?ac=list,解析
 思古影院,https://www.siguyy.net/api.php/provide/vod/at/xml,解析
 天天看,https://www.ttky8.com/api.php/provide/vod/at/xml,解析
 每天看看,http://47.113.126.237:1234/api.php/provide/vod/at/xml,解析
@@ -139,6 +138,7 @@ MuX官采,https://video.muxvip.com/api.php/provide/vod/at/xml,解析
 椰子资源,https://zy.gbxy.net.cn/api.php/provide/vod/at/xml,解析
 人人迷蓝光,https://koko.renrenmi.cc/api.php/provide/vod/at/xml,解析
 灯塔蓝光,http://svip.hwh.ink/api.php/provide/vod/at/xml,解析
+土狗Autue,http://vip-08.tgzy.cc/api.php/provide/vod/at/xml,解析
 TVB云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,解析
 LIBVIO,https://www.libvio.com/api.php/provide/vod/at/xml,解析
 蓝猫影视,http://lanmao.lanmaoymw.cn/api.php/provide/vod/at/xml,解析
