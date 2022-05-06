@@ -98,6 +98,7 @@ OmoFun动漫,https://omofun.tv/api.php/provide/vod/at/xml,解析
 猪猪影院,https://www.2zdyy.com/api.php/provide/vod/at/xml,解析
 美剧星球,https://www.meijuxq.tv/inc/api.php,解析
 初恋云影视,https://video.xuanqi.pro/api.php/provide/vod/at/xml,解析
+天天影视,http://tt2022.ga/api.php/provide/vod/at/xml,解析
 小猫咪,http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml,解析
 随缘电影,https://baobei666.com/inc/api.php,解析
 飘零影院,https://p2100.net/api.php/provide/vod/at/xml,解析
