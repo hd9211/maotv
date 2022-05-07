@@ -1,4 +1,5 @@
 {
+#网上收集的资源
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://notabug.org/tomb003/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 
