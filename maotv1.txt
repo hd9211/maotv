@@ -501,6 +501,7 @@
 {"key":"八戒资源","name":"八戒资源","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/","playUrl":"https://json.hfyrw.com/mao.go?url=","searchable":1,"quickSearch":1},
 {"key":"唐人资源","name":"唐人资源","type":1,"api":"https://tangrenzyz.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"789盘","name":"789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/from/789pan/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"喵派对蓝光","name":"喵派对蓝光","type":1,"api":"http://langaung-caicaici-ji.66yk.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"旋风云","name":"旋风云","type":1,"api":"http://appimg.ssxmall.cn/api.php/provide/vod/","playUrl":"https://jx.58g8.com/1/?url=","searchable":1,"quickSearch":1},
 {"key":"抹茶猪(龙腾)","name":"抹茶猪(龙腾)","type":1,"api":"https://www.mczdyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"奈菲迷","name":"奈菲迷","type":1,"api":"https://app.netflixmi.com/ruifenglb_api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
