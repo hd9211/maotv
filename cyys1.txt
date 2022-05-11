@@ -46,6 +46,7 @@ AV集中淫,https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml,解析
 痴汉队长,https://javcaptain.com/api.php/provide/vod/at/xml,解析
 抖阴视频,https://www.888dav.com/api.php/provide/vod/at/xml,解析
 麻豆视频,https://madouse.la/api.php/provide/vod/at/xml,解析
+91麻豆,https://91md.me/api.php/provide/vod/at/xml,解析
 99资源吧,http://99zyba.com/api.php/provide/vod/at/xml,解析
 爱操资源,https://aicaozy.com/api.php/provide/vod/at/xml,解析
 浪潮资源,http://langchaozy6.com/api.php/provide/vod/at/xml,解析
