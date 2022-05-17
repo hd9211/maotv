@@ -1,6 +1,8 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-//"spider":"https://notabug.org/tomb003/CatVodTVSpider/raw/master/jar/custom_spider.jar", //"spider":"https://agit.ai/tomb003/CatVodTVSpider/raw/branch/master/jar/custom_spider.jar", "spider":"https://gitcode.net/tomb003/CatVodTVSpider/-/raw/master/jar/custom_spider.jar",
+"spider":"https://notabug.org/tomb003/CatVodTVSpider/raw/master/jar/custom_spider.jar",
+//"spider":"https://agit.ai/tomb003/CatVodTVSpider/raw/branch/master/jar/custom_spider.jar",
+//"spider":"https://gitcode.net/tomb003/CatVodTVSpider/-/raw/master/jar/custom_spider.jar",
 
 "sites":[
 ## XPath系列, APP影视规则, 资源网采集
