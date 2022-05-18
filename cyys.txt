@@ -15,6 +15,7 @@ M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 思古官采,http://zy.sgyun.me/api.php/provide/vod/at/xml,解析
 星一官采,https://gcku.suboyun.vip/api.php/provide/vod/at/xml,解析
 wabc(腾讯直采),https://wabc.ml/mao/1.php/provide/vod/at/xml,解析
+wabc(爱奇艺直采),https://wabc.ml/mao/2.php/provide/vod/at/xml,解析
 片库,https://pianku.wang/api.php/provide/vod/at/xml,解析
 看猫,http://124.222.83.15:88/api.php/provide/vod/at/xml,解析
 忆梦,http://anltv.cn/api.php/provide/vod/at/xml,解析
