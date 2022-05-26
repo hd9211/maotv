@@ -129,6 +129,8 @@
 {"key":"csp_biubiu_极品影视","name":"🥒极品影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/Biubiu/极品影视.json"},
 {"key":"csp_biubiu_大师兄影视","name":"🥒大师兄影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/Biubiu/大师兄影视.json"},
 //{"key":"csp_biubiu_GAOAA","name":"🥒GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/Biubiu/GAOAA.json"},
+{"key":"csp_biubiu_双十电影","name":"🥒双十电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/Biubiu/双十电影.json"},
+{"key":"csp_biubiu_139影视","name":"🥒139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/Biubiu/139影视.json"},
 
 
 ## 01.🐼 (非官方) 缝合接口
@@ -151,7 +153,6 @@
 //{"key":"csp_xpath_Hdmoli","name":"🐼Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/xpath/hdmoli.json"},
 //{"key":"csp_xpath_egg","name":"🐼蛋蛋(XPF)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/xpath/dandan.json"},
 //{"key":"csp_xpath_Gaze","name":"🐼注视(XPF)","type":3,"api":"csp_XPathGaze","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/xpath/gaze.json"},
-
 
 ## XPath系列, APP影视规则, 资源网采集
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/xpath/duboku.json"},
