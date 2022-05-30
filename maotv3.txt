@@ -25,6 +25,7 @@
 
 
 "sites":[
+##02官方
 {"key": "csp_Aidi","name": "爱迪","type": 3,"api": "csp_Aidi","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key": "csp_Enlienli","name": "嗯哩嗯哩","type": 3,"api": "csp_Enlienli","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key": "csp_Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 0,"filterable": 1},
