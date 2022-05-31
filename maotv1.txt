@@ -410,6 +410,7 @@
 {"key":"旋风云","name":"旋风云","type":1,"api":"http://appimg.ssxmall.cn/api.php/provide/vod/","playUrl":"https://jx.58g8.com/1/?url=","searchable":1,"quickSearch":1},
 {"key":"奈菲迷","name":"奈菲迷","type":1,"api":"https://app.netflixmi.com/ruifenglb_api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"鸭奈飞","name":"鸭奈飞","type":1,"api":"http://newtv.yanaifei.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"鸭奈飞1","name":"鸭奈飞1","type":1,"api":"hhttp://106.13.199.87:4433/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"皮荼熊TV","name":"皮荼熊TV","type":1,"api":"https://www.psinu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"影世界","name":"影世界","type":1,"api":"https://video.yingworld.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫"]},
 {"key":"饭后电影","name":"饭后电影","type":1,"api":"http://yinliub.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
