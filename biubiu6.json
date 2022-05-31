@@ -9,7 +9,7 @@
 {"name":"青豆","url":"http://150.158.133.36:9904/qingdoujiekou.php/v1.vod"},
 {"name":"WSC","url":"https://vip.wscyun.com/api.php/v1.vod"},
 {"name":"开尔影院","url":"https://appx.uy07.com/api.php/v1.vod"},
-{"name":"筋斗云影视","url":"https://tv.jindcloud.com/api.php/v1.vod"},
+
 {"name":"皮皮动漫","url":"http://dm.muying.me/mogai_api.php/v1.vod"},
 {"name":"猪猪影院","url":"http://app.2zdyy.com/api.php/v1.vod"},
 {"name":"熊猫动漫","url":"http://dm.muying.me/mogai_api.php/v1.vod"},
@@ -19,8 +19,6 @@
 {"name":"钟特影视","url":"https://app.zteys.com/api.php/v1.vod"},
 {"name":"tvip","url":"http://app.tvip.cc/api.php/v1.vod"},
 {"name":"迪迪影院","url":"http://dd88.icu:6080/xgapp.php/v2/"},
-{"name":"快云影音","url":"https://www.kuaiyunyy.com/api.php/app/"},
-{"name":"DC影视","url":"http://chaorenbb.com/api.php/v1.vod"},
 {"name":"爱酷影视","url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
 {"name":"段友影视","url":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
 {"name":"段友2影视","url":"https://shangjihuoke.com/api.php/tv.vod"},
