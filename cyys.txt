@@ -70,6 +70,7 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 旋风云,http://appimg.ssxmall.cn/api.php/provide/vod/at/xml,解析
 奈菲迷,https://app.netflixmi.com/ruifenglb_api.php/provide/vod/at/xml,解析
 鸭奈飞,http://newtv.yanaifei.cn/api.php/provide/vod/at/xml,解析
+鸭奈飞1,http://106.13.199.87:4433/api.php/provide/vod/at/xml,解析
 皮荼熊TV,https://www.psinu.com/api.php/provide/vod/at/xml,解析
 影世界,https://video.yingworld.vip/api.php/provide/vod/at/xml,解析
 饭后电影,http://yinliub.cn/api.php/provide/vod/at/xml,解析
