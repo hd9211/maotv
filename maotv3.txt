@@ -413,6 +413,8 @@
 {"key":"鸭奈飞1","name":"鸭奈飞1","type":1,"api":"hhttp://106.13.199.87:4433/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"皮荼熊TV","name":"皮荼熊TV","type":1,"api":"https://www.psinu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"影世界","name":"影世界","type":1,"api":"https://video.yingworld.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫"]},
+{"key":"XYUI","name":"XYUI","type":1,"api":"http://jx4.xyui.top:7001/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"ASMR","name":"ASMR","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"饭后电影","name":"饭后电影","type":1,"api":"http://yinliub.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"考拉TV","name":"考拉TV","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
 {"key":"荔枝影视","name":"荔枝影视","type":1,"api":"http://www.zjys.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
