@@ -68,6 +68,7 @@ AV集中淫,https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml,解析
 大地资源,https://dadiapi.com/api.php,解析
 CK资源,http://www.feifei67.com/api.php/provide/vod/at/xml,解析
 老鸭资源,https://api.apilyzy.com/api.php/provide/vod/at/xml,解析
+老鸭TV,https://laoyatv.com/api.php/provide/vod/at/xml,解析
 花椒资源,https://apihjzy.com/api.php/provide/vod/at/xml,解析
 辣椒资源,https://apilj.com/api.php/provide/vod/at/xml/,解析
 乐播资源,https://lbapi9.com/api.php/provide/vod/at/xml,解析
