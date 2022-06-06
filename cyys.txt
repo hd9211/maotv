@@ -86,11 +86,11 @@ ASMR,http://www.asmr19.in/api.php/provide/vod/at/xml,解析
 天天看,https://www.ttky8.com/api.php/provide/vod/at/xml,解析
 每天看看,http://47.113.126.237:1234/api.php/provide/vod/at/xml,解析
 一拳动漫,http://47.97.68.224/api.php/provide/vod/at/xml,解析
-饭团影视,http://television.wkfile.com/api.php/provide/vod/at/xml,解析
 BL视频,https://bljiex.com/api.php/provide/vod/at/xml,解析
 畅视影视,http://app.reboju.net/api.php/provide/vod/at/xml,解析
 OmoFun动漫,https://omofun.tv/api.php/provide/vod/at/xml,解析
 人人资源,http://www.rrzyw.cc/api.php/provide/vod/at/xml,解析
+人人影视,https://www.rrvipw.com/api.php/provide/vod/at/xml,解析
 小蜻蜓APP,http://3ketv.com/api.php/provide/vod/at/xml,解析
 乐活影视,https://lehootv.com/api.php/provide/vod/at/xml,解析
 星一蓝光,http://lgku.suboyun.cn/api.php/provide/vod/at/xml,解析
