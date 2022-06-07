@@ -1,3 +1,4 @@
+// 尝试将所有XBiubiu源的搜寻结果,限制最多显示5个  --> 改善 "搜寻后会卡顿" 的问题
 // 强烈建议升级猫影视TV至 2.1.1 Beta3(含)以上版本, 嗅探进行了大幅优化, 这样子XBiubiu的使用体验会更好!
 
 {
@@ -40,7 +41,7 @@
 {"key": "csp_Imaple","name": "枫林网(爬虫)","type": 3,"api": "csp_Imaple","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key": "csp_Jumi","name": "剧迷(爬虫)","type": 3,"api": "csp_Jumi","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key": "csp_Nfx","name": "NFXHD(爬虫)","type": 3,"api": "csp_Nfx","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key": "csp_YydsAli1","name": "YYDS阿里(爬虫)","type": 3,"api": "csp_YydsAli1","searchable": 1,"quickSearch": 0,"filterable": 0},		
+{"key": "csp_YydsAli1","name": "YYDS阿里(爬虫)","type": 3,"api": "csp_YydsAli1","searchable": 1,"quickSearch": 0,"filterable": 0},
 
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXP/duboku.json"},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
@@ -52,7 +53,6 @@
 
 
 ## 03.🥒(非官方)小黄瓜大佬 套Biubiu+LiteApple规则
-## 尝试将所有XBiubiu源的搜寻结果,限制最多显示5个  --> 解决 "搜寻后会卡顿" 的问题
 ## --> spider 改 "spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/XBiubiuLA2.jar",
 {"key":"csp_biubiu_厂长资源-蓝光","name":"🥒厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/厂长资源-蓝光.json"},
 {"key":"csp_biubiu_特狗影视","name":"🥒特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/特狗影视.json"},
@@ -609,7 +609,7 @@
 {"name":"线路m9","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 {"name":"线路NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
 {"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
-{"name":"293","type":1,"url":"http://81.71.48.249:4456/jsonc/longxia.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
+//{"name":"293","type":1,"url":"http://81.71.48.249:4456/jsonc/longxia.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
 {"name":"bilibili","type":1,"url":"https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url=","ext":{"flag":["bilibili"]}},
 {"name":"leduo","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
 {"name":"duoduozy2","type":1,"url":"https://a.dxzj88.com/jxjx/dd.php?url=","ext":{"flag":["duoduozy"]}},
