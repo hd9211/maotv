@@ -1,4 +1,4 @@
-// 尝试将所有XBiubiu源的搜寻结果,限制最多显示5个  --> 改善 "搜寻后会卡顿" 的问题
+// 感谢猫友告知, "导致搜寻会卡顿" 的问题(23影院.json) 已经找出并修复
 // 强烈建议升级猫影视TV至 2.1.1 Beta3(含)以上版本, 嗅探进行了大幅优化, 这样子XBiubiu的使用体验会更好!
 
 {
@@ -18,10 +18,9 @@
 //"spider":"https://raw.fastgit.org/Tangsan99999/Tangsan99999.github.io/master/custom_spider.jar",
 
 # 03.🥒 (非官方) 小黄瓜大佬 XBiubiuLA.jar:
-# Github --> https://github.com/lite-cucumber/CatVodTVSpider
+# Github --> https://github.com/lite-cucumber/
 # 套Biubiu+LiteApple规则
 "spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/XBiubiuLA2.jar",
-//"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
 
 
 # 直播
