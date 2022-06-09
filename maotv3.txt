@@ -381,7 +381,7 @@
 {"key":"极速BT资源","name":"极速BT资源","type":1,"api":"https://api.jisubt.com/videos","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"步步高资源","name":"步步高资源","type":1,"api":"https://api.yparse.com/api/json","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"金鹰资源","type":1,"api":"http://jinyingzy.com/provide/vod","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"1080资源库","name":"1080资源库","type":0,"api":"https://api.1080zyku.com/inc/api_mac10.php","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"1080资源库","name":"1080资源库","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"TOM资源","name":"TOM资源","type":1,"api":"https://api.tomcaiji.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"松鼠资源","name":"松鼠资源","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
