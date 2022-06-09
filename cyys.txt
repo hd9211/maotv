@@ -25,7 +25,11 @@ wabc(爱奇艺直采),https://wabc.ml/mao/2.php/provide/vod/at/xml,解析
 奥特曼资源,https://aotemanzy.com/api.php/provide/vod/at/xml,解析
 雪人官采,https://zl.chinafix.wang/api.php/provide/vod/at/xml,解析
 木子看剧,https://mzkj.maccms.cf/api.php/provide/vod/at/xml,解析
+小猫咪,http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml,解析
+阿远采集,https://www.cjzy.xyz:8888/api.php/provide/vod/at/xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
+金鹰资源,http://jinyingzy.com/provide/vod/at/xml,解析
+1080资源库,https://api.1080zyku.com/inc/api.php,解析
 TOM资源,https://api.tomcaiji.com/api.php/provide/vod/at/xml,解析
 快车资源,https://caiji.kczyapi.com/api.php/provide/vod/at/xml,解析
 松鼠资源,https://m3u8.songshuzy.com/api.php/provide/vod/at/xml,解析
@@ -102,7 +106,6 @@ OmoFun动漫,https://omofun.tv/api.php/provide/vod/at/xml,解析
 雨哥哥影视,http://bz.baozi66.top:66/api.php/provide/vod/at/xml,解析
 绿地影视,https://v.lvdi.vip/api.php/provide/vod/at/xml,解析
 天天影视,http://tt2022.ga/api.php/provide/vod/at/xml,解析
-小猫咪,http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml,解析
 随缘电影,https://baobei666.com/inc/api.php,解析
 飘零影院,https://p2100.net/api.php/provide/vod/at/xml,解析
 酷点影视,http://ys.kudian6.com/api.php/provide/vod/at/xml,解析
