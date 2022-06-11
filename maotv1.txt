@@ -1,3 +1,4 @@
+// 使用报错的猫友，请改用 CH猫友测试配置接口 https://freed.yuanhsing.cf/maoocf2.json
 // 感谢猫友告知, "导致搜寻会卡顿" 的问题(23影院.json) 已经找出并修复
 // 强烈建议升级猫影视TV至 2.1.1 Beta3(含)以上版本, 嗅探进行了大幅优化, 这样子XBiubiu的使用体验会更好!
 
@@ -46,6 +47,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 //{"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXP/huya2.json"},
+{"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/斗鱼.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXP/kuqimv.json"},
 
 
@@ -58,6 +60,8 @@
 {"key":"csp_biubiu_真的卡影院","name":"🥒真的卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/真的卡影院.json"},
 {"key":"csp_biubiu_荣耀Glory","name":"🥒荣耀Glory(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/荣耀Glory.json"},
 {"key":"csp_biubiu_87影院","name":"🥒87影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/87影院.json"},
+{"key":"csp_biubiu_dunkfun","name":"🥒dunkfun(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/dunkfun.json"},
+{"key":"csp_biubiu_麻衣高清","name":"🥒麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/麻衣高清.json"},
 {"key":"csp_biubiu_蓝光影院","name":"🥒蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/蓝光影院.json"},
 {"key":"csp_biubiu_干饭影视","name":"🥒干饭影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/干饭影视.json"},
 {"key":"csp_biubiu_看片狂人","name":"🥒看片狂人(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/看片狂人.json"},
@@ -329,7 +333,7 @@
 
 
 {"key":"8090资源","name":"8090资源","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"6U资源","name":"6U资源","type":1,"api":"http://zy.ataoju.com/inc/apijson_vod.php","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
+{"key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"M3U8.TV资源","name":"M3U8.TV资源","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"麒麟资源","name":"麒麟资源","type":1,"api":"http://www.qilinzyz.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
@@ -391,44 +395,29 @@
 {"key":"南国影源","name":"南国影源","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
-{"key":"淘剧鸭","name":"淘剧鸭","type":1,"api":"https://so2.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"293影视","name":"293影视","type":1,"api":"http://293x.yhzy.xyz/mv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"看看资源","name":"看看资源","type":1,"api":"https://zy.hikan.xyz/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"淘片资源","name":"淘片资源","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"一帆资源(VPN)","name":"一帆资源(VPN)","type":1,"api":"http://api.if101.tv/v1/vod?ac=list","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"开放云(X5)","name":"开放云(X5)","type":1,"api":"https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?ac=list","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"唐人资源","name":"唐人资源","type":1,"api":"https://tangrenzyz.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"789盘","name":"789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/from/789pan/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"喵派对蓝光","name":"喵派对蓝光","type":1,"api":"http://langaung-caicaici-ji.66yk.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"酷扑(人人迷)","name":"酷扑(人人迷)","type":1,"api":"https://www.kupu.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"789盘","name":"789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"旋风云","name":"旋风云","type":1,"api":"http://appimg.ssxmall.cn/api.php/provide/vod/","playUrl":"https://jx.58g8.com/1/?url=","searchable":1,"quickSearch":1},
 {"key":"奈菲迷","name":"奈菲迷","type":1,"api":"https://app.netflixmi.com/ruifenglb_api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"鸭奈飞","name":"鸭奈飞","type":1,"api":"http://newtv.yanaifei.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"鸭奈飞1","name":"鸭奈飞1","type":1,"api":"hhttp://106.13.199.87:4433/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"皮荼熊TV","name":"皮荼熊TV","type":1,"api":"https://www.psinu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"影世界","name":"影世界","type":1,"api":"https://video.yingworld.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫"]},
 {"key":"XYUI","name":"XYUI","type":1,"api":"http://jx4.xyui.top:7001/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"ASMR","name":"ASMR","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"饭后电影","name":"饭后电影","type":1,"api":"http://yinliub.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"考拉TV","name":"考拉TV","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
-{"key":"荔枝影视","name":"荔枝影视","type":1,"api":"http://www.zjys.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"段友影视","name":"段友影视","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"一点影视","name":"一点影视","type":1,"api":"https://m3u8.movurl.xyz/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"旧梦影视","name":"旧梦影视","type":1,"api":"https://mac.qd234.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"51看剧","name":"51看剧","type":1,"api":"http://51kanju.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"思古影院","name":"思古影院","type":1,"api":"https://www.siguyy.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"天天看","name":"天天看","type":1,"api":"https://www.ttky8.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"每天看看","name":"每天看看","type":1,"api":"http://47.113.126.237:1234/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"一拳动漫","name":"一拳动漫","type":1,"api":"http://47.97.68.224/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"BL视频","name":"BL视频","type":1,"api":"https://bljiex.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"畅视影视","name":"畅视影视","type":1,"api":"http://app.reboju.net/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
-{"key":"OmoFun动漫","name":"OmoFun动漫","type":1,"api":"https://omofun.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"人人资源","name":"人人资源","type":1,"api":"http://www.rrzyw.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"人人影视","name":"人人影视","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"小蜻蜓APP","name":"小蜻蜓APP","type":1,"api":"http://3ketv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"星一蓝光","name":"星一蓝光","type":1,"api":"http://lgku.suboyun.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"筋斗云","name":"筋斗云","type":1,"api":"https://tv.jindcloud.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 
 
@@ -478,12 +467,18 @@
 {"key":"椰子资源","name":"椰子资源","type":1,"api":"https://zy.gbxy.net.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"人人迷蓝光","name":"人人迷蓝光","type":1,"api":"https://koko.renrenmi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"灯塔蓝光","name":"灯塔蓝光","type":1,"api":"http://svip.hwh.ink/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"开放云(X5)","name":"开放云(X5)","type":1,"api":"https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?ac=list","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"土狗Autue","name":"土狗Autue","type":1,"api":"http://vip-08.tgzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"TVB云播","name":"TVB云播","type":1,"api":"http://www.tvyb02.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"LIBVIO","name":"LIBVIO","type":1,"api":"https://www.libvio.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"蓝猫影视","name":"蓝猫影视","type":1,"api":"http://lanmao.lanmaoymw.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"欧乐影院(VPN)","name":"欧乐影院(VPN)","type":1,"api":"https://www.olevod.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"看365","name":"看365","type":1,"api":"https://www.kan365.xyz/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"皮荼熊TV","name":"皮荼熊TV","type":1,"api":"https://www.psinu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"荔枝影视","name":"荔枝影视","type":1,"api":"http://www.zjys.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"唐人资源","name":"唐人资源","type":1,"api":"https://tangrenzyz.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"旧梦影视","name":"旧梦影视","type":1,"api":"https://mac.qd234.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"BL视频","name":"BL视频","type":1,"api":"https://bljiex.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"5X社区","name":"5X社区","type":0,"api":"https://0413.api.cdn.5api123.com/api.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"测试","name":"测试","type":1,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 #
