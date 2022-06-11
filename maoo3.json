@@ -33,6 +33,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 //{"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://oneclickrun.yuanhsing.cf/MeowXP/huya2.json"},
+{"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/斗鱼.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXP/kuqimv.json"},
 
 
@@ -45,6 +46,8 @@
 {"key":"csp_biubiu_真的卡影院","name":"🥒真的卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/真的卡影院.json"},
 {"key":"csp_biubiu_荣耀Glory","name":"🥒荣耀Glory(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/荣耀Glory.json"},
 {"key":"csp_biubiu_87影院","name":"🥒87影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/87影院.json"},
+{"key":"csp_biubiu_dunkfun","name":"🥒dunkfun(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/dunkfun.json"},
+{"key":"csp_biubiu_麻衣高清","name":"🥒麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/麻衣高清.json"},
 {"key":"csp_biubiu_蓝光影院","name":"🥒蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/蓝光影院.json"},
 {"key":"csp_biubiu_干饭影视","name":"🥒干饭影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/干饭影视.json"},
 {"key":"csp_biubiu_看片狂人","name":"🥒看片狂人(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MeowXB/看片狂人.json"},
