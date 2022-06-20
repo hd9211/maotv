@@ -15,6 +15,7 @@
 色窝资源,https://sewozyapi.com/api.php/provide/vod/at/xml,解析
 淫窝资源,https://api.yinwoapi.com/api.php/provide/vod/at/xml,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
+3366资源,http://www.3366zy.com/api.php/provide/vod/at/xml,解析
 大雕资源,http://www.caobi209.vip/api.php/provide/vod/at/xml,解析
 色屌丝资源,http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml,解析
 小姐姐资源,https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml,解析
