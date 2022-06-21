@@ -64,6 +64,8 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 奈菲迷,https://app.netflixmi.com/ruifenglb_api.php/provide/vod/at/xml,解析
 鸭奈飞,http://newtv.yanaifei.cn/api.php/provide/vod/at/xml,解析
 奈飞云,http://45.125.46.41:4433/api.php/provide/vod/at/xml,解析
+奇粹影视,http://www.blssv.com/api.php/provide/vod/at/xml,解析
+土剧TV,http://tujutv.top/api.php/provide/vod/at/xml,解析
 影世界,https://video.yingworld.vip/api.php/provide/vod/at/xml,解析
 XYUI,http://jx4.xyui.top:7001/api.php/provide/vod/at/xml,解析
 ASMR,http://www.asmr19.in/api.php/provide/vod/at/xml,解析
