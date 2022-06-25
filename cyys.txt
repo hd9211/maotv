@@ -41,6 +41,7 @@ FOX资源,https://api.foxzyapi.com/api.php/provide/vod/at/xml,解析
 北斗星资源,https://m3u8.bdxzyapi.com/api.php/provide/vod/at/xml,解析
 樱花资源,https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml,解析
 想看资源,https://m3u8.xiangkanapi.com/api.php/provide/vod/at/xml,解析
+易看资源,https://api.yikanapi.com/api.php/provide/vod/at/xml,解析
 酷点资源,https://kudianzy.com/api.php/provide/vod/at/xml,解析
 速更资源,https://sugengzy.cn/api.php/provide/vod/at/xml,解析
 闪电资源,http://sdzyapi.com/api.php/provide/vod/at/xml,解析
