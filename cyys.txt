@@ -24,6 +24,7 @@ wabc(爱奇艺直采),https://wabc.ml/mao/2.php/provide/vod/at/xml,解析
 阿远采集,https://www.cjzy.xyz:8888/api.php/provide/vod/at/xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
 金鹰资源,http://jinyingzy.com/provide/vod/at/xml,解析
+北极狐,https://www.bjhu.net/api.php/provide/vod/at/xml,解析
 冠军资源,https://www.cmpzy.com/api.php/provide/vod/at/xml,解析
 1080资源库,https://api.1080zyku.com/inc/api.php,解析
 TOM资源,https://api.tomcaiji.com/api.php/provide/vod/at/xml,解析
