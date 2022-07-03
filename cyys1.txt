@@ -52,7 +52,7 @@ AV集中淫,https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml,解析
 91麻豆,https://91md.me/api.php/provide/vod/at/xml,解析
 99资源吧,http://99zyba.com/api.php/provide/vod/at/xml,解析
 爱操资源,https://aicaozy.com/api.php/provide/vod/at/xml,解析
-浪潮资源,http://langchaozy6.com/api.php/provide/vod/at/xml,解析
+浪潮资源,http://langchaozy11.com/api.php/provide/vod/at/xml,解析
 速播资源,https://api.suboapi.com/api.php/provide/vod/at/xml,解析
 酷豆资源,https://kudouzy.com/api.php/provide/vod/at/xml,解析
 酷豆2,https://api.kdapi.info/api.php/provide/vod/at/xml,解析
