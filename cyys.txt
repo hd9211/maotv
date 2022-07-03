@@ -1,8 +1,4 @@
 点播：
-芒果,http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml,解析
-奇艺,http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml,解析
-腾讯,http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml,解析
-优酷,http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml,解析
 8090资源,http://zy.yilans.net:8090/api.php/provide/vod/at/xml,解析
 6U资源,http://www.6uzy.cc/inc/api.php,解析
 天堂资源,http://vipmv.cc/api.php/provide/vod/at/xml,解析
@@ -22,6 +18,7 @@ wabc(爱奇艺直采),https://wabc.ml/mao/2.php/provide/vod/at/xml,解析
 木子看剧,https://mzkj.maccms.cf/api.php/provide/vod/at/xml,解析
 小猫咪,http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml,解析
 阿远采集,https://www.cjzy.xyz:8888/api.php/provide/vod/at/xml,解析
+极速BT资源,https://api.jisubt.com/videos?at=xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
 金鹰资源,http://jinyingzy.com/provide/vod/at/xml,解析
 北极狐,https://www.bjhu.net/api.php/provide/vod/at/xml,解析
@@ -31,7 +28,7 @@ wabc(爱奇艺直采),https://wabc.ml/mao/2.php/provide/vod/at/xml,解析
 TOM资源,https://api.tomcaiji.com/api.php/provide/vod/at/xml,解析
 快车资源,https://caiji.kczyapi.com/api.php/provide/vod/at/xml,解析
 松鼠资源,https://m3u8.songshuzy.com/api.php/provide/vod/at/xml,解析
-多多资源,https://a.7dyu.cn/api.php/provide/vod/at/xml,解析
+多多资源,https://www.ddzyz1.com/api.php/provide/vod/at/xml,解析
 OK资源,https://www.okcj.site/api/provide/vod/at/xml,解析
 猫眼资源,http://maoyanapi.com/api.php/provide/vod/at/xml,解析
 FOX资源,https://api.foxzyapi.com/api.php/provide/vod/at/xml,解析
@@ -157,6 +154,8 @@ MuX官采,https://video.muxvip.com/api.php/provide/vod/at/xml,解析
 TVB云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,解析
 LIBVIO,https://www.libvio.com/api.php/provide/vod/at/xml,解析
 蓝猫影视,http://lanmao.lanmaoymw.cn/api.php/provide/vod/at/xml,解析
+欧乐影院(VPN),https://www.olevod.tv/api.php/provide/vod/at/xml,解析
+看365,https://www.kan365.xyz/api.php/provide/vod/at/xml,解析
 皮荼熊TV,https://www.psinu.com/api.php/provide/vod/at/xml,解析
 荔枝影视,http://www.zjys.vip/api.php/provide/vod/at/xml,解析
 唐人资源,https://tangrenzyz.com/api.php/provide/vod/at/xml,解析
@@ -166,8 +165,7 @@ LIBVIO,https://www.libvio.com/api.php/provide/vod/at/xml,解析
 雪人官采,https://zl.chinafix.wang/api.php/provide/vod/at/xml,解析
 旧梦影视,https://mac.qd234.cn/api.php/provide/vod/at/xml,解析
 BL视频,https://bljiex.com/api.php/provide/vod/at/xml,解析
-欧乐影院(VPN),https://www.olevod.tv/api.php/provide/vod/at/xml,解析
-看365,https://www.kan365.xyz/api.php/provide/vod/at/xml,解析
+5X社区,https://0413.api.cdn.5api123.com/api.php,解析
 测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
 结束
 解析：
