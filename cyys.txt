@@ -36,11 +36,9 @@ OK资源,https://www.okcj.site/api/provide/vod/at/xml,解析
 猫眼资源,http://maoyanapi.com/api.php/provide/vod/at/xml,解析
 FOX资源,https://api.foxzyapi.com/api.php/provide/vod/at/xml,解析
 量子资源,http://cj.lziapi.com/api.php/provide/vod/at/xml,解析
-神速资源,https://api.sszyapi.com/api.php/provide/vod/at/xml,解析
 番茄资源,http://api.fqzy.cc/api.php/provide/vod/at/xml,解析
 卧龙资源,https://collect.wolongzyw.com/api.php/provide/vod/at/xml,解析
 红牛资源,https://www.hongniuzy2.com/api.php/provide/vod/at/xml,解析
-北斗星资源,https://m3u8.bdxzyapi.com/api.php/provide/vod/at/xml,解析
 樱花资源,https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml,解析
 想看资源,https://m3u8.xiangkanapi.com/api.php/provide/vod/at/xml,解析
 易看资源,https://api.yikanapi.com/api.php/provide/vod/at/xml,解析
@@ -137,7 +135,6 @@ VV影视,https://vvdy.org/api.php/provide/vod/at/xml,解析
 速影,https://速影128.xyz/inc/api.php,解析
 飞鱼影视,https://app.feiyu5.com/api.php/provide/vod/at/xml,解析
 飘花电影,http://www.zzrhgg.com/api.php/provide/vod/at/xml,解析
-晓峰影视,http://api.xxcr.tk/api.php/provide/vod/at/xml,解析
 千寻时光,http://wy.dqyhg.cn/api.php/provide/vod/at/xml,解析
 快看客栈,https://www.vp1127.com/api.php/provide/vod/at/xml,解析
 网民电影,https://www.prinevillesda.org/api.php/provide/vod/at/xml,解析
