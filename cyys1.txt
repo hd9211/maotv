@@ -14,6 +14,8 @@
 葡萄资源,https://api.putaozy.net/inc/api.php,解析
 色窝资源,https://sewozyapi.com/api.php/provide/vod/at/xml,解析
 淫窝资源,https://api.yinwoapi.com/api.php/provide/vod/at/xml,解析
+国色资源,https://api.guosezy.com/api.php/provide/vod/at/xml,解析
+金莲资源,https://111kkkkk.com/api.php/provide/vod/at/xml,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
 3366资源,http://www.3366zy.com/api.php/provide/vod/at/xml,解析
 大雕资源,http://www.caobi209.vip/api.php/provide/vod/at/xml,解析
@@ -59,7 +61,6 @@ AV集中淫,https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml,解析
 酷伦理,https://api.kudian70.com/api.php/provide/vod/at/xml,解析
 影库资源,https://api.ykapi.net/api.php/provide/vod/at/xml,解析
 万影色,https://wanying4.com/api.php/provide/vod/at/xml,解析
-银龙资源,https://yinlong.tv/api.php/provide/vod/at/xml,解析
 奶茶资源,https://caiji.naichaapi.com/inc/api.php,解析
 爱播资源,https://cj.apiabzy.com/api.php/provide/vod/at/xml,解析
 美少女资源,https://www.msnii.com/api/xml.php,解析
