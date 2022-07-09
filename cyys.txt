@@ -25,6 +25,8 @@ M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 金鹰资源,http://jinyingzy.com/provide/vod/at/xml,解析
 北极狐,https://www.bjhu.net/api.php/provide/vod/at/xml,解析
 蓝天资源,https://api.ltzyapi.com/api.php/provide/vod/at/xml,解析
+极客资源,https://jkzy1.com/api.php/provide/vod/at/xml,解析
+星海资源,https://www.xhzy01.com/api.php/provide/vod/at/xml,解析
 冠军资源,https://www.cmpzy.com/api.php/provide/vod/at/xml,解析
 1080资源库,https://api.1080zyku.com/inc/api.php,解析
 TOM资源,https://api.tomcaiji.com/api.php/provide/vod/at/xml,解析
