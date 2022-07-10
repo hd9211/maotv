@@ -24,7 +24,6 @@ M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 极速BT资源,https://api.jisubt.com/videoss/?at=xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
 金鹰资源,http://jinyingzy.com/provide/vod/at/xml,解析
-北极狐,https://www.bjhu.net/api.php/provide/vod/at/xml,解析
 蓝天资源,https://api.ltzyapi.com/api.php/provide/vod/at/xml,解析
 极客资源,https://jkzy1.com/api.php/provide/vod/at/xml,解析
 星海资源,https://www.xhzy01.com/api.php/provide/vod/at/xml,解析
@@ -42,7 +41,6 @@ FOX资源,https://api.foxzyapi.com/api.php/provide/vod/at/xml,解析
 卧龙资源,https://collect.wolongzyw.com/api.php/provide/vod/at/xml,解析
 红牛资源,https://www.hongniuzy2.com/api.php/provide/vod/at/xml,解析
 樱花资源,https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml,解析
-想看资源,https://m3u8.xiangkanapi.com/api.php/provide/vod/at/xml,解析
 易看资源,https://api.yikanapi.com/api.php/provide/vod/at/xml,解析
 酷点资源,https://kudianzy.com/api.php/provide/vod/at/xml,解析
 速更资源,https://sugengzy.cn/api.php/provide/vod/at/xml,解析
