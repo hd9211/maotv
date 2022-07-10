@@ -8,6 +8,7 @@
 天堂资源,http://vipmv.cc/api.php/provide/vod/at/xml,解析
 M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 搬运工资源,https://cj.banyung.xyz:7788?at=xml,解析
+麒麟资源,https://www.qilinzyz.com/api.php/provide/vod/at/xml,解析
 八戒官采,https://www.bajiezy.xyz/api.php/provide/vod/at/xml,解析
 土狗2345,http://2345.tgzy.cc/api.php/provide/vod/at/xml,解析
 土狗360,http://360.tgzy.cc/api.php/provide/vod/at/xml,解析
