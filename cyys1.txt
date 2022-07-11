@@ -3,12 +3,13 @@
 丝袜资源,https://siwazyw.cc/api.php/provide/vod/at/xml,解析
 芒果资源,https://mgzyz1.com/api.php/provide/vod/at/xml,解析
 乐鱼资源,https://www.leyuzyapi.com/inc/api.php,解析
-水蜜桃,https://51smt7.xyz/api.php/provide/vod/at/xml,解析
+水蜜桃,水蜜桃,https://smt999.cc/api.php/provide/vod/at/xml,解析
 三级片资源,https://caiji.jjjzy.cc/inc/api.php,解析
 秀色资源,https://api.xiuseapi.com/api.php/provide/vod/at/xml,解析
 探探资源,https://apittzy.com/api.php/provide/vod/at/xml,解析
 色猫资源,https://api.maozyapi.com/inc/api.php,解析
 草莓资源,https://caiji.caomeiapi.com/inc/api.php,解析
+草莓2,http://192.154.101.146:8888/inc/api.php,解析
 爱看资源,http://www.aikanzyz9.com/inc/api.php,解析
 花魁资源,https://caiji.huakuiapi.com/inc/api.php,解析
 葡萄资源,https://api.putaozy.net/inc/api.php,解析
@@ -17,6 +18,9 @@
 国色资源,https://api.guosezy.com/api.php/provide/vod/at/xml,解析
 金莲资源,https://111kkkkk.com/api.php/provide/vod/at/xml,解析
 皇冠资源,https://hghhh.com/api.php/provide/vod/at/xml,解析
+热巴资源,http://reba.aishunxs.com/api.php/provide/vod/at/xml,解析
+狼友资源,https://www.langyouzy.com/api.php/provide/vod/at/xml,解析
+色南国资源,https://api.sexnguon.com/api.php/provide/vod/at/xml,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
 3366资源,http://www.3366zy.com/api.php/provide/vod/at/xml,解析
 大雕资源,http://www.caobi209.vip/api.php/provide/vod/at/xml,解析
