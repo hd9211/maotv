@@ -3,7 +3,7 @@
 丝袜资源,https://siwazyw.cc/api.php/provide/vod/at/xml,解析
 芒果资源,https://mgzyz1.com/api.php/provide/vod/at/xml,解析
 乐鱼资源,https://www.leyuzyapi.com/inc/api.php,解析
-水蜜桃,水蜜桃,https://smt999.cc/api.php/provide/vod/at/xml,解析
+水蜜桃,https://smt999.cc/api.php/provide/vod/at/xml,解析
 三级片资源,https://caiji.jjjzy.cc/inc/api.php,解析
 秀色资源,https://api.xiuseapi.com/api.php/provide/vod/at/xml,解析
 探探资源,https://apittzy.com/api.php/provide/vod/at/xml,解析
@@ -20,6 +20,8 @@
 皇冠资源,https://hghhh.com/api.php/provide/vod/at/xml,解析
 热巴资源,http://reba.aishunxs.com/api.php/provide/vod/at/xml,解析
 狼友资源,https://www.langyouzy.com/api.php/provide/vod/at/xml,解析
+莓果资源,https://mguovip8.com/api.php/provide/vod/at/xml,解析
+香蕉影视,https://ea111.cc/api.php/provide/vod/at/xml,解析
 色南国资源,https://api.sexnguon.com/api.php/provide/vod/at/xml,解析
 4000资源,https://www.4000zy.com/inc/api.php,解析
 3366资源,http://www.3366zy.com/api.php/provide/vod/at/xml,解析
@@ -47,6 +49,7 @@ AV集中淫,https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml,解析
 久久热在线,https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml,解析
 青青草视频,https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml,解析
 麻豆视频,https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml,解析
+蛋蛋视频,https://156.249.29.8/inc/api.php,解析
 一本道资源,https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml,解析
 草榴视频,https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml,解析
 亚洲成人在线,https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml,解析
