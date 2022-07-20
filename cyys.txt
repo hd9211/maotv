@@ -54,6 +54,7 @@ FOX资源,https://api.foxzyapi.com/api.php/provide/vod/at/xml,解析
 无尽资源,https://api.wujinapi.net/api.php/provide/vod/at/xml,解析
 天空资源,https://api.tiankongapi.com/api.php/provide/vod/at/xml,解析
 乐多资源,http://cj.leduocaiji.com/inc/api.php,解析
+OK资源,http://125.62.68.228/inc/api.php,解析
 FF9资源,https://www.ff9.top/api.php/provide/vod/at/xml,解析
 OK资源,http://125.62.68.228/inc/api.php,解析
 南国影源,http://api.nguonphim.tv/api.php/provide/vod/at/xml,解析
@@ -94,6 +95,7 @@ OmoFun,https://app.omofun.net/api.php/provide/vod/at/xml,解析
 氢视频,http://www.h1080p.com/api.php/provide/vod/at/xml,解析
 雨哥哥影视,http://cj.baozi66.top:66/api.php/provide/vod/at/xml,解析
 天天影视,http://tt2022.ga/api.php/provide/vod/at/xml,解析
+天天影视,http://tttv.cf/api.php/provide/vod/at/xml,解析
 盘看看,http://tvcaiji.pankk.cn/api.php/provide/vod/at/xml,解析
 迪吧,https://www.d8bi.cn/api.php/provide/vod/at/xml,解析
 CV影视,https://www.cccvvv.top/api.php/provide/vod/at/xml,解析
