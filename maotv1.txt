@@ -396,6 +396,7 @@
 {"key":"思古切片","name":"思古切片","type":1,"api":"https://cai.gbxy.net.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"Mux切片","name":"Mux切片","type":1,"api":"https://muxnb.muxvip.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"MuX2","name":"MuX2","type":1,"api":"https://video.muxvip.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"荣耀切片","name":"荣耀切片","type":1,"api":"http://lmvideos.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"土剧TV","name":"土剧TV","type":1,"api":"http://tujutv.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"XYUI","name":"XYUI","type":1,"api":"http://jx4.xyui.top:7001/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"ASMR","name":"ASMR","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
