@@ -73,6 +73,7 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 思古切片,https://cai.gbxy.net.cn/api.php/provide/vod/at/xml,解析
 Mux切片,https://muxnb.muxvip.com/api.php/provide/vod/at/xml,解析
 MuX2,https://video.muxvip.com/api.php/provide/vod/at/xml,解析
+荣耀切片,http://lmvideos.cn/api.php/provide/vod/at/xml,解析
 土剧TV,http://tujutv.top/api.php/provide/vod/at/xml,解析
 XYUI,http://jx4.xyui.top:7001/api.php/provide/vod/at/xml,解析
 ASMR,http://www.asmr19.in/api.php/provide/vod/at/xml,解析
