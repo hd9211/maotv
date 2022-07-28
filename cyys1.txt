@@ -89,6 +89,7 @@ AVZY898资源,http://avzy898.com/inc/api.php,解析
 字幕网,http://zmcj88.com/sapi,解析
 利来资源,http://llzxcj.com/inc/sck.php,解析
 佳丽资源,http://www.jializyzapi.com/api.php/provide/vod/at/xml,解析
+香蕉资源(佳丽),https://xjzyapi.com/api.php/provide/vod/at/xml,解析
 番号资源,http://fhapi9.com/api.php/provide/vod/at/xml,解析
 鲨鱼资源,https://shayuapi.com/api.php/provide/vod/at/xml,解析
 速度资源,http://www.ggmmzy.com:9999/inc/xml,解析
