@@ -556,6 +556,7 @@
 {"key":"字幕网","name":"字幕网","type":0,"api":"http://zmcj88.com/sapi","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"利来资源","name":"利来资源","type":0,"api":"http://llzxcj.com/inc/sck.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"佳丽资源","name":"佳丽资源","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"香蕉资源(佳丽)","name":"香蕉资源(佳丽)","type":1,"api":"https://xjzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"番号资源","name":"番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"鲨鱼资源","name":"鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"速度资源","name":"速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","searchable":1,"quickSearch":1},
