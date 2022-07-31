@@ -487,6 +487,7 @@
 {"key":"皇冠资源","name":"皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"热巴资源","name":"热巴资源","type":1,"api":"http://reba.aishunxs.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"狼友资源","name":"狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"鸡霸资源","name":"鸡霸资源","type":1,"api":"https://api.jibaapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"香蕉视频","name":"香蕉视频","type":1,"api":"https://ea111.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"色南国资源","name":"色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"4000资源","name":"4000资源","type":1,"api":"http://4000zy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
