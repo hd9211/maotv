@@ -20,6 +20,7 @@
 皇冠资源,https://hghhh.com/api.php/provide/vod/at/xml,解析
 热巴资源,http://reba.aishunxs.com/api.php/provide/vod/at/xml,解析
 狼友资源,https://www.langyouzy.com/api.php/provide/vod/at/xml,解析
+鸡霸资源,https://api.jibaapi.cc/api.php/provide/vod/at/xml,解析
 香蕉视频,https://ea111.cc/api.php/provide/vod/at/xml,解析
 色南国资源,https://api.sexnguon.com/api.php/provide/vod/at/xml,解析
 4000资源,http://4000zy.com/api.php/provide/vod/at/xml,解析
