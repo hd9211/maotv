@@ -5,6 +5,8 @@
 优酷,http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml,解析
 江湖官采,http://119.29.1.173/api.php/provide/vod/at/xml,解析
 6U资源,http://www.6uzy.cc/inc/api.php,解析
+298资源,http://cj.ioivip.xyz/api.php/provide/vod/at/xml,解析
+8090资源,http://zy.yilans.net:8090/api.php/provide/vod/at/xml,解析
 天堂资源,http://vipmv.cc/api.php/provide/vod/at/xml,解析
 M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 八戒官采,https://www.bajiezy.xyz/api.php/provide/vod/at/xml,解析
@@ -12,13 +14,15 @@ M3U8.TV资源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 土狗360,http://360.tgzy.cc/api.php/provide/vod/at/xml,解析
 诺讯资源,http://caiji.nxflv.com/api.php/provide/vod/at/xml,解析
 艾克资源,https://ikcss.cn/api.php/provide/vod/at/xml,解析
-devclh资源,http://zl.devclh.top/api.php/provide/vod/at/xml,解析
-极狐官采,http://82.156.186.35:5678/api.php/provide/vod/at/xml,解析
+人人迷官采,https://zy.renrenmi.cc/api.php/provide/vod/at/xml,解析
+搬运工,https://cj.banyung.xyz:7799/?at=xml,解析
 忆梦,http://anltv.cn/api.php/provide/vod/at/xml,解析
 木子看剧,https://mzkj.maccms.cf/api.php/provide/vod/at/xml,解析
 小猫咪,http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml,解析
 绝影,https://106.12.153.187/api.php/provide/vod/at/xml,解析
-阿远采集,https://www.cjzy.xyz:8888/api.php/provide/vod/at/xml,解析
+江南资源,https://api.yjiexi.com/provide/xml.html,解析
+千橙资源,http://124.223.10.96:8090/api.php/provide/vod/at/xml,解析
+乐檬官采,http://api.lmlemon.com/api/viode,解析
 极速BT资源,https://api.jisubt.com/videos/?at=xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
 金鹰资源,http://jinyingzy.com/provide/vod/at/xml,解析
@@ -26,6 +30,7 @@ devclh资源,http://zl.devclh.top/api.php/provide/vod/at/xml,解析
 极客资源,https://jkzy1.com/api.php/provide/vod/from/zkzym3u8/?at=xml,解析
 星海资源,https://www.xhzy01.com/api.php/provide/vod/at/xml,解析
 冠军资源,https://www.cmpzy.com/api.php/provide/vod/at/xml,解析
+42资源,https://www.42.la/api.php/provide/vod/at/xml,解析
 1080资源库,https://api.1080zyku.com/inc/api.php,解析
 TOM资源,https://api.tomcaiji.com/api.php/provide/vod/at/xml,解析
 快车资源,https://caiji.kczyapi.com/api.php/provide/vod/at/xml,解析
@@ -54,9 +59,9 @@ FOX资源,https://api.foxzyapi.com/api.php/provide/vod/at/xml,解析
 无尽资源,https://api.wujinapi.net/api.php/provide/vod/at/xml,解析
 天空资源,https://api.tiankongapi.com/api.php/provide/vod/at/xml,解析
 乐多资源,http://cj.leduocaiji.com/inc/api.php,解析
+天翼资源,https://www.911ysw.top/tianyi.php/provide/vod/at/xml,解析
 OK资源,http://125.62.68.228/inc/api.php,解析
 FF9资源,https://www.ff9.top/api.php/provide/vod/at/xml,解析
-OK资源,http://125.62.68.228/inc/api.php,解析
 南国影源,http://api.nguonphim.tv/api.php/provide/vod/at/xml,解析
 看看资源,https://zy.hikan.xyz/api.php/provide/vod/at/xml,解析
 U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
@@ -65,6 +70,7 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 789盘,https://www.rrvipw.com/api.php/provide/vod/at/xml,解析
 爱酷影视,https://www.zhanlangbu.com/api.php/provide/vod/at/xml,解析
 旋风云,http://appimg.ssxmall.cn/api.php/provide/vod/at/xml,解析
+人人迷蓝光,https://koko.renrenmi.cc/api.php/provide/vod/at/xml,解析
 龙腾资源,http://175.178.7.35:2020/api.php/provide/vod/at/xml,解析
 奈菲迷,https://app.netflixmi.com/api.php/provide/vod/at/xml,解析
 鸭奈飞,http://newtv.yanaifei.cn/api.php/provide/vod/at/xml,解析
@@ -95,6 +101,8 @@ OmoFun,https://app.omofun.net/api.php/provide/vod/at/xml,解析
 瞬间影视,http://app.7en7.com/api.php/provide/vod/at/xml,解析
 氢视频,http://www.h1080p.com/api.php/provide/vod/at/xml,解析
 雨哥哥影视,http://cj.baozi66.top:66/api.php/provide/vod/at/xml,解析
+干饭影视,http://124.220.183.81:83/api.php/provide/vod/at/xml,解析
+票厂影视,http://101.43.119.105/api.php/provide/vod/at/xml,解析
 天天影视,http://tt2022.ga/api.php/provide/vod/at/xml,解析
 天天影视,http://tttv.cf/api.php/provide/vod/at/xml,解析
 盘看看,http://tvcaiji.pankk.cn/api.php/provide/vod/at/xml,解析
@@ -141,10 +149,8 @@ MBO影视,https://www.mbomovie.com/api.php/provide/vod/at/xml/,解析
 海外电影,https://www.200121.com/api.php/provide/vod/at/xml,解析
 椰子资源,https://zy.gbxy.net.cn/api.php/provide/vod/at/xml,解析
 麒麟资源,https://www.qilinzyz.com/api.php/provide/vod/at/xml,解析
-8090资源,http://zy.yilans.net:8090/api.php/provide/vod/at/xml,解析
-江北资源,https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml,解析
-人人迷蓝光,https://koko.renrenmi.cc/api.php/provide/vod/at/xml,解析
-开放云(X5),https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?ac=list,解析
+devclh资源,http://zl.devclh.top/api.php/provide/vod/at/xml,解析
+开放云(X5),https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?at=xml,解析
 英皇官采,http://api.travelbooking.cc/xml,解析
 BL视频,https://bljiex.com/api.php/provide/vod/at/xml,解析
 测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
