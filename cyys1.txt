@@ -5,7 +5,7 @@
 乐鱼资源,https://www.leyuzyapi.com/inc/api.php,解析
 水蜜桃,https://smt999.cc/api.php/provide/vod/at/xml,解析
 三级片资源,https://caiji.jjjzy.cc/inc/api.php,解析
-秀色资源,https://api.xiuseapi.com/api.php/provide/vod/at/xml,解析
+花色资源,https://api.huasezy.xyz/api.php/provide/vod/at/xml,解析
 探探资源,https://apittzy.com/api.php/provide/vod/at/xml,解析
 色猫资源,https://api.maozyapi.com/inc/api.php,解析
 草莓资源,https://caiji.caomeiapi.com/inc/api.php,解析
