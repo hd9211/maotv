@@ -336,7 +336,6 @@
 {"key":"人人迷官采","name":"人人迷官采","type":1,"api":"https://zy.renrenmi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"搬运工","name":"搬运工","type":1,"api":"https://cj.banyung.xyz:7799/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"云海资源","name":"云海资源","type":1,"api":"http://101.34.7.151:600/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"椰子资源","name":"椰子资源","type":1,"api":"http://lb.gbxy.net.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"忆梦","name":"忆梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"木子看剧","name":"木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"绝影","name":"绝影","type":1,"api":"https://106.12.153.187/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -471,6 +470,7 @@
 {"key":"三级片资源","name":"三级片资源","type":1,"api":"https://caiji.jjjzy.cc/inc/apijson_vod.php","playUrl":"https://jiexi.jjjzy.cc/?url=","searchable":1,"quickSearch":1},
 {"key":"花色资源","name":"花色资源","type":1,"api":"https://api.huasezy.xyz/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"探探资源","name":"探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/?ac=list","playUrl":"https://jiexi.ttbfp1.com/m3u8/?url=","searchable":1,"quickSearch":1},
+{"key":"秀色资源","name":"秀色资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"色猫资源","name":"色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","playUrl":"https://api.maozyapi.com/m3u8/?url=","searchable":1,"quickSearch":1},
 {"key":"草莓资源","name":"草莓资源","type":1,"api":"https://caiji.caomeiapi.com/inc/apijson_vod.php","playUrl":"https://jiexi.caomeiapi.com/?url=","searchable":1,"quickSearch":1},
 {"key":"草莓2","name":"草莓2","type":0,"api":"http://192.154.101.146:8888/inc/api.php","playUrl":"","searchable":1,"quickSearch":1},
@@ -540,7 +540,6 @@
 {"key":"CK资源","name":"CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"老鸭资源","name":"老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"老鸭TV","name":"老鸭TV","type":1,"api":"https://laoyatv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"花椒资源","name":"花椒资源","type":1,"api":"https://apihjzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"辣椒资源","name":"辣椒资源","type":1,"api":"https://apilj.com/api.php/provide/vod/at/json/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"乐播资源","name":"乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"博天堂","name":"博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","playUrl":"","searchable":1,"quickSearch":1},
@@ -563,6 +562,7 @@
 {"key":"61783","name":"61783","type":1,"api":"https://61783.xyz/api.php/provide/art/","playUrl":"","searchable":1,"quickSearch":1},
 
 {"key":"椰子资源","name":"椰子资源","type":1,"api":"https://zy.gbxy.net.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"椰子资源","name":"椰子资源","type":1,"api":"http://lb.gbxy.net.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"麒麟资源","name":"麒麟资源","type":1,"api":"https://www.qilinzyz.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"开放云(X5)","name":"开放云(X5)","type":1,"api":"https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?ac=list","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"英皇官采","name":"英皇官采","type":0,"api":"http://api.travelbooking.cc/xml","playUrl":"","searchable":1,"quickSearch":1},
@@ -576,6 +576,7 @@
 {"key":"奈菲迷","name":"奈菲迷","type":1,"api":"https://app.netflixmi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"鸭奈飞","name":"鸭奈飞","type":1,"api":"http://newtv.yanaifei.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"龙腾资源","name":"龙腾资源","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"花椒资源","name":"花椒资源","type":1,"api":"https://apihjzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"测试","name":"测试","type":1,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 #
