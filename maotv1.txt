@@ -336,7 +336,6 @@
 {"key":"人人迷官采","name":"人人迷官采","type":1,"api":"https://zy.renrenmi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"搬运工","name":"搬运工","type":1,"api":"https://cj.banyung.xyz:7799/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"云海资源","name":"云海资源","type":1,"api":"http://101.34.7.151:600/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"椰子资源","name":"椰子资源","type":1,"api":"http://lb.gbxy.net.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"忆梦","name":"忆梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"木子看剧","name":"木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"绝影","name":"绝影","type":1,"api":"https://106.12.153.187/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -464,6 +463,7 @@
 
 
 {"key":"椰子资源","name":"椰子资源","type":1,"api":"https://zy.gbxy.net.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"椰子资源","name":"椰子资源","type":1,"api":"http://lb.gbxy.net.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"麒麟资源","name":"麒麟资源","type":1,"api":"https://www.qilinzyz.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"开放云(X5)","name":"开放云(X5)","type":1,"api":"https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?ac=list","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"英皇官采","name":"英皇官采","type":0,"api":"http://api.travelbooking.cc/xml","playUrl":"","searchable":1,"quickSearch":1},
