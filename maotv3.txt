@@ -488,6 +488,7 @@
 {"key":"香蕉视频","name":"香蕉视频","type":1,"api":"https://ea111.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"雪豹资源","name":"雪豹资源","type":1,"api":"https://api.xbapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"牡丹资源","name":"牡丹资源","type":1,"api":"https://zyw.mudan01.online/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"森林资源","name":"森林资源","type":1,"api":"https://slapibf.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"色南国资源","name":"色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"4000资源","name":"4000资源","type":1,"api":"http://4000zy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"3366资源","name":"3366资源","type":1,"api":"http://www.3366zy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
