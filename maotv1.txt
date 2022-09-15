@@ -374,6 +374,7 @@
 {"key":"松鼠资源","name":"松鼠资源","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"OK资源","name":"OK资源","type":1,"api":"https://www.okcj.site/api/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"大眼资源","name":"大眼资源","type":1,"api":"http://api.dyzy888.com/api/maccms/json/m3u8","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"FOX资源","name":"FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"番茄资源","name":"番茄资源","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","playUrl":"https://dp.fqplayer.com/dplayer/?url=","searchable":1,"quickSearch":1},
@@ -481,6 +482,7 @@
 {"key":"鸭奈飞","name":"鸭奈飞","type":1,"api":"http://106.13.199.87:4433/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"人人迷蓝光","name":"人人迷蓝光","type":1,"api":"https://koko.renrenmi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"龙腾资源","name":"龙腾资源","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"花椒资源","name":"花椒资源","type":1,"api":"https://apihjzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"测试","name":"测试","type":1,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 #
