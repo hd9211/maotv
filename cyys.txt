@@ -53,6 +53,7 @@ TOM资源,https://api.tomcaiji.com/api.php/provide/vod/at/xml,解析
 松鼠资源,https://m3u8.songshuzy.com/api.php/provide/vod/at/xml,解析
 多多资源,https://www.ddzyz1.com/api.php/provide/vod/at/xml,解析
 OK资源,https://www.okcj.site/api/provide/vod/at/xml,解析
+大眼资源,http://api.dyzy888.com/api/maccms/xml/m3u8,解析
 FOX资源,https://api.foxzyapi.com/api.php/provide/vod/at/xml,解析
 量子资源,http://cj.lziapi.com/api.php/provide/vod/at/xml,解析
 番茄资源,http://api.fqzy.cc/api.php/provide/vod/at/xml,解析
