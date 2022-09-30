@@ -1,5 +1,6 @@
 点播：
 523资源,https://caiji.523zyw.com/inc/api.php,解析
+155资源,https://155api.com/api.php/provide/vod/at/xml,解析
 丝袜资源,https://siwazyw.cc/api.php/provide/vod/at/xml,解析
 芒果资源,https://mgzyz1.com/api.php/provide/vod/at/xml,解析
 乐鱼资源,https://www.leyuzyapi.com/inc/api.php,解析
