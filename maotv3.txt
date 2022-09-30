@@ -427,6 +427,7 @@
 
 
 {"key":"523资源","name":"523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","playUrl":"https://api.523zyw.com/?url=","searchable":1,"quickSearch":1},
+{"key":"155资源","name":"155资源","type":1,"api":"https://155api.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"丝袜资源","name":"丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","playUrl":"https://help.siwazywcdn2.com:5278/m3u8.php?url=","searchable":1,"quickSearch":1},
 {"key":"芒果资源","name":"芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","playUrl":"https://mgm3u8-player.com/player/DPm3u8.php?url=","searchable":1,"quickSearch":1},
 {"key":"乐鱼资源","name":"乐鱼资源","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","playUrl":"https://player.leyuzy.net/?url=","searchable":1,"quickSearch":1},
