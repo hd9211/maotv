@@ -336,6 +336,7 @@
 {"key":"江南资源","name":"江南资源","type":0,"api":"https://api.yjiexi.com/provide/xml.html","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"千橙资源","name":"千橙资源","type":1,"api":"http://124.223.10.96:8090/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"云海资源","name":"云海资源","type":1,"api":"http://101.34.7.151:600/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"融兴官采","name":"融兴官采","type":1,"api":"http://103.222.188.156:99/rongxingapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
