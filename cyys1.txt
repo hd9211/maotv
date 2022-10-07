@@ -26,6 +26,7 @@
 香蕉视频,https://ea111.cc/api.php/provide/vod/at/xml,解析
 雪豹资源,https://api.xbapi.cc/api.php/provide/vod/at/xml,解析
 森林资源,https://slapibf.com/api.php/provide/vod/at/xml,解析
+奥斯卡资源,https://aosikazy.com/api.php/provide/vod/at/xml,解析
 骚包视频,http://fekln.com/api.php/provide/vod/at/xml,解析
 色南国资源,https://api.sexnguon.com/api.php/provide/vod/at/xml,解析
 3366资源,http://www.3366zy.com/api.php/provide/vod/at/xml,解析
