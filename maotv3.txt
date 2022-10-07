@@ -336,6 +336,7 @@
 {"key":"江南资源","name":"江南资源","type":0,"api":"https://api.yjiexi.com/provide/xml.html","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"千橙资源","name":"千橙资源","type":1,"api":"http://124.223.10.96:8090/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"云海资源","name":"云海资源","type":1,"api":"http://101.34.7.151:600/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"融兴官采","name":"融兴官采","type":1,"api":"http://103.222.188.156:99/rongxingapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -453,6 +454,7 @@
 {"key":"香蕉视频","name":"香蕉视频","type":1,"api":"https://ea111.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"雪豹资源","name":"雪豹资源","type":1,"api":"https://api.xbapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"森林资源","name":"森林资源","type":1,"api":"https://slapibf.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"奥斯卡资源","name":"奥斯卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"骚包视频","name":"骚包视频","type":1,"api":"http://fekln.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"色南国资源","name":"色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"3366资源","name":"3366资源","type":1,"api":"http://www.3366zy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
