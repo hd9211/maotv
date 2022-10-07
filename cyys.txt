@@ -19,6 +19,7 @@
 江南资源,https://api.yjiexi.com/provide/xml.html,解析
 千橙资源,http://124.223.10.96:8090/api.php/provide/vod/at/xml,解析
 云海资源,http://101.34.7.151:600/api.php/provide/vod/at/xml,解析
+融兴官采,http://103.222.188.156:99/rongxingapi.php/provide/vod/at/xml,解析
 U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 淘片资源,https://taopianapi.com/home/cjapi/as/mc10/vod/xml,解析
 一帆资源(VPN),http://api.if101.tv/v1/vod?ac=list,解析
