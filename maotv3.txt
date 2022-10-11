@@ -358,6 +358,7 @@
 {"key":"极速BT资源","name":"极速BT资源","type":1,"api":"https://api.jisubt.com/videos","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"步步高资源","name":"步步高资源","type":1,"api":"https://api.yparse.com/api/json","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"TIMI资源","name":"TIMI资源","type":1,"api":"http://api.timizy.top:1005/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"极客资源","name":"极客资源","type":1,"api":"https://jkzy1.com/api.php/provide/vod/from/zkzym3u8/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"星海资源","name":"星海资源","type":1,"api":"https://www.xhzy01.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"冠军资源","name":"冠军资源","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
