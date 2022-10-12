@@ -1,0 +1,116 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "1号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=1"
+        },
+         {
+            "sourceName": "2号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=2"
+        },
+        {
+            "sourceName": "3号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=3"
+        },
+        {
+            "sourceName": "4号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=4"
+        },
+        {
+            "sourceName": "5号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=5"
+        },
+        {
+            "sourceName": "6号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=6"
+        },
+         {
+            "sourceName": "7号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=7"
+        },
+        {
+            "sourceName": "8号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=8"
+        },
+        {
+            "sourceName": "9号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=9"
+        },
+        {
+            "sourceName": "10号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=10"
+        },
+        {
+            "sourceName": "11号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=11"
+        },
+         {
+            "sourceName": "12号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=12"
+        },
+        {
+            "sourceName": "13号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=13"
+        },
+        {
+            "sourceName": "14号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=14"
+        },
+        {
+            "sourceName": "15号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=15"
+        },
+        {
+            "sourceName": "16号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=16"
+        },
+         {
+            "sourceName": "17号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=17"
+        },
+        {
+            "sourceName": "18号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=18"
+        },
+        {
+            "sourceName": "19号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=19"
+        },
+        {
+            "sourceName": "20号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=20"
+        },
+        {
+            "sourceName": "21号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=21"
+        },
+         {
+            "sourceName": "22号仓库",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=22"
+        },
+        {
+            "sourceName": "派大星多仓库1号",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=50"
+        },
+        {
+            "sourceName": "派大星多仓库2号",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=51"
+        },
+        {
+            "sourceName": "派大星多仓库3号",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=52"
+        },
+         {
+            "sourceName": "派大星多仓库1号备用",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=53"
+        },
+        {
+            "sourceName": "派大星多仓库2号备用",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=54"
+        },
+        {
+            "sourceName": "派大星多仓库3号备用",
+            "sourceUrl": "http://5.nxog.top/m/api.php?id=55"
+        }      
+    ]
+}
