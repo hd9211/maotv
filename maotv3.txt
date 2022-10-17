@@ -455,6 +455,7 @@
 {"key":"香蕉视频","name":"香蕉视频","type":1,"api":"https://ea111.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"雪豹资源","name":"雪豹资源","type":1,"api":"https://api.xbapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"森林资源","name":"森林资源","type":1,"api":"https://slapibf.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"玉兔资源","name":"玉兔资源","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"奥斯卡资源","name":"奥斯卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"骚包视频","name":"骚包视频","type":1,"api":"http://fekln.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"色南国资源","name":"色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
