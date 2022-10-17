@@ -125,6 +125,7 @@
 影视[香蕉视频,https://ea111.cc/api.php/provide/vod/at/xml,解析]
 影视[雪豹资源,https://api.xbapi.cc/api.php/provide/vod/at/xml,解析]
 影视[森林资源,https://slapibf.com/api.php/provide/vod/at/xml,解析]
+影视[玉兔资源,https://apiyutu.com/api.php/provide/vod/at/xml,解析]
 影视[奥斯卡资源,https://aosikazy.com/api.php/provide/vod/at/xml,解析]
 影视[骚包视频,http://fekln.com/api.php/provide/vod/at/xml,解析]
 影视[色南国资源,https://api.sexnguon.com/api.php/provide/vod/at/xml,解析]
