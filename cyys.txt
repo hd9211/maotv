@@ -5,17 +5,11 @@
 优酷,http://zy.yilans.net/api.php/provide/vod/from/youku/at/xml,解析
 江湖官采,http://119.29.1.173/api.php/provide/vod/at/xml,解析
 6U资源,http://www.6uzy.cc/inc/api.php,解析
-298资源,http://cj.ioivip.xyz/api.php/provide/vod/at/xml,解析
 555资源,https://www.555ziyuan.com:555/api.php/provide/vod/at/xml,解析
 天堂资源,http://vipmv.cc/api.php/provide/vod/at/xml,解析
-土狗2345,http://2345.tgzy.cc/api.php/provide/vod/at/xml,解析
-土狗360,http://360.tgzy.cc/api.php/provide/vod/at/xml,解析
-诺讯资源,http://caiji.nxflv.com/api.php/provide/vod/at/xml,解析
 搬运工,https://cj.banyung.xyz/?at=xml,解析
 小猫咪,http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml,解析
-北雁资源,https://zy.beiyan.cc:4433/api.php/provide/vod/at/xml,解析
 忆梦,http://anltv.cn/api.php/provide/vod/at/xml,解析
-绝影,https://106.12.153.187/api.php/provide/vod/at/xml,解析
 江南资源,https://api.yjiexi.com/provide/xml.html,解析
 千橙资源,http://124.223.10.96:8090/api.php/provide/vod/at/xml,解析
 云海资源,http://101.34.7.151:600/api.php/provide/vod/at/xml,解析
@@ -38,6 +32,7 @@ ACG动漫,https://acgcn.ml/api.php/provide/vod/at/xml,解析
 极速BT资源,https://api.jisubt.com/videos?at=xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
 金鹰资源,https://jyzyapi.com/provide/vod/at/xml,解析
+ikun资源,https://ikunzyapi.com/api.php/provide/vod/at/xml,解析
 极客资源,https://jkzy1.com/api.php/provide/vod/from/zkzym3u8?at=xml,解析
 星海资源,https://www.xhzy01.com/api.php/provide/vod/at/xml,解析
 冠军资源,https://www.cmpzy.com/api.php/provide/vod/at/xml,解析
