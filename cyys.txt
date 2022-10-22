@@ -23,12 +23,11 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 土剧TV,http://tujutv.top/api.php/provide/vod/at/xml,解析
 ASMR,http://www.asmr19.in/api.php/provide/vod/at/xml,解析
 考拉TV,https://ikaola.tv/api.php/provide/vod/at/xml,解析
-波比影视,http://xxhhsc.top/api.php/provide/vod/at/xml,解析
-段友影视,https://shangjihuoke.com/api.php/provide/vod/at/xml,解析
 映迷,https://www.inmi.app/api.php/provide/vod/at/xml,解析
 思古影院,https://www.siguyy.com/api.php/provide/vod/at/xml,解析
 乐活影视,https://lehootv.com/api.php/provide/vod/at/xml,解析
 ACG动漫,https://acgcn.ml/api.php/provide/vod/at/xml,解析
+追剧达人,http://zjdr.tv/api.php/provide/vod/at/xml,解析
 极速BT资源,https://api.jisubt.com/videos?at=xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
 金鹰资源,https://jyzyapi.com/provide/vod/at/xml,解析
