@@ -28,7 +28,6 @@
 森林资源,https://slapibf.com/api.php/provide/vod/at/xml,解析
 玉兔资源,https://apiyutu.com/api.php/provide/vod/at/xml,解析
 奥斯卡资源,https://aosikazy.com/api.php/provide/vod/at/xml,解析
-骚包视频,http://fekln.com/api.php/provide/vod/at/xml,解析
 色南国资源,https://api.sexnguon.com/api.php/provide/vod/at/xml,解析
 3366资源,http://www.3366zy.com/api.php/provide/vod/at/xml,解析
 色屌丝资源,http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml,解析
@@ -58,7 +57,7 @@ AV集中淫,https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml,解析
 010爱资源,http://www.010aizy.com/API/macs.php,解析
 抖阴视频,https://www.888dav.com/api.php/provide/vod/at/xml,解析
 麻豆视频,http://www.madouse.la/api.php/provide/vod/at/xml,解析
-蛋蛋视频,https://156.249.29.8/inc/api.php,解析
+蛋蛋视频,http://156.249.29.8/inc/api.php,解析
 91麻豆,https://91md.me/api.php/provide/vod/at/xml,解析
 浪潮资源,http://langchaozy11.com/api.php/provide/vod/at/xml,解析
 酷豆资源,https://kudouzy.com/api.php/provide/vod/at/xml,解析
