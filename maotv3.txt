@@ -357,6 +357,8 @@
 
 
 {"key":"极速BT资源","name":"极速BT资源","type":1,"api":"https://api.jisubt.com/videos","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"最大资源","name":"最大资源","type":1,"api":"http://zuidazy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"快竞技资源","name":"快竞技资源","type":1,"api":"https://api.kjjapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"步步高资源","name":"步步高资源","type":1,"api":"https://api.yparse.com/api/json","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"ikun资源","name":"ikun资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -460,6 +462,7 @@
 {"key":"森林资源","name":"森林资源","type":1,"api":"https://slapibf.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"玉兔资源","name":"玉兔资源","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"玉蝴蝶资源","name":"玉蝴蝶资源","type":1,"api":"https://jindiezy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"黄色资源","name":"黄色资源","type":1,"api":"https://hszy.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"奥斯卡资源","name":"奥斯卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"色南国资源","name":"色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"3366资源","name":"3366资源","type":1,"api":"http://www.3366zy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
