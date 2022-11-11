@@ -38,6 +38,8 @@ OmoFun,https://app.omofun.net/api.php/provide/vod/at/xml,解析
 木子看剧,https://mzkj.maccms.cf/api.php/provide/vod/at/xml,解析
 ##
 极速BT资源,https://api.jisubt.com/videos?at=xml,解析
+最大资源,http://zuidazy.me/api.php/provide/vod/at/xml,解析
+快竞技资源,https://api.kjjapi.com/api.php/provide/vod/at/xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
 金鹰资源,https://jyzyapi.com/provide/vod/at/xml,解析
 ikun资源,https://ikunzyapi.com/api.php/provide/vod/at/xml,解析
