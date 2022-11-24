@@ -367,6 +367,7 @@
 {"key":"冠军资源","name":"冠军资源","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"42资源","name":"42资源","type":1,"api":"https://www.42.la/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"阳光资源","name":"阳光资源","type":1,"api":"https://xxzy.org/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"非凡资源","name":"非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"蘑菇资源","name":"蘑菇资源","type":1,"api":"http://api.moguapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"1080资源库","name":"1080资源库","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"TOM资源","name":"TOM资源","type":1,"api":"https://api.tomcaiji.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
