@@ -17,7 +17,7 @@
 影视[酷狗资源,https://kugouzy21.com/api.php/provide/vod/at/xml,解析]
 影视[U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析]
 影视[淘片资源,https://taopianapi.com/home/cjapi/as/mc10/vod/xml,解析]
-影视[一帆资源(VPN),http://api.if101.tv/v1/vod?ac=list,解析]
+影视[海外看资源(VPN),http://api.haiwaikan.com/api.php/provide/vod/at/xml,解析]
 影视[789盘,https://www.rrvipw.com/api.php/provide/vod/at/xml,解析]
 影视[爱酷影视,https://www.zhanlangbu.com/api.php/provide/vod/at/xml,解析]
 影视[土剧TV,http://tujutv.top/api.php/provide/vod/at/xml,解析]
