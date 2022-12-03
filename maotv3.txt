@@ -341,7 +341,7 @@
 {"key":"酷狗资源","name":"酷狗资源","type":1,"api":"https://kugouzy21.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"淘片资源","name":"淘片资源","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"海外看资源(VPN)","name":"海外看资源(VPN)","type":1,"api":"http://api.haiwaikan.com/v1/vod?ac=list","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"海外看资源(VPN)","name":"海外看资源(VPN)","type":1,"api":"http://api.haiwaikan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"789盘","name":"789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"爱酷影视","name":"爱酷影视","type":1,"api":"https://www.zhanlangbu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"土剧TV","name":"土剧TV","type":1,"api":"http://tujutv.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
