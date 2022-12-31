@@ -1,6 +1,9 @@
 点播：
 523资源,https://caiji.523zyw.com/inc/api.php,解析
 155资源,https://155api.com/api.php/provide/vod/at/xml,解析
+武大郎资源,https://m3u8.apiwdlzyw.com/inc/api.php,解析
+黄瓜资源,https://www.zy018.com/api.php/provide/vod/at/xml,解析
+AV资源,http://api.avkk8zy.com/api.php/provide/vod/at/xml,解析
 丝袜资源,https://siwazyw.cc/api.php/provide/vod/at/xml,解析
 芒果资源,https://mgzyz1.com/api.php/provide/vod/at/xml,解析
 乐鱼资源,https://www.leyuzyapi.com/inc/api.php,解析
@@ -98,8 +101,6 @@ KK写真资源,https://kkzy.me/api.php/provide/vod/at/xml,解析
 花椒资源,https://apihjzy.com/api.php/provide/vod/at/xml,解析
 4000资源,http://4000zy.com/api.php/provide/vod/at/xml,解析
 61783,https://61783.xyz/api.php,解析
-爱看资源,http://www.aikanzyz9.com/inc/api.php,解析
-AVZY898资源,http://avzy898.com/inc/api.php,解析
 结束
 解析：
 parwix,https://jx.bozrc.com:4433/player/?url=
