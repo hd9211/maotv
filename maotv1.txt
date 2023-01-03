@@ -328,6 +328,7 @@
 {"key":"千橙资源","name":"千橙资源","type":1,"api":"http://124.223.10.96:8090/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"JSON官采","name":"JSON官采","type":1,"api":"https://cms.json.vin/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"爱酷影视","name":"爱酷影视","type":1,"api":"https://www.zhanlangbu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"零一资源","name":"零一资源","type":1,"api":"http://cj.lyiwl.com:40248/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -363,6 +364,7 @@
 {"key":"大眼资源","name":"大眼资源","type":1,"api":"http://api.dyzy888.com/api/maccms/json/m3u8","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"FOX资源","name":"FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"速更资源","name":"速更资源","type":1,"api":"https://sugengzy.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
