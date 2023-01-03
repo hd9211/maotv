@@ -6,6 +6,8 @@
 影视[千橙资源,http://124.223.10.96:8090/api.php/provide/vod/at/xml,解析]
 影视[JSON官采,https://cms.json.vin/api.php/provide/vod/at/xml,解析]
 影视[爱酷影视,https://www.zhanlangbu.com/api.php/provide/vod/at/xml,解析]
+影视[零一资源,http://cj.lyiwl.com:40248/api.php/provide/vod/at/xml,解析]
+##
 影视[U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析]
 影视[江南资源,https://api.yjiexi.com/provide/xml.html,解析]
 影视[淘片资源,https://taopianapi.com/home/cjapi/as/mc10/vod/xml,解析]
@@ -17,6 +19,7 @@
 影视[ACG动漫,https://acgcn.ml/api.php/provide/vod/at/xml,解析]
 影视[追剧达人,http://zjdr.tv/api.php/provide/vod/at/xml,解析]
 影视[木子看剧,https://mzkj.maccms.cf/api.php/provide/vod/at/xml,解析]
+##
 影视[极速BT资源,https://api.jisubt.com/videos?at=xml,解析]
 影视[最大资源,http://zuidazy.me/api.php/provide/vod/at/xml,解析]
 影视[大漠资源,http://zcw77777.com/api.php/provide/vod/at/xml,解析]
@@ -37,6 +40,7 @@
 影视[大眼资源,http://api.dyzy888.com/api/maccms/json/m3u8?at=xml,解析]
 影视[FOX资源,https://api.foxzyapi.com/api.php/provide/vod/at/xml,解析]
 影视[量子资源,http://cj.lziapi.com/api.php/provide/vod/at/xml,解析]
+影视[速更资源,https://sugengzy.cn/api.php/provide/vod/at/xml,解析]
 影视[卧龙资源,https://collect.wolongzyw.com/api.php/provide/vod/at/xml,解析]
 影视[红牛资源,https://www.hongniuzy2.com/api.php/provide/vod/at/xml,解析]
 影视[樱花资源,https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml,解析]
@@ -58,6 +62,7 @@
 影视[FF9资源,https://www.ff9.top/api.php/provide/vod/at/xml,解析]
 影视[南国影源,http://api.nguonphim.tv/api.php/provide/vod/at/xml,解析]
 影视[看看资源,https://zy.hikan.xyz/api.php/provide/vod/at/xml,解析]
+##
 影视[影图,https://cj.vodimg.top/api.php/provide/vod/at/xml,解析]
 影视[飘零影院,https://p2100.net/api.php/provide/vod/at/xml,解析]
 影视[臭弟弟资源,https://www.choudidi.top/zyapi.php,解析]
@@ -74,6 +79,7 @@
 影视[飘花电影,http://www.zzrhgg.com/api.php/provide/vod/at/xml,解析]
 影视[网民电影,https://www.prinevillesda.org/api.php/provide/vod/at/xml,解析]
 影视[MBO影视,https://www.mbomovie.com/api.php/provide/vod/at/xml/,解析]
+##
 影视[523资源,https://caiji.523zyw.com/inc/api.php,解析]
 影视[155资源,https://155api.com/api.php/provide/vod/at/xml,解析]
 影视[武大郎资源,https://m3u8.apiwdlzyw.com/inc/api.php,解析]
@@ -173,6 +179,7 @@
 影视[鲨鱼资源,https://shayuapi.com/api.php/provide/vod/at/xml,解析]
 影视[速度资源,http://www.ggmmzy.com:9999/inc/xml,解析]
 影视[KK写真资源,https://kkzy.me/api.php/provide/vod/at/xml,解析]
+##
 影视[麒麟资源,https://www.qilinzyz.com/api.php/provide/vod/at/xml,解析]
 影视[8090资源,http://zy.yilans.net/api.php/provide/vod/at/xml,解析]
 影视[椰子资源,https://zy.gbxy.net.cn/api.php/provide/vod/at/xml,解析]
