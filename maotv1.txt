@@ -323,9 +323,9 @@
 {"key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"搬运工","name":"搬运工","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"诺讯","name":"诺讯","type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"小猫咪","name":"小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"忆梦","name":"忆梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"千橙资源","name":"千橙资源","type":1,"api":"http://124.223.10.96:8090/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"JSON官采","name":"JSON官采","type":1,"api":"https://cms.json.vin/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"爱酷影视","name":"爱酷影视","type":1,"api":"https://www.zhanlangbu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"零一资源","name":"零一资源","type":1,"api":"http://cj.lyiwl.com:40248/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -341,7 +341,6 @@
 {"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"ACG动漫","name":"ACG动漫","type":1,"api":"https://acgcn.ml/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"追剧达人","name":"追剧达人","type":1,"api":"http://zjdr.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"木子看剧","name":"木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 {"key":"极速BT资源","name":"极速BT资源","type":1,"api":"https://api.jisubt.com/videos","playUrl":"","searchable":1,"quickSearch":1},
