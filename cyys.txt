@@ -2,9 +2,9 @@
 6U资源,http://www.6uzy.cc/inc/api.php,解析
 天堂资源,http://vipmv.cc/api.php/provide/vod/at/xml,解析
 搬运工,https://cj.banyung.xyz/?at=xml,解析
+诺讯,https://caiji.nxflv.com/api.php/provide/vod/at/xml,解析
 小猫咪,http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml,解析
 忆梦,http://anltv.cn/api.php/provide/vod/at/xml,解析
-千橙资源,http://124.223.10.96:8090/api.php/provide/vod/at/xml,解析
 JSON官采,https://cms.json.vin/api.php/provide/vod/at/xml,解析
 爱酷影视,https://www.zhanlangbu.com/api.php/provide/vod/at/xml,解析
 U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
@@ -17,7 +17,6 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 乐活影视,https://lehootv.com/api.php/provide/vod/at/xml,解析
 ACG动漫,https://acgcn.ml/api.php/provide/vod/at/xml,解析
 追剧达人,http://zjdr.tv/api.php/provide/vod/at/xml,解析
-木子看剧,https://mzkj.maccms.cf/api.php/provide/vod/at/xml,解析
 极速BT资源,https://api.jisubt.com/videos?at=xml,解析
 最大资源,http://zuidazy.me/api.php/provide/vod/at/xml,解析
 大漠资源,http://zcw77777.com/api.php/provide/vod/at/xml,解析
