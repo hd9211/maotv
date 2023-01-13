@@ -6,7 +6,7 @@
 影视[忆梦,http://anltv.cn/api.php/provide/vod/at/xml,解析]
 影视[JSON官采,https://cms.json.vin/api.php/provide/vod/at/xml,解析]
 影视[爱酷影视,https://www.zhanlangbu.com/api.php/provide/vod/at/xml,解析]
-影视[零一资源,http://cj.lyiwl.com:40248/api.php/provide/vod/at/xml,解析]
+影视[M3U8TV,https://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析]
 ##
 影视[U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析]
 影视[江南资源,https://api.yjiexi.com/provide/xml.html,解析]
