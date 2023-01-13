@@ -328,7 +328,7 @@
 {"key":"忆梦","name":"忆梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"JSON官采","name":"JSON官采","type":1,"api":"https://cms.json.vin/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"爱酷影视","name":"爱酷影视","type":1,"api":"https://www.zhanlangbu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"零一资源","name":"零一资源","type":1,"api":"http://cj.lyiwl.com:40248/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"M3U8TV","name":"M3U8TV","type":1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
