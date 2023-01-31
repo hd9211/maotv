@@ -321,8 +321,10 @@
 
 
 {"key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"8090资源","name":"8090资源","type":1,"api":"http://zy.yilans.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"搬运工","name":"搬运工","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"明帝","name":"明帝","type":1,"api":"http://cj.md214.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"诺讯","name":"诺讯","type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"小猫咪","name":"小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"忆梦","name":"忆梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -336,7 +338,6 @@
 {"key":"淘片资源","name":"淘片资源","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"海外看资源(VPN)","name":"海外看资源(VPN)","type":1,"api":"https://haiwaikan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"人人影视","name":"人人影视","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"考拉TV","name":"考拉TV","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
 {"key":"映迷","name":"映迷","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"ACG动漫","name":"ACG动漫","type":1,"api":"https://acgcn.ml/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -345,7 +346,6 @@
 
 {"key":"极速BT资源","name":"极速BT资源","type":1,"api":"https://api.jisubt.com/videos","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"最大资源","name":"最大资源","type":1,"api":"http://zuidazy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"大漠资源","name":"大漠资源","type":1,"api":"http://zcw77777.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"天猫资源","name":"天猫资源","type":1,"api":"https://www.tianmaozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"快竞技资源","name":"快竞技资源","type":1,"api":"https://api.kjjapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"步步高资源","name":"步步高资源","type":1,"api":"https://api.yparse.com/api/json","playUrl":"","searchable":1,"quickSearch":1},
@@ -407,7 +407,6 @@
 
 {"key":"523资源","name":"523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","playUrl":"https://api.523zyw.com/?url=","searchable":1,"quickSearch":1},
 {"key":"155资源","name":"155资源","type":1,"api":"https://155api.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"武大郎资源","name":"武大郎资源","type":1,"api":"https://m3u8.apiwdlzyw.com/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"黄瓜资源","name":"黄瓜资源","type":1,"api":"https://www.zy018.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"AV资源","name":"AV资源","type":1,"api":"http://api.avkk8zy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"丝袜资源","name":"丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","playUrl":"https://help.siwazywcdn2.com:5278/m3u8.php?url=","searchable":1,"quickSearch":1},
@@ -436,7 +435,6 @@
 {"key":"雪豹资源","name":"雪豹资源","type":1,"api":"https://api.xbapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"森林资源","name":"森林资源","type":1,"api":"https://slapibf.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"玉兔资源","name":"玉兔资源","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"玉蝴蝶资源","name":"玉蝴蝶资源","type":1,"api":"https://jindiezy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"黄色资源","name":"黄色资源","type":1,"api":"https://hszy.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"奥斯卡资源","name":"奥斯卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"色南国资源","name":"色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -507,12 +505,12 @@
 
 
 {"key":"麒麟资源","name":"麒麟资源","type":1,"api":"https://www.qilinzyz.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"8090资源","name":"8090资源","type":1,"api":"http://zy.yilans.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"椰子资源","name":"椰子资源","type":1,"api":"https://zy.gbxy.net.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"融兴官采","name":"融兴官采","type":1,"api":"http://103.222.188.156:99/rongxingapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"酷狗资源","name":"酷狗资源","type":1,"api":"https://kugouzy21.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"雨哥哥影视","name":"雨哥哥影视","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"土剧TV","name":"土剧TV","type":1,"api":"http://tujutv.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"考拉TV","name":"考拉TV","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
 {"key":"思古影院","name":"思古影院","type":1,"api":"https://www.siguyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"ASMR","name":"ASMR","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"BL视频","name":"BL视频","type":1,"api":"https://bljiex.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
