@@ -23,6 +23,7 @@
 影视[极速BT资源,https://api.jisubt.com/videos?at=xml,解析]
 影视[最大资源,http://zuidazy.me/api.php/provide/vod/at/xml,解析]
 影视[天猫资源,https://www.tianmaozy.com/api.php/provide/vod/at/xml,解析]
+影视[天猫资源,188资源,https://www.188zy.org/api.php/provide/vod/at/xml,解析]
 影视[快竞技资源,https://api.kjjapi.com/api.php/provide/vod/at/xml,解析]
 影视[步步高资源,https://api.yparse.com/api/xml,解析]
 影视[金鹰资源,https://jyzyapi.com/provide/vod/at/xml,解析]
