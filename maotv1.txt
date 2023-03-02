@@ -350,6 +350,7 @@
 {"key":"188资源","name":"188资源","type":1,"api":"https://www.188zy.org/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"68资源","name":"68资源","type":1,"api":"https://caiji.68zyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"可可资源","name":"可可资源","type":1,"api":"https://caiji.kekezyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"乐博资源","name":"乐博资源","type":1,"api":"https://lebcj.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"快竞技资源","name":"快竞技资源","type":1,"api":"https://api.kjjapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"步步高资源","name":"步步高资源","type":1,"api":"https://api.yparse.com/api/json","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
