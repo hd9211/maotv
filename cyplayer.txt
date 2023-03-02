@@ -24,6 +24,7 @@
 影视[188资源,https://www.188zy.org/api.php/provide/vod/at/xml,解析]
 影视[68资源,https://caiji.68zyapi.com/api.php/provide/vod/at/xml,解析]
 影视[可可资源,https://caiji.kekezyapi.com/api.php/provide/vod/at/xml,解析]
+影视[乐博资源,https://lebcj.com/api.php/provide/vod/at/xml,解析]
 影视[快竞技资源,https://api.kjjapi.com/api.php/provide/vod/at/xml,解析]
 影视[步步高资源,https://api.yparse.com/api/xml,解析]
 影视[金鹰资源,https://jyzyapi.com/provide/vod/at/xml,解析]
