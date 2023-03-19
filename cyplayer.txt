@@ -90,6 +90,7 @@
 影视[伊人资源,https://api.yirenziyuan.com/api.php/provide/vod/at/xml,解析]
 影视[老鸨资源,https://apilbzy.com/api.php/provide/vod/at/xml,解析]
 影视[鸡坤资源,https://jkunzyapi.com/api.php/provide/vod/at/xml,解析]
+影视[开云资源,https://kaiyunzy4.com/inc/api.php,解析]
 影视[奥斯卡资源,https://aosikazy.com/api.php/provide/vod/at/xml,解析]
 影视[色南国资源,https://api.sexnguon.com/api.php/provide/vod/at/xml,解析]
 影视[色屌丝资源,http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml,解析]
