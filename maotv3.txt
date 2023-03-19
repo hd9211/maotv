@@ -420,6 +420,7 @@
 {"key":"伊人资源","name":"伊人资源","type":1,"api":"https://api.yirenziyuan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"老鸨资源","name":"老鸨资源","type":1,"api":"https://apilbzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"鸡坤资源","name":"鸡坤资源","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"开云资源","name":"开云资源","type":1,"api":"https://kaiyunzy4.com/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"奥斯卡资源","name":"奥斯卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"色南国资源","name":"色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"色屌丝资源","name":"色屌丝资源","type":0,"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml","playUrl":"","searchable":1,"quickSearch":1},
