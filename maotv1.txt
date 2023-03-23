@@ -339,6 +339,10 @@
 {"key":"人人影视","name":"人人影视","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"映迷","name":"映迷","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"蜜蜂影视","name":"蜜蜂影视","type":1,"api":"https://www.beeyao.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"高三影视","name":"高三影视","type":1,"api":"https://www.gaosan.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"米杏影视","name":"米杏影视","type":1,"api":"https://www.mixing.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"243影视","name":"243影视","type":1,"api":"https://www.knyu.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 {"key":"极速BT资源","name":"极速BT资源","type":1,"api":"https://api.jisubt.com/videos","playUrl":"","searchable":1,"quickSearch":1},
@@ -350,6 +354,7 @@
 {"key":"速博资源","name":"速博资源","type":1,"api":"https://subocaiji.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"极速资源","name":"极速资源","type":1,"api":"https://jszy.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"虎牙资源","name":"虎牙资源","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"夸克资源","name":"夸克资源","type":1,"api":"http://kuakezy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"快竞技资源","name":"快竞技资源","type":1,"api":"https://api.kjjapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"步步高资源","name":"步步高资源","type":1,"api":"https://api.yparse.com/api/json","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -393,6 +398,7 @@
 {"key":"阿里影视","name":"阿里影视","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"39影视","name":"39影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"飘花电影","name":"飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"新马影视","name":"新马影视","type":1,"api":"https://movie.gsl99.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 {"key":"小猫咪2","name":"小猫咪2","type":1,"api":"http://zy.rryy.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
