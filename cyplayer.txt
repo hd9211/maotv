@@ -4,6 +4,8 @@
 影视[搬运工,https://cj.banyung.xyz/?at=xml,解析]
 影视[明帝,https://ys.md214.cn/api.php/provide/vod/at/xml,解析]
 影视[小猫咪,http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml,解析]
+影视[诺讯资源,https://xxx.nxflv.com/api.php/provide/vod/at/xml,解析]
+影视[花旗资源,https://seacms.huaqi.live/zyapi.php,解析]
 影视[忆梦,http://anltv.cn/api.php/provide/vod/at/xml,解析]
 影视[JSON官采,https://cms.json.vin/api.php/provide/vod/at/xml,解析]
 影视[爱酷影视,https://www.zhanlangbu.com/api.php/provide/vod/at/xml,解析]
