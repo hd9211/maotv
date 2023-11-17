@@ -7,6 +7,7 @@
 影视[U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析]
 影视[淘片资源,https://taopianapi.com/cjapi/mc10/vod/xml.html,解析]
 影视[海外看资源(VPN),https://haiwaikan.com/api.php/provide/vod/at/xml,解析]
+影视[乐视资源,https://leshizyapi.com/api.php/provide/vod/at/xml,解析]
 影视[49资源,https://49zyw.com/api.php/provide/vod/at/xml,解析]
 影视[68资源,https://68zy88.com/api.php/provide/vod/at/xml,解析]
 影视[极品伦理,http://jpzy.me/api.php/provide/vod/at/xml,解析]
