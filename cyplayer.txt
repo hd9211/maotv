@@ -4,6 +4,7 @@
 影视[至圣云,http://82.156.40.118:1234/api.php/provide/vod/at/xml,解析]
 影视[阿里影视,http://aliys.cn:90/api.php/provide/vod/at/xml,解析]
 影视[小胡4K,http://c.xn--yetu07f.icu/api.php/provide/vod/at/xml,解析]
+影视[则奇,https://api.zeqaht.com/api.php/provide/vod/at/xml,解析]
 影视[种子短剧,https://zzdj.cc/api.php/provide/vod/at/xml,解析]
 影视[U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析]
 影视[一点切片,https://m3u8.movurl.xyz/api.php/provide/vod/at/xml,解析]
