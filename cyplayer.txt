@@ -69,6 +69,7 @@
 影视[票厂影视,http://101.43.119.105:88/api.php/provide/vod/at/xml,解析]
 影视[155资源,https://155api.com/api.php/provide/vod/at/xml,解析]
 影视[好色资源,https://haosezyw.com/api.php/provide/vod/at/xml,解析]
+影视[优优资源,https://jk1.yycmszywapi.cc/api.php/provide/vod/at/xml,解析]
 影视[白兔资源,https://api.btuapi.com/api.php/provide/vod/at/xml,解析]
 影视[色色虎,https://apisesehuzy.com/api.php/provide/vod/at/xml,解析]
 影视[阿里BB仓库,https://bbckzy8.cc/api.php/provide/vod/at/xml,解析]
