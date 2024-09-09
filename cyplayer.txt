@@ -145,6 +145,8 @@
 解析[华为吧（旧）,https://dp.hw8.live/player/?url=]
 解析[九月,https://www.9yuezy.com/m3u8/?url=]
 解析[九月（备用）,https://www.jiuyuezy.live/m3u8/?url=]
+解析[18X 丝袜,https://help.siwam3u8.com:5278/m3u8.php?url=]
+解析[18X GZY,https://gayzyjiexi.com/play/?url=]
 解析[OK资源,https://jiexi.okzyw.info/m3u8/?url=]
 解析[HLS Player,https://www.hlsplayer.org/play?url=]
 解析[量子,https://lziplayer.com/?url=]
@@ -195,6 +197,7 @@
 解析[番茄,https://dp.fqplayer.com/dplayer/?url=]
 解析[鱼乐,https://jx.ylbfq.com/dplayer/?url=]
 解析[探探,https://jiexi.ttbfp1.com/m3u8/?url=]
+
 解析[XGJ专线,http://43.248.100.147:1122/bba/xgjjson.php?url=]
 解析[XMY专线,http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=]
 解析[LX专线,http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=]
