@@ -79,6 +79,7 @@
 影视[杏吧资源,https://xingba111.com/api.php/provide/vod/at/xml,解析]
 影视[YES资源,https://www.yeszy1.com/api.php/provide/vod/at/xml,解析]
 影视[番茄资源,https://fqzy4.me/api.php/provide/vod/at/xml,解析]
+影视[黄色仓库,https://hsckzy.vip/api.php/provide/vod/at/xml,解析]
 
 解析[1080ZYK,https://vip.zykbf.com/?url=]
 解析[1080ZYK（优质资源库）备用,https://vip.yyzyplay.com/?url=]
